@@ -68,6 +68,7 @@ The repository is organized into modular components to allow each team member to
     ├── requirements.txt
     ├── .gitignore
     └── README.md
+```
 
 *** ! You can Adjust your specific folders, those are just a template. But, try not to break the structure too much, please ;> ! ***
 
@@ -85,6 +86,7 @@ The repository is organized into modular components to allow each team member to
     │
     ├── General Summarizer (T5/DistilBART)
     └── Speaker-Specific Summarizer
+```
 
 ### Full description of each folder(Please, update if you change anything):
 *** data/ ***
