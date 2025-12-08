@@ -18,7 +18,8 @@ The system supports:
 The repository is organized into modular components to allow each team member to work independently and integrate seamlessly.
 
 ### Repository structure: 
-```final_project/
+```
+    final_project/
     │
     ├── data/
     │   ├── raw_audio/                 # Original audio files
@@ -73,7 +74,8 @@ The repository is organized into modular components to allow each team member to
 *** ! You can Adjust your specific folders, those are just a template. But, try not to break the structure too much, please ;> ! ***
 
 ### How the components work together : 
-```Audio File
+```
+    Audio File
     │
     ▼
     ASR (Whisper) 
