@@ -90,7 +90,7 @@ The repository is organized into modular components to allow each team member to
     └── Speaker-Specific Summarizer
 ```
 
-### Full description of each folder(Please, update if you change anything):
+### Full description of each folder(Please, update after you write your part):
 *** data/ ***
 
 - All data files are organized here to keep the code clean.
@@ -102,10 +102,10 @@ The repository is organized into modular components to allow each team member to
 
 ### Setup instructions
 1) Clone repository
-2) reate virtual environment
+2) Create virtual environment
     python3 -m venv venv
     source venv/bin/activate
-3) Install dependencies: 
+3) Install dependencies(update the file if your code context created new dependencies): 
     pip install -r requirements.txt
 
 ### Contribution Guide
