@@ -29,18 +29,18 @@ final_project/
 │   └── gold/                      # Manually created transcripts/summaries for evaluation
 │
 ├── src/
-│   ├── asr/                       # ASR module (Person 1)
+│   ├── asr/                       # ASR module (Zhaniya)
 │   │   ├── preprocess_audio.py        # Audio loading, resampling, cleaning
 │   │   ├── run_whisper.py             # Whisper transcription runner
 │   │   ├── whisper_utils.py           # Helper functions for Whisper output handling
 │   │   └── asr_pipeline.py            # Full ASR pipeline (importable by other modules)
 │   │
-│   ├── diarization/               # Diarization module (Person 2)
+│   ├── diarization/               # Diarization module (Akzhan)
 │   │   ├── run_whisperx.py             # WhisperX diarization scripts
 │   │   ├── merge_asr_diarization.py    # Align ASR timestamps with speaker info
 │   │   └── diarization_pipeline.py     # Unified diarization pipeline
 │   │
-│   ├── summarization/             # Summarization module (Person 3)
+│   ├── summarization/             # Summarization module (Inkar)
 │   │   ├── textrank.py                 # Extractive summarization baseline (TextRank)
 │   │   ├── abstractive_t5.py           # T5-small summarizer
 │   │   ├── abstractive_distilbart.py   # DistilBART summarizer
@@ -60,7 +60,7 @@ final_project/
 │   ├── 04_E2E_demo.ipynb              # End-to-end demonstration
 │   └── 05_Evaluation.ipynb            # ROUGE evaluation & comparisons
 │
-├── tests/                            # Unit tests for each module
+├── tests/                            # Unit tests for each module(everyone does their own)
 │   ├── test_asr.py
 │   ├── test_diarization.py
 │   ├── test_summarization.py
@@ -113,6 +113,7 @@ Final JSON
 asr-dev -> zhaniya
 diarization-dev -> akzhan
 summarization-dev -> inkar
+tests -> everyone
 integration -> zhaniya
 main -> zhaniya
 
