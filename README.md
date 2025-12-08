@@ -19,75 +19,75 @@ The repository is organized into modular components to allow each team member to
 
 ### Repository structure: 
 ```
-    final_project/
-    │
-    ├── data/
-    │   ├── raw_audio/                 # Original audio files
-    │   ├── transcripts_asr/           # Whisper transcription outputs (timestamps)
-    │   ├── transcripts_diarized/      # WhisperX diarized transcripts (speaker labels)
-    │   ├── final_json/                # Unified JSON format used for summarization
-    │   └── gold/                      # Manually created transcripts/summaries for evaluation
-    │
-    ├── src/
-    │   ├── asr/                       # ASR module (Person 1)
-    │   │   ├── preprocess_audio.py        # Audio loading, resampling, cleaning
-    │   │   ├── run_whisper.py             # Whisper transcription runner
-    │   │   ├── whisper_utils.py           # Helper functions for Whisper output handling
-    │   │   └── asr_pipeline.py            # Full ASR pipeline (importable by other modules)
-    │   │
-    │   ├── diarization/               # Diarization module (Person 2)
-    │   │   ├── run_whisperx.py             # WhisperX diarization scripts
-    │   │   ├── merge_asr_diarization.py    # Align ASR timestamps with speaker info
-    │   │   └── diarization_pipeline.py     # Unified diarization pipeline
-    │   │
-    │   ├── summarization/             # Summarization module (Person 3)
-    │   │   ├── textrank.py                 # Extractive summarization baseline (TextRank)
-    │   │   ├── abstractive_t5.py           # T5-small summarizer
-    │   │   ├── abstractive_distilbart.py   # DistilBART summarizer
-    │   │   └── summarization_pipeline.py   # Main summarization orchestrator
-    │   │
-    │   ├── utils/                     # Shared helper utilities
-    │   │   ├── file_io.py
-    │   │   ├── json_formatter.py
-    │   │   └── chunking.py
-    │   │
-    │   └── pipeline.py                # End-to-end pipeline combining all components
-    │
-    ├── notebooks/
-    │   ├── 01_ASR_demo.ipynb              # Demo notebook for ASR module
-    │   ├── 02_Diarization_demo.ipynb      # Demo notebook for diarization
-    │   ├── 03_Summarization_demo.ipynb    # Demo notebook for summarization
-    │   ├── 04_E2E_demo.ipynb              # End-to-end demonstration
-    │   └── 05_Evaluation.ipynb            # ROUGE evaluation & comparisons
-    │
-    ├── tests/                            # Unit tests for each module
-    │   ├── test_asr.py
-    │   ├── test_diarization.py
-    │   ├── test_summarization.py
-    │   └── test_pipeline.py
-    │
-    ├── requirements.txt
-    ├── .gitignore
-    └── README.md
+final_project/
+│
+├── data/
+│   ├── raw_audio/                 # Original audio files
+│   ├── transcripts_asr/           # Whisper transcription outputs (timestamps)
+│   ├── transcripts_diarized/      # WhisperX diarized transcripts (speaker labels)
+│   ├── final_json/                # Unified JSON format used for summarization
+│   └── gold/                      # Manually created transcripts/summaries for evaluation
+│
+├── src/
+│   ├── asr/                       # ASR module (Person 1)
+│   │   ├── preprocess_audio.py        # Audio loading, resampling, cleaning
+│   │   ├── run_whisper.py             # Whisper transcription runner
+│   │   ├── whisper_utils.py           # Helper functions for Whisper output handling
+│   │   └── asr_pipeline.py            # Full ASR pipeline (importable by other modules)
+│   │
+│   ├── diarization/               # Diarization module (Person 2)
+│   │   ├── run_whisperx.py             # WhisperX diarization scripts
+│   │   ├── merge_asr_diarization.py    # Align ASR timestamps with speaker info
+│   │   └── diarization_pipeline.py     # Unified diarization pipeline
+│   │
+│   ├── summarization/             # Summarization module (Person 3)
+│   │   ├── textrank.py                 # Extractive summarization baseline (TextRank)
+│   │   ├── abstractive_t5.py           # T5-small summarizer
+│   │   ├── abstractive_distilbart.py   # DistilBART summarizer
+│   │   └── summarization_pipeline.py   # Main summarization orchestrator
+│   │
+│   ├── utils/                     # Shared helper utilities
+│   │   ├── file_io.py
+│   │   ├── json_formatter.py
+│   │   └── chunking.py
+│   │
+│   └── pipeline.py                # End-to-end pipeline combining all components
+│
+├── notebooks/
+│   ├── 01_ASR_demo.ipynb              # Demo notebook for ASR module
+│   ├── 02_Diarization_demo.ipynb      # Demo notebook for diarization
+│   ├── 03_Summarization_demo.ipynb    # Demo notebook for summarization
+│   ├── 04_E2E_demo.ipynb              # End-to-end demonstration
+│   └── 05_Evaluation.ipynb            # ROUGE evaluation & comparisons
+│
+├── tests/                            # Unit tests for each module
+│   ├── test_asr.py
+│   ├── test_diarization.py
+│   ├── test_summarization.py
+│   └── test_pipeline.py
+│
+├── requirements.txt
+├── .gitignore
+└── README.md
 ```
 
 *** ! You can Adjust your specific folders, those are just a template. But, try not to break the structure too much, please ;> ! ***
 
 ### How the components work together : 
 ```
-    Audio File
-    │
-    ▼
-    ASR (Whisper) 
-    │  produces timestamps
-    ▼
-    Diarization (WhisperX)
-    │  assigns speakers
-    ▼
-    Final JSON 
-    │
-    ├── General Summarizer (T5/DistilBART)
-    └── Speaker-Specific Summarizer
+Audio File
+│
+▼
+ASR (Whisper) 
+│  produces timestamps
+▼
+Diarization (WhisperX)
+│  assigns speakers
+▼
+Final JSON 
+│
+├── General Summarizer (T5/DistilBART)
+└── Speaker-Specific Summarizer
 ```
 
 ### Full description of each folder(Please, update after you write your part):
