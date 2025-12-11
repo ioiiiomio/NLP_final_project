@@ -42,8 +42,8 @@ final_project/
 │   │
 │   ├── summarization/             # Summarization module (Inkar)
 │   │   ├── textrank.py                 # Extractive summarization baseline (TextRank)
-│   │   ├── abstractive_t5.py           # T5-small summarizer
-│   │   ├── abstractive_distilbart.py   # DistilBART summarizer
+│   │   ├── abstractive_general.py           # T5-small summarizer
+│   │   ├── abstractive_meeting.py   # DistilBART summarizer
 │   │   └── summarization_pipeline.py   # Main summarization orchestrator
 │   │
 │   ├── utils/                     # Shared helper utilities

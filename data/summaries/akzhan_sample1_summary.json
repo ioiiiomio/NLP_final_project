@@ -1,0 +1,184 @@
+{
+  "metadata": {
+    "input_file": "akzhan_sample1.json",
+    "processing_time": "2025-12-11 19:54:49",
+    "total_segments": 21,
+    "reaction_segments": 10,
+    "total_speakers": 4,
+    "duration_seconds": 243.994,
+    "duration_formatted": "04:03",
+    "conversation_type": "interview",
+    "is_meeting": true,
+    "monologue_confidence": 0.636,
+    "model_type_used": "interview",
+    "chunk_size_minutes": 2
+  },
+  "mode": "meeting",
+  "summaries": {
+    "textrank_extractive": "Yes, so I always knew that I wanted to go to America because I really loved the opportunity to explore various academic fields before committing to one and I applied to Yale because it's one of the best universities in the world and it's very well known for its liberal arts degree where you can  do whatever classes you want and choose your major only at the end of your second year, which I found it very appealing because I was still, while I was applying, I was still kind of choosing what I wanted to do. What was the first person that you tell that you got into Yale? What were your feelings and like when you got like early notification that you got in and like you don't have to apply RG school During all the stress and then from December you're free from school It was such a good feeling. So could you please explain what major are you doing and what A levels you took at Hailey Berry and talk more about yourself?.",
+    "abstractive_full": "Speaker 0 is a Hailey Berry Almaty class of 2020 alumna. Speaker 3 graduated Halle Berry three years ago, class of 2022. Speaker 0 applied early to Yale, early action, because she wanted to explore various academic fields before committing to one.",
+    "abstractive_model": "philschmid/bart-large-cnn-samsum"
+  },
+  "temporal_analysis": {
+    "minute_chunks": [
+      {
+        "chunk_index": 0,
+        "chunk_id": "chunk_000",
+        "start": "00:00",
+        "end": "01:18",
+        "duration_seconds": 78.61,
+        "summary": "Hailey Berry alumni, Yale students, Gauhar and Danat are on the podcast. Gauhar is a Hailey Berry Almaty class of 2020 alumna studying chemical engineering at Yale. Danat graduated Halle Berry class of 2022 three years ago studying economics.",
+        "model_used": "philschmid/bart-large-cnn-samsum",
+        "model_type": "interview",
+        "speakers": [
+          "Speaker 2",
+          "Speaker 3",
+          "Speaker 0"
+        ],
+        "line_count": 3
+      },
+      {
+        "chunk_index": 1,
+        "chunk_id": "chunk_001",
+        "start": "01:25",
+        "end": "02:27",
+        "duration_seconds": 61.18,
+        "summary": "Speaker 0 applied to Yale early as she wanted to explore various academic fields before committing to one and she liked the idea of being able to choose her major only at the end of her second year. Speaker 1 applied early as he didn't know what he wanted to do.",
+        "model_used": "philschmid/bart-large-cnn-samsum",
+        "model_type": "interview",
+        "speakers": [
+          "Speaker 1",
+          "Speaker 2",
+          "Speaker 0"
+        ],
+        "line_count": 3
+      },
+      {
+        "chunk_index": 2,
+        "chunk_id": "chunk_002",
+        "start": "02:27",
+        "end": "03:02",
+        "duration_seconds": 35.68,
+        "summary": "Speaker 0 got early notification that she got into Yale. She prepared all her essays for regular, but she didn't end up sending them out. Speaker 1 was the first person to tell her that she had got in.",
+        "model_used": "philschmid/bart-large-cnn-samsum",
+        "model_type": "interview",
+        "speakers": [
+          "Speaker 1",
+          "Speaker 2",
+          "Speaker 0"
+        ],
+        "line_count": 3
+      },
+      {
+        "chunk_index": 3,
+        "chunk_id": "chunk_003",
+        "start": "03:03",
+        "end": "04:03",
+        "duration_seconds": 60.25,
+        "summary": "Speaker 0 accidentally accessed the portal at 5 a.m. in Almaty because it comes out during the day in America. Speaker 3 was interested in math, physics and economics. Speaker 0 and Danan were interested in liberal arts education.",
+        "model_used": "philschmid/bart-large-cnn-samsum",
+        "model_type": "interview",
+        "speakers": [
+          "Speaker 3",
+          "Speaker 0"
+        ],
+        "line_count": 2
+      }
+    ],
+    "total_chunks": 4
+  },
+  "speaker_analysis": {
+    "Speaker 2": {
+      "summary": "Hailey Berry alumni, Yale students, Gauhar and Danat are the speakers on the podcast. Gauhar explains her major and what she took at Hailey Berry and why she applied to Yale in the first place. Danat talks about the good feeling when he got early notification that he got in.",
+      "model_used": "philschmid/bart-large-cnn-samsum",
+      "model_type": "interview",
+      "utterance_count": 3,
+      "word_count": 101,
+      "avg_words_per_utterance": 33.7,
+      "time_range": {
+        "start": "00:00",
+        "end": "02:40"
+      }
+    },
+    "Speaker 0": {
+      "summary": "Hailey Berry Almaty class of 2020 alumna is currently in her fourth year at Yale University studying chemical engineering. She applied early to Yale because she loved the opportunity to explore various academic fields before committing to one. Danan applied to Yale as well, but he didn't have to commit to the university.",
+      "model_used": "philschmid/bart-large-cnn-samsum",
+      "model_type": "interview",
+      "utterance_count": 4,
+      "word_count": 349,
+      "avg_words_per_utterance": 87.2,
+      "time_range": {
+        "start": "00:20",
+        "end": "03:35"
+      }
+    },
+    "Speaker 3": {
+      "summary": "Speaker 3 graduated Halle Berry three years ago, class of 2022. Now he studies economics at Yale. He is interested in finance and liberal arts education. He didn't know exactly what he wanted to do, so he took different classes in different fields to explore his interests.",
+      "model_used": "philschmid/bart-large-cnn-samsum",
+      "model_type": "interview",
+      "utterance_count": 2,
+      "word_count": 121,
+      "avg_words_per_utterance": 60.5,
+      "time_range": {
+        "start": "00:55",
+        "end": "04:03"
+      }
+    },
+    "Speaker 1": {
+      "summary": "The first person speaker 1 tells that he got into Yale was the first person that he told that he had applied early or had an early decision, regular or early action, he didn't tell anyone that he'd got in Yale.",
+      "model_used": "philschmid/bart-large-cnn-samsum",
+      "model_type": "interview",
+      "utterance_count": 2,
+      "word_count": 34,
+      "avg_words_per_utterance": 17.0,
+      "time_range": {
+        "start": "01:30",
+        "end": "03:02"
+      }
+    }
+  },
+  "conversation_analysis": {
+    "speaker_count": 4,
+    "total_utterances": 11,
+    "total_words": 605,
+    "reaction_count": 10,
+    "question_count": 6,
+    "avg_utterance_length": 55.0,
+    "speaker_distribution": [
+      {
+        "speaker": "Speaker 0",
+        "utterances": 4,
+        "words": 349,
+        "questions": 2,
+        "avg_words": 87.25,
+        "percentage": 36.36363636363637
+      },
+      {
+        "speaker": "Speaker 2",
+        "utterances": 3,
+        "words": 101,
+        "questions": 2,
+        "avg_words": 33.666666666666664,
+        "percentage": 27.27272727272727
+      },
+      {
+        "speaker": "Speaker 3",
+        "utterances": 2,
+        "words": 121,
+        "questions": 0,
+        "avg_words": 60.5,
+        "percentage": 18.181818181818183
+      },
+      {
+        "speaker": "Speaker 1",
+        "utterances": 2,
+        "words": 34,
+        "questions": 2,
+        "avg_words": 17.0,
+        "percentage": 18.181818181818183
+      }
+    ],
+    "dominant_speaker": "Speaker 0",
+    "dominant_percentage": 36.4
+  }
+}

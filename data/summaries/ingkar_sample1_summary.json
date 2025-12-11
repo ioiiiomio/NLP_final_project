@@ -1,0 +1,82 @@
+{
+    "mode": "meeting",
+    "textrank_summary": "We need to confirm the CI stages, the deployment workflow, and access permissions. From the QA side, we need the automated test stage to run on every pull request. We need to request additional CPU and memory from the infra team before enabling full parallelization. The Jenkins instance is running, but the agents still need configuration.",
+    "abstractive_full_summary": "Alright team, let’s begin. If all stages pass, we can approve it for next week's rollout.",
+    "minute_chunks": [
+        {
+            "start": "00:00",
+            "end": "00:59",
+            "summary": "Alright team, let’s begin. The goal today is to finalize the DevOps pipeline so engineering can start using it next week. We need to confirm the CI stages, the deployment workflow, and access permissions. The Jenkins instance is running, but the agents still need configuration. Currently only the build agent is active, and we have not set up the test or deploy executors yet."
+        },
+        {
+            "start": "01:00",
+            "end": "01:59",
+            "summary": "From the QA side, we need the automated test stage to run on every pull request. Right now tests run only on the main branch, which slows down validation. Having PR-level checks will help catch issues earlier. Security concern here: before enabling PR builds, we must ensure secrets are masked. Some environment variables in the staging deploy script are still in plain text. We need encryption through Vault."
+        },
+        {
+            "start": "02:00",
+            "end": "02:59",
+            "summary": "Regarding deployment, we must finalize whether we use a blue-green strategy or canary releases. Our infrastructure supports both, but blue-green is easier to demonstrate for the first version. Let’s keep blue-green for the initial rollout. Canary can be added once monitoring dashboards mature. Speaking of dashboards, what is the status of Prometheus and Grafana?"
+        },
+        {
+            "start": "03:00",
+            "end": "03:59",
+            "summary": "Prometheus is scraping metrics from the application pods, but Grafana panels are still bare. We need to define KPIs—CPU, memory, request latency, and deploy success rate. For test results visualization, we want Grafana to ingest JUnit reports. There’s already a plugin for that, but it needs data transformation. I can configure it once the pipeline exports the XML results."
+        },
+        {
+            "start": "04:00",
+            "end": "04:59",
+            "summary": "Before that, we should finalize branch protection rules. Developers shouldn't bypass the CI checks. Also, deployments to staging should be triggered only from the develop branch. And production deployments should happen only from main and require manual approval."
+        },
+        {
+            "start": "05:00",
+            "end": "05:59",
+            "summary": "Agreed. Now, let’s talk about containerization. Are we standardizing the Dockerfile format across microservices? Last week some services still used legacy base images. Yes, updating. All services will use Alpine-based images with the same build templates. The pipeline will enforce linting of Dockerfiles and fail if base images do not meet security policies."
+        },
+        {
+            "start": "06:00",
+            "end": "06:59",
+            "summary": "QA team needs static security scans integrated as well. We want Snyk or Trivy running before deployment to staging. That will reduce vulnerabilities slipping through. Trivy is already installed. We just need to define severity thresholds. I suggest blocking anything medium and above for now. Later we can adjust depending on team velocity."
+        },
+        {
+            "start": "07:00",
+            "end": "07:59",
+            "summary": "About artifact storage—are we keeping everything in Nexus, or using GitHub Packages? Nexus gives more control but requires maintenance. GitHub Packages is simpler for developers. Let's standardize on Nexus for now to maintain internal versioning policies. We can still mirror some critical libraries to GitHub if needed."
+        },
+        {
+            "start": "08:00",
+            "end": "08:59",
+            "summary": "Pipeline caching is another topic. Right now builds take around seven minutes. Enabling dependency caching could cut that time in half. We just need storage for cache volumes. Please also add parallel testing. Our suite can be split into five chunks. Running them in parallel would reduce test time from twelve minutes to about four."
+        },
+        {
+            "start": "09:00",
+            "end": "09:59",
+            "summary": "We must be careful with concurrency limits. The cluster nodes can handle parallel jobs, but not if deployments are running simultaneously. We should schedule limits in Jenkins. A related question: when do we add rollback automation? Blue-green deployments make it easy, but rollback scripts still need to be tested under load."
+        },
+        {
+            "start": "10:00",
+            "end": "10:59",
+            "summary": "Rollback testing will be part of next sprint. Right now, focus on stability for the pipeline’s first release. Once monitoring is reliable, we can automate rollback triggers. On the operational side, we need notifications. Slack alerts should fire when builds fail, when tests fail, and when deployments succeed or fail."
+        },
+        {
+            "start": "11:00",
+            "end": "11:59",
+            "summary": "Please add alert throttling. Last time we got over 200 alerts because of a dependency issue. We need rate limiting to avoid overwhelming the team. Documentation is also missing. We must create a step-by-step guide describing each stage, required permissions, and how to trigger manual approvals. New developers will need this."
+        },
+        {
+            "start": "12:00",
+            "end": "12:59",
+            "summary": "I can take responsibility for documenting the deployment process—blue-green strategy, health checks, and rollback steps. Someone else needs to document CI configuration. Great. Let’s assign owners: documentation for CI stages goes to DevOps, deployment documentation to Engineering, and QA will prepare notes on automated tests and coverage."
+        },
+        {
+            "start": "13:00",
+            "end": "13:59",
+            "summary": "One last blocker: the staging namespace is running out of resources. We need to request additional CPU and memory from the infra team before enabling full parallelization. I’ll open a ticket today. Until they upgrade the nodes, some pipeline parallel steps may remain disabled."
+        },
+        {
+            "start": "14:00",
+            "end": "14:59",
+            "summary": "Okay. From a security perspective, the only remaining tasks are Vault integration and rotating the Jenkins credentials. Both must be done before we go live. Understood. Once those are complete, we can run a full end-to-end test of the pipeline. If all stages pass, we can approve it for next week's rollout."
+        }
+    ]
+}
