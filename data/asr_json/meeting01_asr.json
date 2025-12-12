@@ -126,7 +126,7 @@
     {
       "start": 8.525,
       "end": 17.037,
-      "text": "So could you please explain what major are you doing and what A levels you took at Hailey Berry and talk more about yourself?",
+      "text": "So could you please explain what major are you doing and what A-levels you took at Hailey Berry and talk more about yourself?",
       "words": [
         {
           "word": "So",
@@ -180,7 +180,7 @@
           "word": "you",
           "start": 12.13,
           "end": 12.23,
-          "score": 0.92
+          "score": 0.921
         },
         {
           "word": "doing",
@@ -201,16 +201,10 @@
           "score": 0.876
         },
         {
-          "word": "A",
+          "word": "A-levels",
           "start": 13.752,
-          "end": 13.832,
-          "score": 0.636
-        },
-        {
-          "word": "levels",
-          "start": 13.853,
           "end": 14.113,
-          "score": 0.707
+          "score": 0.731
         },
         {
           "word": "you",
@@ -418,7 +412,7 @@
           "word": "2020",
           "start": 22.264,
           "end": 22.564,
-          "score": 0.716
+          "score": 0.717
         },
         {
           "word": "alumna,",
@@ -436,7 +430,7 @@
           "word": "I'm",
           "start": 23.946,
           "end": 24.046,
-          "score": 0.756
+          "score": 0.757
         },
         {
           "word": "currently",
@@ -827,7 +821,7 @@
           "word": "French",
           "start": 47.531,
           "end": 47.872,
-          "score": 0.913
+          "score": 0.912
         },
         {
           "word": "and",
@@ -992,7 +986,7 @@
           "word": "class",
           "start": 58.344,
           "end": 58.585,
-          "score": 0.905
+          "score": 0.904
         },
         {
           "word": "of",
@@ -2423,8 +2417,8 @@
     },
     {
       "start": 147.266,
-      "end": 160.767,
-      "text": " What were your feelings and like when you got like early notification that you got in and like you don't have to apply RG school During all the stress and then from December you're free from school It was such a good feeling.",
+      "end": 153.816,
+      "text": " What were your feelings when you got early notification that you got in and you don't have to apply to R.G.",
       "words": [
         {
           "word": "What",
@@ -2451,18 +2445,6 @@
           "score": 0.801
         },
         {
-          "word": "and",
-          "start": 148.808,
-          "end": 148.909,
-          "score": 0.643
-        },
-        {
-          "word": "like",
-          "start": 148.929,
-          "end": 149.149,
-          "score": 0.885
-        },
-        {
           "word": "when",
           "start": 149.81,
           "end": 150.09,
@@ -2479,12 +2461,6 @@
           "start": 150.251,
           "end": 150.351,
           "score": 0.719
-        },
-        {
-          "word": "like",
-          "start": 150.411,
-          "end": 150.531,
-          "score": 0.984
         },
         {
           "word": "early",
@@ -2529,12 +2505,6 @@
           "score": 0.649
         },
         {
-          "word": "like",
-          "start": 152.634,
-          "end": 152.734,
-          "score": 0.989
-        },
-        {
           "word": "you",
           "start": 152.754,
           "end": 152.814,
@@ -2565,11 +2535,24 @@
           "score": 0.559
         },
         {
-          "word": "RG",
-          "start": 153.516,
-          "end": 153.816,
-          "score": 0.596
+          "word": "to",
+          "start": 153.476,
+          "end": 153.516,
+          "score": 0.457
         },
+        {
+          "word": "R.G.",
+          "start": 153.596,
+          "end": 153.816,
+          "score": 0.71
+        }
+      ]
+    },
+    {
+      "start": 153.856,
+      "end": 155.499,
+      "text": "school during all the stress?",
+      "words": [
         {
           "word": "school",
           "start": 153.856,
@@ -2577,7 +2560,7 @@
           "score": 0.741
         },
         {
-          "word": "During",
+          "word": "during",
           "start": 154.717,
           "end": 154.938,
           "score": 0.948
@@ -2595,13 +2578,20 @@
           "score": 0.253
         },
         {
-          "word": "stress",
+          "word": "stress?",
           "start": 155.218,
-          "end": 155.479,
-          "score": 0.683
-        },
+          "end": 155.499,
+          "score": 0.629
+        }
+      ]
+    },
+    {
+      "start": 155.519,
+      "end": 157.842,
+      "text": "And then from December you're free from school.",
+      "words": [
         {
-          "word": "and",
+          "word": "And",
           "start": 155.519,
           "end": 155.579,
           "score": 0.905
@@ -2643,16 +2633,66 @@
           "score": 0.825
         },
         {
-          "word": "school",
+          "word": "school.",
           "start": 157.402,
-          "end": 157.822,
-          "score": 0.673
+          "end": 157.842,
+          "score": 0.718
+        }
+      ]
+    },
+    {
+      "start": 158.143,
+      "end": 158.924,
+      "text": "Yeah, not the case for me.",
+      "words": [
+        {
+          "word": "Yeah,",
+          "start": 158.143,
+          "end": 158.263,
+          "score": 0.172
         },
         {
-          "word": "It",
-          "start": 158.163,
+          "word": "not",
+          "start": 158.283,
+          "end": 158.363,
+          "score": 0.519
+        },
+        {
+          "word": "the",
+          "start": 158.383,
+          "end": 158.483,
+          "score": 0.439
+        },
+        {
+          "word": "case",
+          "start": 158.503,
           "end": 158.643,
-          "score": 0.463
+          "score": 0.659
+        },
+        {
+          "word": "for",
+          "start": 158.663,
+          "end": 158.784,
+          "score": 0.938
+        },
+        {
+          "word": "me.",
+          "start": 158.824,
+          "end": 158.924,
+          "score": 0.954
+        }
+      ]
+    },
+    {
+      "start": 159.365,
+      "end": 160.767,
+      "text": "It was such a good feeling.",
+      "words": [
+        {
+          "word": "It",
+          "start": 159.365,
+          "end": 159.425,
+          "score": 0.989
         },
         {
           "word": "was",
@@ -2688,8 +2728,8 @@
     },
     {
       "start": 160.787,
-      "end": 162.149,
-      "text": "I I don't know it.",
+      "end": 162.069,
+      "text": "I don't know.",
       "words": [
         {
           "word": "I",
@@ -2698,41 +2738,29 @@
           "score": 0.999
         },
         {
-          "word": "I",
-          "start": 161.027,
-          "end": 161.127,
-          "score": 0.912
-        },
-        {
           "word": "don't",
           "start": 161.788,
           "end": 161.908,
           "score": 0.83
         },
         {
-          "word": "know",
+          "word": "know.",
           "start": 161.928,
-          "end": 162.049,
-          "score": 0.912
-        },
-        {
-          "word": "it.",
-          "start": 162.089,
-          "end": 162.149,
-          "score": 0.97
+          "end": 162.069,
+          "score": 0.91
         }
       ]
     },
     {
-      "start": 162.249,
-      "end": 173.426,
-      "text": "I think it was That level of happiness that I felt I have about no Yeah, I was just really really happy and my family was very happy for me and",
+      "start": 162.089,
+      "end": 165.694,
+      "text": "I think it was that level of happiness that I felt.",
       "words": [
         {
           "word": "I",
-          "start": 162.249,
-          "end": 162.289,
-          "score": 0.942
+          "start": 162.089,
+          "end": 162.109,
+          "score": 0.061
         },
         {
           "word": "think",
@@ -2753,7 +2781,7 @@
           "score": 0.91
         },
         {
-          "word": "That",
+          "word": "that",
           "start": 162.79,
           "end": 164.172,
           "score": 0.762
@@ -2789,35 +2817,49 @@
           "score": 0.983
         },
         {
-          "word": "felt",
+          "word": "felt.",
           "start": 165.434,
-          "end": 165.674,
-          "score": 0.872
-        },
+          "end": 165.694,
+          "score": 0.897
+        }
+      ]
+    },
+    {
+      "start": 166.095,
+      "end": 167.257,
+      "text": "I haven't felt, no.",
+      "words": [
         {
           "word": "I",
-          "start": 165.714,
-          "end": 165.734,
-          "score": 0.999
+          "start": 166.095,
+          "end": 166.155,
+          "score": 0.629
         },
         {
-          "word": "have",
+          "word": "haven't",
           "start": 166.195,
           "end": 166.415,
-          "score": 0.817
+          "score": 0.904
         },
         {
-          "word": "about",
-          "start": 166.836,
-          "end": 166.936,
-          "score": 0.147
+          "word": "felt,",
+          "start": 166.856,
+          "end": 167.096,
+          "score": 0.324
         },
         {
-          "word": "no",
+          "word": "no.",
           "start": 167.116,
-          "end": 167.237,
-          "score": 0.786
-        },
+          "end": 167.257,
+          "score": 0.778
+        }
+      ]
+    },
+    {
+      "start": 168.178,
+      "end": 173.426,
+      "text": "Yeah, I was just really, really happy and my family was very happy for me.",
+      "words": [
         {
           "word": "Yeah,",
           "start": 168.178,
@@ -2843,10 +2885,10 @@
           "score": 0.724
         },
         {
-          "word": "really",
+          "word": "really,",
           "start": 168.839,
-          "end": 169.059,
-          "score": 0.929
+          "end": 169.079,
+          "score": 0.939
         },
         {
           "word": "really",
@@ -2903,16 +2945,10 @@
           "score": 0.878
         },
         {
-          "word": "me",
+          "word": "me.",
           "start": 171.082,
-          "end": 171.223,
-          "score": 0.76
-        },
-        {
-          "word": "and",
-          "start": 171.243,
           "end": 173.426,
-          "score": 0.698
+          "score": 0.886
         }
       ]
     },
@@ -3433,7 +3469,7 @@
           "word": "that",
           "start": 201.749,
           "end": 201.869,
-          "score": 0.858
+          "score": 0.859
         },
         {
           "word": "comes",
@@ -3464,7 +3500,7 @@
           "word": "I",
           "start": 203.394,
           "end": 203.434,
-          "score": 0.753
+          "score": 0.752
         },
         {
           "word": "just",
@@ -4043,7 +4079,7 @@
     {
       "start": 232.189,
       "end": 243.994,
-      "text": "I didn't know exactly if economics was right for me or math was right for me, so taking different classes in different fields really allowed me to explore what actually intrigues me.",
+      "text": "I didn't know exactly if economics was right for me or math was right for me so taking different classes in different fields really allowed me to explore what actually intrigues me.",
       "words": [
         {
           "word": "I",
@@ -4136,10 +4172,10 @@
           "score": 0.83
         },
         {
-          "word": "me,",
+          "word": "me",
           "start": 236.699,
-          "end": 236.799,
-          "score": 0.855
+          "end": 236.779,
+          "score": 0.843
         },
         {
           "word": "so",
@@ -4395,7 +4431,7 @@
       "word": "you",
       "start": 12.13,
       "end": 12.23,
-      "score": 0.92
+      "score": 0.921
     },
     {
       "word": "doing",
@@ -4416,16 +4452,10 @@
       "score": 0.876
     },
     {
-      "word": "A",
+      "word": "A-levels",
       "start": 13.752,
-      "end": 13.832,
-      "score": 0.636
-    },
-    {
-      "word": "levels",
-      "start": 13.853,
       "end": 14.113,
-      "score": 0.707
+      "score": 0.731
     },
     {
       "word": "you",
@@ -4605,7 +4635,7 @@
       "word": "2020",
       "start": 22.264,
       "end": 22.564,
-      "score": 0.716
+      "score": 0.717
     },
     {
       "word": "alumna,",
@@ -4623,7 +4653,7 @@
       "word": "I'm",
       "start": 23.946,
       "end": 24.046,
-      "score": 0.756
+      "score": 0.757
     },
     {
       "word": "currently",
@@ -5007,7 +5037,7 @@
       "word": "French",
       "start": 47.531,
       "end": 47.872,
-      "score": 0.913
+      "score": 0.912
     },
     {
       "word": "and",
@@ -5151,7 +5181,7 @@
       "word": "class",
       "start": 58.344,
       "end": 58.585,
-      "score": 0.905
+      "score": 0.904
     },
     {
       "word": "of",
@@ -6498,18 +6528,6 @@
       "score": 0.801
     },
     {
-      "word": "and",
-      "start": 148.808,
-      "end": 148.909,
-      "score": 0.643
-    },
-    {
-      "word": "like",
-      "start": 148.929,
-      "end": 149.149,
-      "score": 0.885
-    },
-    {
       "word": "when",
       "start": 149.81,
       "end": 150.09,
@@ -6526,12 +6544,6 @@
       "start": 150.251,
       "end": 150.351,
       "score": 0.719
-    },
-    {
-      "word": "like",
-      "start": 150.411,
-      "end": 150.531,
-      "score": 0.984
     },
     {
       "word": "early",
@@ -6576,12 +6588,6 @@
       "score": 0.649
     },
     {
-      "word": "like",
-      "start": 152.634,
-      "end": 152.734,
-      "score": 0.989
-    },
-    {
       "word": "you",
       "start": 152.754,
       "end": 152.814,
@@ -6612,10 +6618,16 @@
       "score": 0.559
     },
     {
-      "word": "RG",
-      "start": 153.516,
+      "word": "to",
+      "start": 153.476,
+      "end": 153.516,
+      "score": 0.457
+    },
+    {
+      "word": "R.G.",
+      "start": 153.596,
       "end": 153.816,
-      "score": 0.596
+      "score": 0.71
     },
     {
       "word": "school",
@@ -6624,7 +6636,7 @@
       "score": 0.741
     },
     {
-      "word": "During",
+      "word": "during",
       "start": 154.717,
       "end": 154.938,
       "score": 0.948
@@ -6642,13 +6654,13 @@
       "score": 0.253
     },
     {
-      "word": "stress",
+      "word": "stress?",
       "start": 155.218,
-      "end": 155.479,
-      "score": 0.683
+      "end": 155.499,
+      "score": 0.629
     },
     {
-      "word": "and",
+      "word": "And",
       "start": 155.519,
       "end": 155.579,
       "score": 0.905
@@ -6690,16 +6702,52 @@
       "score": 0.825
     },
     {
-      "word": "school",
+      "word": "school.",
       "start": 157.402,
-      "end": 157.822,
-      "score": 0.673
+      "end": 157.842,
+      "score": 0.718
+    },
+    {
+      "word": "Yeah,",
+      "start": 158.143,
+      "end": 158.263,
+      "score": 0.172
+    },
+    {
+      "word": "not",
+      "start": 158.283,
+      "end": 158.363,
+      "score": 0.519
+    },
+    {
+      "word": "the",
+      "start": 158.383,
+      "end": 158.483,
+      "score": 0.439
+    },
+    {
+      "word": "case",
+      "start": 158.503,
+      "end": 158.643,
+      "score": 0.659
+    },
+    {
+      "word": "for",
+      "start": 158.663,
+      "end": 158.784,
+      "score": 0.938
+    },
+    {
+      "word": "me.",
+      "start": 158.824,
+      "end": 158.924,
+      "score": 0.954
     },
     {
       "word": "It",
-      "start": 158.163,
-      "end": 158.643,
-      "score": 0.463
+      "start": 159.365,
+      "end": 159.425,
+      "score": 0.989
     },
     {
       "word": "was",
@@ -6738,34 +6786,22 @@
       "score": 0.999
     },
     {
-      "word": "I",
-      "start": 161.027,
-      "end": 161.127,
-      "score": 0.912
-    },
-    {
       "word": "don't",
       "start": 161.788,
       "end": 161.908,
       "score": 0.83
     },
     {
-      "word": "know",
+      "word": "know.",
       "start": 161.928,
-      "end": 162.049,
-      "score": 0.912
-    },
-    {
-      "word": "it.",
-      "start": 162.089,
-      "end": 162.149,
-      "score": 0.97
+      "end": 162.069,
+      "score": 0.91
     },
     {
       "word": "I",
-      "start": 162.249,
-      "end": 162.289,
-      "score": 0.942
+      "start": 162.089,
+      "end": 162.109,
+      "score": 0.061
     },
     {
       "word": "think",
@@ -6786,7 +6822,7 @@
       "score": 0.91
     },
     {
-      "word": "That",
+      "word": "that",
       "start": 162.79,
       "end": 164.172,
       "score": 0.762
@@ -6822,34 +6858,34 @@
       "score": 0.983
     },
     {
-      "word": "felt",
+      "word": "felt.",
       "start": 165.434,
-      "end": 165.674,
-      "score": 0.872
+      "end": 165.694,
+      "score": 0.897
     },
     {
       "word": "I",
-      "start": 165.714,
-      "end": 165.734,
-      "score": 0.999
+      "start": 166.095,
+      "end": 166.155,
+      "score": 0.629
     },
     {
-      "word": "have",
+      "word": "haven't",
       "start": 166.195,
       "end": 166.415,
-      "score": 0.817
+      "score": 0.904
     },
     {
-      "word": "about",
-      "start": 166.836,
-      "end": 166.936,
-      "score": 0.147
+      "word": "felt,",
+      "start": 166.856,
+      "end": 167.096,
+      "score": 0.324
     },
     {
-      "word": "no",
+      "word": "no.",
       "start": 167.116,
-      "end": 167.237,
-      "score": 0.786
+      "end": 167.257,
+      "score": 0.778
     },
     {
       "word": "Yeah,",
@@ -6876,10 +6912,10 @@
       "score": 0.724
     },
     {
-      "word": "really",
+      "word": "really,",
       "start": 168.839,
-      "end": 169.059,
-      "score": 0.929
+      "end": 169.079,
+      "score": 0.939
     },
     {
       "word": "really",
@@ -6936,16 +6972,10 @@
       "score": 0.878
     },
     {
-      "word": "me",
+      "word": "me.",
       "start": 171.082,
-      "end": 171.223,
-      "score": 0.76
-    },
-    {
-      "word": "and",
-      "start": 171.243,
       "end": 173.426,
-      "score": 0.698
+      "score": 0.886
     },
     {
       "word": "I",
@@ -7431,7 +7461,7 @@
       "word": "that",
       "start": 201.749,
       "end": 201.869,
-      "score": 0.858
+      "score": 0.859
     },
     {
       "word": "comes",
@@ -7455,7 +7485,7 @@
       "word": "I",
       "start": 203.394,
       "end": 203.434,
-      "score": 0.753
+      "score": 0.752
     },
     {
       "word": "just",
@@ -8064,10 +8094,10 @@
       "score": 0.83
     },
     {
-      "word": "me,",
+      "word": "me",
       "start": 236.699,
-      "end": 236.799,
-      "score": 0.855
+      "end": 236.779,
+      "score": 0.843
     },
     {
       "word": "so",

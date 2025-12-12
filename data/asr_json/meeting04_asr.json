@@ -443,7 +443,7 @@
     },
     {
       "start": 26.466,
-      "end": 27.948,
+      "end": 27.908,
       "text": " is what wins the votes.",
       "words": [
         {
@@ -473,120 +473,52 @@
         {
           "word": "votes.",
           "start": 27.648,
-          "end": 27.948,
-          "score": 0.706
+          "end": 27.908,
+          "score": 0.716
         }
       ]
     },
     {
-      "start": 27.968,
-      "end": 28.99,
-      "text": "Everybody started Trump in 2024.",
-      "words": [
-        {
-          "word": "Everybody",
-          "start": 27.968,
-          "end": 28.189,
-          "score": 0.092
-        },
-        {
-          "word": "started",
-          "start": 28.209,
-          "end": 28.409,
-          "score": 0.27
-        },
-        {
-          "word": "Trump",
-          "start": 28.429,
-          "end": 28.609,
-          "score": 0.882
-        },
-        {
-          "word": "in",
-          "start": 28.669,
-          "end": 28.729,
-          "score": 0.914
-        },
-        {
-          "word": "2024.",
-          "start": 28.749,
-          "end": 28.99,
-          "score": 0.887
-        }
-      ]
-    },
-    {
-      "start": 29.17,
-      "end": 29.751,
-      "text": "That's right.",
+      "start": 27.928,
+      "end": 31.453,
+      "text": "That's right, that's exactly right.",
       "words": [
         {
           "word": "That's",
+          "start": 27.928,
+          "end": 28.189,
+          "score": 0.565
+        },
+        {
+          "word": "right,",
+          "start": 28.349,
+          "end": 28.99,
+          "score": 0.375
+        },
+        {
+          "word": "that's",
           "start": 29.17,
           "end": 29.511,
           "score": 0.65
         },
         {
-          "word": "right.",
-          "start": 29.531,
-          "end": 29.751,
-          "score": 0.49
-        }
-      ]
-    },
-    {
-      "start": 29.771,
-      "end": 32.134,
-      "text": "It was also against the inflation, right?",
-      "words": [
-        {
-          "word": "It",
+          "word": "exactly",
           "start": 29.771,
-          "end": 29.991,
-          "score": 0.542
-        },
-        {
-          "word": "was",
-          "start": 30.031,
-          "end": 30.172,
-          "score": 0.677
-        },
-        {
-          "word": "also",
-          "start": 30.252,
           "end": 30.652,
-          "score": 0.548
+          "score": 0.414
         },
         {
-          "word": "against",
-          "start": 30.732,
-          "end": 30.913,
-          "score": 0.83
-        },
-        {
-          "word": "the",
-          "start": 30.933,
-          "end": 31.013,
-          "score": 0.831
-        },
-        {
-          "word": "inflation,",
-          "start": 31.033,
+          "word": "right.",
+          "start": 30.792,
           "end": 31.453,
-          "score": 0.939
-        },
-        {
-          "word": "right?",
-          "start": 31.514,
-          "end": 32.134,
-          "score": 0.461
+          "score": 0.285
         }
       ]
     },
     {
       "start": 32.154,
-      "end": 44.072,
-      "text": "But to that point, because of the fact that inflation continues to be a problem and affordability continues to be a problem and Trump hasn't delivered, it is now becoming a political liability for Trump.",
+      "end": 50.642,
+      "text": "But to that point, because of the fact that inflation continues to be a problem and affordability continues to be a problem and Trump hasn't delivered, it is now becoming a political liability for Trump and I think that when it comes to Zoran Mamdani in particular, as mayor he doesn't really have as much power as",
       "words": [
         {
           "word": "But",
@@ -793,20 +725,13 @@
           "score": 0.806
         },
         {
-          "word": "Trump.",
+          "word": "Trump",
           "start": 43.752,
-          "end": 44.072,
-          "score": 0.937
-        }
-      ]
-    },
-    {
-      "start": 44.212,
-      "end": 50.642,
-      "text": "And I think that when it comes to Zoran Mamdani in particular, as mayor, he doesn't really have as much power as",
-      "words": [
+          "end": 44.052,
+          "score": 0.925
+        },
         {
-          "word": "And",
+          "word": "and",
           "start": 44.212,
           "end": 44.293,
           "score": 0.841
@@ -884,10 +809,10 @@
           "score": 0.884
         },
         {
-          "word": "mayor,",
+          "word": "mayor",
           "start": 47.798,
           "end": 48.218,
-          "score": 0.878
+          "score": 0.856
         },
         {
           "word": "he",
@@ -1124,7 +1049,7 @@
           "word": "going",
           "start": 59.065,
           "end": 59.165,
-          "score": 0.457
+          "score": 0.458
         },
         {
           "word": "to",
@@ -1360,7 +1285,7 @@
           "word": "he",
           "start": 65.634,
           "end": 65.694,
-          "score": 0.891
+          "score": 0.89
         },
         {
           "word": "wanted",
@@ -1620,7 +1545,7 @@
     },
     {
       "start": 74.366,
-      "end": 75.327,
+      "end": 75.267,
       "text": "And then the city will survive.",
       "words": [
         {
@@ -1656,8 +1581,27 @@
         {
           "word": "survive.",
           "start": 74.946,
+          "end": 75.267,
+          "score": 0.553
+        }
+      ]
+    },
+    {
+      "start": 75.287,
+      "end": 75.447,
+      "text": "Oh yeah.",
+      "words": [
+        {
+          "word": "Oh",
+          "start": 75.287,
           "end": 75.327,
-          "score": 0.865
+          "score": 0.412
+        },
+        {
+          "word": "yeah.",
+          "start": 75.347,
+          "end": 75.447,
+          "score": 0.548
         }
       ]
     },
@@ -1749,10 +1693,10 @@
     {
       "start": 77.794,
       "end": 82.051,
-      "text": " Because the government overreach is going to keep him from doing all of the things that he said he wants to do.",
+      "text": " because the government overreach is going to keep him from doing all of the things that he said he wants to do.",
       "words": [
         {
-          "word": "Because",
+          "word": "because",
           "start": 77.794,
           "end": 78.135,
           "score": 0.928
@@ -1888,7 +1832,7 @@
     {
       "start": 82.111,
       "end": 84.962,
-      "text": "I don't know if he'll be able to get a lot of those things done, to Ben's point.",
+      "text": "I don't know if he'll be able to get a lot of those things done to Ben's point.",
       "words": [
         {
           "word": "I",
@@ -1975,10 +1919,10 @@
           "score": 0.889
         },
         {
-          "word": "done,",
+          "word": "done",
           "start": 83.617,
-          "end": 83.778,
-          "score": 0.892
+          "end": 83.758,
+          "score": 0.866
         },
         {
           "word": "to",
@@ -2136,7 +2080,7 @@
           "word": "excuse.",
           "start": 88.815,
           "end": 89.155,
-          "score": 0.971
+          "score": 0.97
         }
       ]
     },
@@ -2445,7 +2389,7 @@
           "word": "making",
           "start": 100.869,
           "end": 101.15,
-          "score": 0.82
+          "score": 0.821
         },
         {
           "word": "memes,",
@@ -3350,130 +3294,142 @@
     },
     {
       "start": 136.994,
-      "end": 139.217,
-      "text": " I'm just gonna put it out there, no effing way.",
+      "end": 139.357,
+      "text": " I'm just going to put it out there, no effing way.",
       "words": [
         {
           "word": "I'm",
           "start": 136.994,
-          "end": 137.074,
-          "score": 0.406
+          "end": 137.094,
+          "score": 0.435
         },
         {
           "word": "just",
-          "start": 137.094,
-          "end": 137.174,
-          "score": 0.105
+          "start": 137.114,
+          "end": 137.194,
+          "score": 0.554
         },
         {
-          "word": "gonna",
-          "start": 137.194,
-          "end": 137.294,
-          "score": 0.188
+          "word": "going",
+          "start": 137.214,
+          "end": 137.314,
+          "score": 0.47
+        },
+        {
+          "word": "to",
+          "start": 137.334,
+          "end": 137.395,
+          "score": 0.07
         },
         {
           "word": "put",
-          "start": 137.314,
-          "end": 137.375,
-          "score": 0.0
+          "start": 137.435,
+          "end": 137.515,
+          "score": 0.786
         },
         {
           "word": "it",
-          "start": 137.395,
-          "end": 137.435,
-          "score": 0.018
+          "start": 137.635,
+          "end": 137.675,
+          "score": 0.222
         },
         {
           "word": "out",
-          "start": 137.455,
-          "end": 137.515,
-          "score": 0.931
-        },
-        {
-          "word": "there,",
-          "start": 137.535,
-          "end": 137.695,
-          "score": 0.697
-        },
-        {
-          "word": "no",
-          "start": 137.855,
-          "end": 137.995,
-          "score": 0.898
-        },
-        {
-          "word": "effing",
-          "start": 138.156,
-          "end": 138.296,
-          "score": 0.257
-        },
-        {
-          "word": "way.",
-          "start": 138.356,
-          "end": 139.217,
-          "score": 0.777
-        }
-      ]
-    },
-    {
-      "start": 139.237,
-      "end": 140.278,
-      "text": "We're gonna find out soon enough, Ben.",
-      "words": [
-        {
-          "word": "We're",
-          "start": 139.237,
-          "end": 139.337,
-          "score": 0.163
-        },
-        {
-          "word": "gonna",
-          "start": 139.377,
-          "end": 139.477,
-          "score": 0.038
-        },
-        {
-          "word": "find",
-          "start": 139.497,
-          "end": 139.578,
-          "score": 0.001
-        },
-        {
-          "word": "out",
-          "start": 139.598,
-          "end": 139.658,
-          "score": 0.033
-        },
-        {
-          "word": "soon",
-          "start": 139.678,
-          "end": 139.758,
-          "score": 0.182
-        },
-        {
-          "word": "enough,",
-          "start": 139.798,
-          "end": 140.058,
+          "start": 137.915,
+          "end": 138.416,
           "score": 0.23
         },
         {
-          "word": "Ben.",
-          "start": 140.078,
-          "end": 140.278,
-          "score": 0.332
+          "word": "there,",
+          "start": 138.436,
+          "end": 139.057,
+          "score": 0.316
+        },
+        {
+          "word": "no",
+          "start": 139.077,
+          "end": 139.117,
+          "score": 0.016
+        },
+        {
+          "word": "effing",
+          "start": 139.137,
+          "end": 139.257,
+          "score": 0.001
+        },
+        {
+          "word": "way.",
+          "start": 139.277,
+          "end": 139.357,
+          "score": 0.258
         }
       ]
     },
     {
-      "start": 140.319,
+      "start": 139.377,
+      "end": 140.459,
+      "text": "We're going to find out soon enough, Ben.",
+      "words": [
+        {
+          "word": "We're",
+          "start": 139.377,
+          "end": 139.477,
+          "score": 0.008
+        },
+        {
+          "word": "going",
+          "start": 139.497,
+          "end": 139.598,
+          "score": 0.001
+        },
+        {
+          "word": "to",
+          "start": 139.618,
+          "end": 139.658,
+          "score": 0.018
+        },
+        {
+          "word": "find",
+          "start": 139.678,
+          "end": 139.758,
+          "score": 0.193
+        },
+        {
+          "word": "out",
+          "start": 139.838,
+          "end": 139.938,
+          "score": 0.45
+        },
+        {
+          "word": "soon",
+          "start": 140.038,
+          "end": 140.118,
+          "score": 0.106
+        },
+        {
+          "word": "enough,",
+          "start": 140.138,
+          "end": 140.278,
+          "score": 0.15
+        },
+        {
+          "word": "Ben.",
+          "start": 140.299,
+          "end": 140.459,
+          "score": 0.654
+        }
+      ]
+    },
+    {
+      "start": 140.499,
       "end": 140.979,
       "text": "Not happening.",
       "words": [
         {
           "word": "Not",
-          "start": 140.319,
+          "start": 140.499,
           "end": 140.619,
-          "score": 0.719
+          "score": 0.825
         },
         {
           "word": "happening.",
@@ -3583,8 +3539,8 @@
     },
     {
       "start": 146.867,
-      "end": 152.075,
-      "text": "And my friends are getting called up and like, I hate Andrew Cuomo, he killed all the old people and grabbed ass and he ran out of old people.",
+      "end": 149.111,
+      "text": "And my friends are getting called up and like, I hate Andrew Cuomo.",
       "words": [
         {
           "word": "And",
@@ -3650,7 +3606,7 @@
           "word": "hate",
           "start": 148.43,
           "end": 148.57,
-          "score": 0.753
+          "score": 0.752
         },
         {
           "word": "Andrew",
@@ -3659,13 +3615,20 @@
           "score": 0.571
         },
         {
-          "word": "Cuomo,",
+          "word": "Cuomo.",
           "start": 148.87,
           "end": 149.111,
           "score": 0.588
-        },
+        }
+      ]
+    },
+    {
+      "start": 149.131,
+      "end": 152.075,
+      "text": "He killed all the old people and grabbed ass and he ran out of old people.",
+      "words": [
         {
-          "word": "he",
+          "word": "He",
           "start": 149.131,
           "end": 149.171,
           "score": 0.6
@@ -3764,7 +3727,7 @@
     },
     {
       "start": 152.095,
-      "end": 157.542,
+      "end": 157.482,
       "text": "And I hate Zor Mamdani, who is a communist who has some pro-jihadi leanings.",
       "words": [
         {
@@ -3848,100 +3811,88 @@
         {
           "word": "leanings.",
           "start": 156.761,
-          "end": 157.542,
-          "score": 0.901
+          "end": 157.482,
+          "score": 0.897
         }
       ]
     },
     {
-      "start": 157.562,
-      "end": 159.184,
-      "text": "But you know what, I'm just gonna say Sliwa.",
+      "start": 157.502,
+      "end": 158.563,
+      "text": "I'm just going to say Sliwa.",
       "words": [
         {
-          "word": "But",
-          "start": 157.562,
-          "end": 157.642,
-          "score": 0.688
-        },
-        {
-          "word": "you",
-          "start": 157.682,
-          "end": 157.762,
-          "score": 0.819
-        },
-        {
-          "word": "know",
-          "start": 157.782,
-          "end": 157.862,
-          "score": 0.922
-        },
-        {
-          "word": "what,",
-          "start": 157.883,
-          "end": 158.043,
-          "score": 0.273
-        },
-        {
           "word": "I'm",
-          "start": 158.383,
-          "end": 158.483,
-          "score": 0.843
+          "start": 157.502,
+          "end": 157.562,
+          "score": 0.0
         },
         {
           "word": "just",
-          "start": 158.503,
-          "end": 158.583,
-          "score": 0.71
+          "start": 157.582,
+          "end": 157.662,
+          "score": 0.709
         },
         {
-          "word": "gonna",
-          "start": 158.603,
-          "end": 158.744,
-          "score": 0.33
+          "word": "going",
+          "start": 157.702,
+          "end": 157.842,
+          "score": 0.401
+        },
+        {
+          "word": "to",
+          "start": 157.883,
+          "end": 157.923,
+          "score": 0.088
         },
         {
           "word": "say",
-          "start": 158.764,
-          "end": 158.864,
-          "score": 0.277
+          "start": 157.983,
+          "end": 158.043,
+          "score": 0.243
         },
         {
           "word": "Sliwa.",
-          "start": 158.884,
-          "end": 159.184,
-          "score": 0.257
+          "start": 158.343,
+          "end": 158.563,
+          "score": 0.36
         }
       ]
     },
     {
-      "start": 159.204,
+      "start": 158.624,
       "end": 160.466,
-      "text": "And then they're gonna get in there and be like,",
+      "text": "And then they're going to get in there and be like,",
       "words": [
         {
           "word": "And",
-          "start": 159.204,
-          "end": 159.264,
-          "score": 0.372
+          "start": 158.624,
+          "end": 158.744,
+          "score": 0.251
         },
         {
           "word": "then",
-          "start": 159.304,
-          "end": 159.385,
-          "score": 0.17
+          "start": 158.764,
+          "end": 159.304,
+          "score": 0.327
         },
         {
           "word": "they're",
-          "start": 159.405,
-          "end": 159.545,
-          "score": 0.477
+          "start": 159.324,
+          "end": 159.485,
+          "score": 0.335
         },
         {
-          "word": "gonna",
-          "start": 159.565,
+          "word": "going",
+          "start": 159.505,
+          "end": 159.605,
+          "score": 0.028
+        },
+        {
+          "word": "to",
+          "start": 159.625,
           "end": 159.665,
-          "score": 0.328
+          "score": 0.631
         },
         {
           "word": "get",
@@ -4387,7 +4338,7 @@
           "word": "guardian",
           "start": 171.237,
           "end": 171.498,
-          "score": 0.717
+          "score": 0.716
         },
         {
           "word": "angel",
@@ -4583,7 +4534,7 @@
           "word": "know",
           "start": 175.524,
           "end": 175.744,
-          "score": 0.81
+          "score": 0.811
         },
         {
           "word": "that",
@@ -4797,7 +4748,7 @@
           "word": "I",
           "start": 182.574,
           "end": 182.634,
-          "score": 0.957
+          "score": 0.956
         },
         {
           "word": "like",
@@ -4857,8 +4808,8 @@
     },
     {
       "start": 185.762,
-      "end": 193.337,
-      "text": " To that point, Zoran Mamdani, I think, really did himself a favor by moderating some of his messaging from 2020, for instance, right?",
+      "end": 207.826,
+      "text": " To that point, Zoran Mamdani, I think, really did himself a favor by moderating some of his messaging from 2020, for instance, focusing on how, no, we do need our public servants, we do need sworn officers, but I would like to beef up the NYPD by actually adding social workers to the mix instead of getting rid of cops.",
       "words": [
         {
           "word": "To",
@@ -4978,7 +4929,7 @@
           "word": "2020,",
           "start": 191.894,
           "end": 192.435,
-          "score": 0.788
+          "score": 0.787
         },
         {
           "word": "for",
@@ -4993,20 +4944,7 @@
           "score": 0.9
         },
         {
-          "word": "right?",
-          "start": 193.137,
-          "end": 193.337,
-          "score": 0.8
-        }
-      ]
-    },
-    {
-      "start": 193.718,
-      "end": 207.826,
-      "text": "Focusing on how, no, we do need our public servants, we do need sworn officers, but I would like to beef up the NYPD by actually adding social workers to the mix instead of getting rid of cops.",
-      "words": [
-        {
-          "word": "Focusing",
+          "word": "focusing",
           "start": 193.718,
           "end": 194.159,
           "score": 0.912
@@ -5099,7 +5037,7 @@
           "word": "but",
           "start": 198.868,
           "end": 198.968,
-          "score": 0.835
+          "score": 0.836
         },
         {
           "word": "I",
@@ -5571,8 +5509,8 @@
     },
     {
       "start": 219.01,
-      "end": 229.599,
-      "text": " third grade running for class president politics, because the way we all ran for class president in third grade, for those of us who ran for class president and maybe didn't win in third grade, was the free ice cream platform.",
+      "end": 221.272,
+      "text": " third grade running for class president politics.",
       "words": [
         {
           "word": "third",
@@ -5611,13 +5549,20 @@
           "score": 0.617
         },
         {
-          "word": "politics,",
+          "word": "politics.",
           "start": 220.772,
           "end": 221.272,
           "score": 0.888
-        },
+        }
+      ]
+    },
+    {
+      "start": 221.352,
+      "end": 229.599,
+      "text": "Because the way we all ran for class president in third grade, for those of us who ran for class president and maybe didn't win in third grade, was the free ice cream platform.",
+      "words": [
         {
-          "word": "because",
+          "word": "Because",
           "start": 221.352,
           "end": 221.652,
           "score": 0.965
@@ -5752,7 +5697,7 @@
           "word": "maybe",
           "start": 226.176,
           "end": 226.336,
-          "score": 0.783
+          "score": 0.784
         },
         {
           "word": "didn't",
@@ -5947,7 +5892,7 @@
           "word": "to",
           "start": 233.102,
           "end": 233.162,
-          "score": 0.457
+          "score": 0.458
         },
         {
           "word": "McDonald's",
@@ -6479,7 +6424,7 @@
           "word": "saying,",
           "start": 258.309,
           "end": 258.449,
-          "score": 0.555
+          "score": 0.554
         },
         {
           "word": "I'm",
@@ -6528,7 +6473,7 @@
     {
       "start": 259.891,
       "end": 263.836,
-      "text": "And he's just like, well, I'll magic it right here in this hat.",
+      "text": "And he's just like, well, I'll magic it, like right here in this hat.",
       "words": [
         {
           "word": "And",
@@ -6573,10 +6518,16 @@
           "score": 0.953
         },
         {
-          "word": "it",
-          "start": 262.655,
-          "end": 262.915,
-          "score": 0.189
+          "word": "it,",
+          "start": 262.495,
+          "end": 262.575,
+          "score": 0.825
+        },
+        {
+          "word": "like",
+          "start": 262.615,
+          "end": 262.715,
+          "score": 0.943
         },
         {
           "word": "right",
@@ -6613,7 +6564,7 @@
     {
       "start": 264.317,
       "end": 270.866,
-      "text": "I mean, if the best campaign wins, when Donnie should win, because he ran the best campaign against candidates that",
+      "text": "I mean, if the best campaign wins, when Donnie should win, because he ran the best campaign against, you know, candidates that",
       "words": [
         {
           "word": "I",
@@ -6718,10 +6669,22 @@
           "score": 0.756
         },
         {
-          "word": "against",
+          "word": "against,",
           "start": 269.324,
-          "end": 269.584,
-          "score": 0.842
+          "end": 269.724,
+          "score": 0.84
+        },
+        {
+          "word": "you",
+          "start": 269.744,
+          "end": 269.805,
+          "score": 0.87
+        },
+        {
+          "word": "know,",
+          "start": 269.825,
+          "end": 270.005,
+          "score": 0.712
         },
         {
           "word": "candidates",
@@ -7351,92 +7314,38 @@
     {
       "word": "votes.",
       "start": 27.648,
-      "end": 27.948,
-      "score": 0.706
-    },
-    {
-      "word": "Everybody",
-      "start": 27.968,
-      "end": 28.189,
-      "score": 0.092
-    },
-    {
-      "word": "started",
-      "start": 28.209,
-      "end": 28.409,
-      "score": 0.27
-    },
-    {
-      "word": "Trump",
-      "start": 28.429,
-      "end": 28.609,
-      "score": 0.882
-    },
-    {
-      "word": "in",
-      "start": 28.669,
-      "end": 28.729,
-      "score": 0.914
-    },
-    {
-      "word": "2024.",
-      "start": 28.749,
-      "end": 28.99,
-      "score": 0.887
+      "end": 27.908,
+      "score": 0.716
     },
     {
       "word": "That's",
+      "start": 27.928,
+      "end": 28.189,
+      "score": 0.565
+    },
+    {
+      "word": "right,",
+      "start": 28.349,
+      "end": 28.99,
+      "score": 0.375
+    },
+    {
+      "word": "that's",
       "start": 29.17,
       "end": 29.511,
       "score": 0.65
     },
     {
-      "word": "right.",
-      "start": 29.531,
-      "end": 29.751,
-      "score": 0.49
-    },
-    {
-      "word": "It",
+      "word": "exactly",
       "start": 29.771,
-      "end": 29.991,
-      "score": 0.542
-    },
-    {
-      "word": "was",
-      "start": 30.031,
-      "end": 30.172,
-      "score": 0.677
-    },
-    {
-      "word": "also",
-      "start": 30.252,
       "end": 30.652,
-      "score": 0.548
+      "score": 0.414
     },
     {
-      "word": "against",
-      "start": 30.732,
-      "end": 30.913,
-      "score": 0.83
-    },
-    {
-      "word": "the",
-      "start": 30.933,
-      "end": 31.013,
-      "score": 0.831
-    },
-    {
-      "word": "inflation,",
-      "start": 31.033,
+      "word": "right.",
+      "start": 30.792,
       "end": 31.453,
-      "score": 0.939
-    },
-    {
-      "word": "right?",
-      "start": 31.514,
-      "end": 32.134,
-      "score": 0.461
+      "score": 0.285
     },
     {
       "word": "But",
@@ -7643,13 +7552,13 @@
       "score": 0.806
     },
     {
-      "word": "Trump.",
+      "word": "Trump",
       "start": 43.752,
-      "end": 44.072,
-      "score": 0.937
+      "end": 44.052,
+      "score": 0.925
     },
     {
-      "word": "And",
+      "word": "and",
       "start": 44.212,
       "end": 44.293,
       "score": 0.841
@@ -7727,10 +7636,10 @@
       "score": 0.884
     },
     {
-      "word": "mayor,",
+      "word": "mayor",
       "start": 47.798,
       "end": 48.218,
-      "score": 0.878
+      "score": 0.856
     },
     {
       "word": "he",
@@ -7946,7 +7855,7 @@
       "word": "going",
       "start": 59.065,
       "end": 59.165,
-      "score": 0.457
+      "score": 0.458
     },
     {
       "word": "to",
@@ -8168,7 +8077,7 @@
       "word": "he",
       "start": 65.634,
       "end": 65.694,
-      "score": 0.891
+      "score": 0.89
     },
     {
       "word": "wanted",
@@ -8443,8 +8352,20 @@
     {
       "word": "survive.",
       "start": 74.946,
+      "end": 75.267,
+      "score": 0.553
+    },
+    {
+      "word": "Oh",
+      "start": 75.287,
       "end": 75.327,
-      "score": 0.865
+      "score": 0.412
+    },
+    {
+      "word": "yeah.",
+      "start": 75.347,
+      "end": 75.447,
+      "score": 0.548
     },
     {
       "word": "The",
@@ -8525,7 +8446,7 @@
       "score": 0.436
     },
     {
-      "word": "Because",
+      "word": "because",
       "start": 77.794,
       "end": 78.135,
       "score": 0.928
@@ -8741,10 +8662,10 @@
       "score": 0.889
     },
     {
-      "word": "done,",
+      "word": "done",
       "start": 83.617,
-      "end": 83.778,
-      "score": 0.892
+      "end": 83.758,
+      "score": 0.866
     },
     {
       "word": "to",
@@ -8888,7 +8809,7 @@
       "word": "excuse.",
       "start": 88.815,
       "end": 89.155,
-      "score": 0.971
+      "score": 0.97
     },
     {
       "word": "You",
@@ -9176,7 +9097,7 @@
       "word": "making",
       "start": 100.869,
       "end": 101.15,
-      "score": 0.82
+      "score": 0.821
     },
     {
       "word": "memes,",
@@ -10003,110 +9924,122 @@
     {
       "word": "I'm",
       "start": 136.994,
-      "end": 137.074,
-      "score": 0.406
+      "end": 137.094,
+      "score": 0.435
     },
     {
       "word": "just",
-      "start": 137.094,
-      "end": 137.174,
-      "score": 0.105
+      "start": 137.114,
+      "end": 137.194,
+      "score": 0.554
     },
     {
-      "word": "gonna",
-      "start": 137.194,
-      "end": 137.294,
-      "score": 0.188
+      "word": "going",
+      "start": 137.214,
+      "end": 137.314,
+      "score": 0.47
+    },
+    {
+      "word": "to",
+      "start": 137.334,
+      "end": 137.395,
+      "score": 0.07
     },
     {
       "word": "put",
-      "start": 137.314,
-      "end": 137.375,
-      "score": 0.0
+      "start": 137.435,
+      "end": 137.515,
+      "score": 0.786
     },
     {
       "word": "it",
-      "start": 137.395,
-      "end": 137.435,
-      "score": 0.018
+      "start": 137.635,
+      "end": 137.675,
+      "score": 0.222
     },
     {
       "word": "out",
-      "start": 137.455,
-      "end": 137.515,
-      "score": 0.931
-    },
-    {
-      "word": "there,",
-      "start": 137.535,
-      "end": 137.695,
-      "score": 0.697
-    },
-    {
-      "word": "no",
-      "start": 137.855,
-      "end": 137.995,
-      "score": 0.898
-    },
-    {
-      "word": "effing",
-      "start": 138.156,
-      "end": 138.296,
-      "score": 0.257
-    },
-    {
-      "word": "way.",
-      "start": 138.356,
-      "end": 139.217,
-      "score": 0.777
-    },
-    {
-      "word": "We're",
-      "start": 139.237,
-      "end": 139.337,
-      "score": 0.163
-    },
-    {
-      "word": "gonna",
-      "start": 139.377,
-      "end": 139.477,
-      "score": 0.038
-    },
-    {
-      "word": "find",
-      "start": 139.497,
-      "end": 139.578,
-      "score": 0.001
-    },
-    {
-      "word": "out",
-      "start": 139.598,
-      "end": 139.658,
-      "score": 0.033
-    },
-    {
-      "word": "soon",
-      "start": 139.678,
-      "end": 139.758,
-      "score": 0.182
-    },
-    {
-      "word": "enough,",
-      "start": 139.798,
-      "end": 140.058,
+      "start": 137.915,
+      "end": 138.416,
       "score": 0.23
     },
     {
-      "word": "Ben.",
-      "start": 140.078,
+      "word": "there,",
+      "start": 138.436,
+      "end": 139.057,
+      "score": 0.316
+    },
+    {
+      "word": "no",
+      "start": 139.077,
+      "end": 139.117,
+      "score": 0.016
+    },
+    {
+      "word": "effing",
+      "start": 139.137,
+      "end": 139.257,
+      "score": 0.001
+    },
+    {
+      "word": "way.",
+      "start": 139.277,
+      "end": 139.357,
+      "score": 0.258
+    },
+    {
+      "word": "We're",
+      "start": 139.377,
+      "end": 139.477,
+      "score": 0.008
+    },
+    {
+      "word": "going",
+      "start": 139.497,
+      "end": 139.598,
+      "score": 0.001
+    },
+    {
+      "word": "to",
+      "start": 139.618,
+      "end": 139.658,
+      "score": 0.018
+    },
+    {
+      "word": "find",
+      "start": 139.678,
+      "end": 139.758,
+      "score": 0.193
+    },
+    {
+      "word": "out",
+      "start": 139.838,
+      "end": 139.938,
+      "score": 0.45
+    },
+    {
+      "word": "soon",
+      "start": 140.038,
+      "end": 140.118,
+      "score": 0.106
+    },
+    {
+      "word": "enough,",
+      "start": 140.138,
       "end": 140.278,
-      "score": 0.332
+      "score": 0.15
+    },
+    {
+      "word": "Ben.",
+      "start": 140.299,
+      "end": 140.459,
+      "score": 0.654
     },
     {
       "word": "Not",
-      "start": 140.319,
+      "start": 140.499,
       "end": 140.619,
-      "score": 0.719
+      "score": 0.825
     },
     {
       "word": "happening.",
@@ -10262,7 +10195,7 @@
       "word": "hate",
       "start": 148.43,
       "end": 148.57,
-      "score": 0.753
+      "score": 0.752
     },
     {
       "word": "Andrew",
@@ -10271,13 +10204,13 @@
       "score": 0.571
     },
     {
-      "word": "Cuomo,",
+      "word": "Cuomo.",
       "start": 148.87,
       "end": 149.111,
       "score": 0.588
     },
     {
-      "word": "he",
+      "word": "He",
       "start": 149.131,
       "end": 149.171,
       "score": 0.6
@@ -10453,86 +10386,74 @@
     {
       "word": "leanings.",
       "start": 156.761,
-      "end": 157.542,
-      "score": 0.901
-    },
-    {
-      "word": "But",
-      "start": 157.562,
-      "end": 157.642,
-      "score": 0.688
-    },
-    {
-      "word": "you",
-      "start": 157.682,
-      "end": 157.762,
-      "score": 0.819
-    },
-    {
-      "word": "know",
-      "start": 157.782,
-      "end": 157.862,
-      "score": 0.922
-    },
-    {
-      "word": "what,",
-      "start": 157.883,
-      "end": 158.043,
-      "score": 0.273
+      "end": 157.482,
+      "score": 0.897
     },
     {
       "word": "I'm",
-      "start": 158.383,
-      "end": 158.483,
-      "score": 0.843
+      "start": 157.502,
+      "end": 157.562,
+      "score": 0.0
     },
     {
       "word": "just",
-      "start": 158.503,
-      "end": 158.583,
-      "score": 0.71
+      "start": 157.582,
+      "end": 157.662,
+      "score": 0.709
     },
     {
-      "word": "gonna",
-      "start": 158.603,
-      "end": 158.744,
-      "score": 0.33
+      "word": "going",
+      "start": 157.702,
+      "end": 157.842,
+      "score": 0.401
+    },
+    {
+      "word": "to",
+      "start": 157.883,
+      "end": 157.923,
+      "score": 0.088
     },
     {
       "word": "say",
-      "start": 158.764,
-      "end": 158.864,
-      "score": 0.277
+      "start": 157.983,
+      "end": 158.043,
+      "score": 0.243
     },
     {
       "word": "Sliwa.",
-      "start": 158.884,
-      "end": 159.184,
-      "score": 0.257
+      "start": 158.343,
+      "end": 158.563,
+      "score": 0.36
     },
     {
       "word": "And",
-      "start": 159.204,
-      "end": 159.264,
-      "score": 0.372
+      "start": 158.624,
+      "end": 158.744,
+      "score": 0.251
     },
     {
       "word": "then",
-      "start": 159.304,
-      "end": 159.385,
-      "score": 0.17
+      "start": 158.764,
+      "end": 159.304,
+      "score": 0.327
     },
     {
       "word": "they're",
-      "start": 159.405,
-      "end": 159.545,
-      "score": 0.477
+      "start": 159.324,
+      "end": 159.485,
+      "score": 0.335
     },
     {
-      "word": "gonna",
-      "start": 159.565,
+      "word": "going",
+      "start": 159.505,
+      "end": 159.605,
+      "score": 0.028
+    },
+    {
+      "word": "to",
+      "start": 159.625,
       "end": 159.665,
-      "score": 0.328
+      "score": 0.631
     },
     {
       "word": "get",
@@ -10922,7 +10843,7 @@
       "word": "guardian",
       "start": 171.237,
       "end": 171.498,
-      "score": 0.717
+      "score": 0.716
     },
     {
       "word": "angel",
@@ -11090,7 +11011,7 @@
       "word": "know",
       "start": 175.524,
       "end": 175.744,
-      "score": 0.81
+      "score": 0.811
     },
     {
       "word": "that",
@@ -11276,7 +11197,7 @@
       "word": "I",
       "start": 182.574,
       "end": 182.634,
-      "score": 0.957
+      "score": 0.956
     },
     {
       "word": "like",
@@ -11450,7 +11371,7 @@
       "word": "2020,",
       "start": 191.894,
       "end": 192.435,
-      "score": 0.788
+      "score": 0.787
     },
     {
       "word": "for",
@@ -11465,13 +11386,7 @@
       "score": 0.9
     },
     {
-      "word": "right?",
-      "start": 193.137,
-      "end": 193.337,
-      "score": 0.8
-    },
-    {
-      "word": "Focusing",
+      "word": "focusing",
       "start": 193.718,
       "end": 194.159,
       "score": 0.912
@@ -11564,7 +11479,7 @@
       "word": "but",
       "start": 198.868,
       "end": 198.968,
-      "score": 0.835
+      "score": 0.836
     },
     {
       "word": "I",
@@ -12041,13 +11956,13 @@
       "score": 0.617
     },
     {
-      "word": "politics,",
+      "word": "politics.",
       "start": 220.772,
       "end": 221.272,
       "score": 0.888
     },
     {
-      "word": "because",
+      "word": "Because",
       "start": 221.352,
       "end": 221.652,
       "score": 0.965
@@ -12182,7 +12097,7 @@
       "word": "maybe",
       "start": 226.176,
       "end": 226.336,
-      "score": 0.783
+      "score": 0.784
     },
     {
       "word": "didn't",
@@ -12356,7 +12271,7 @@
       "word": "to",
       "start": 233.102,
       "end": 233.162,
-      "score": 0.457
+      "score": 0.458
     },
     {
       "word": "McDonald's",
@@ -12818,7 +12733,7 @@
       "word": "saying,",
       "start": 258.309,
       "end": 258.449,
-      "score": 0.555
+      "score": 0.554
     },
     {
       "word": "I'm",
@@ -12905,10 +12820,16 @@
       "score": 0.953
     },
     {
-      "word": "it",
-      "start": 262.655,
-      "end": 262.915,
-      "score": 0.189
+      "word": "it,",
+      "start": 262.495,
+      "end": 262.575,
+      "score": 0.825
+    },
+    {
+      "word": "like",
+      "start": 262.615,
+      "end": 262.715,
+      "score": 0.943
     },
     {
       "word": "right",
@@ -13043,10 +12964,22 @@
       "score": 0.756
     },
     {
-      "word": "against",
+      "word": "against,",
       "start": 269.324,
-      "end": 269.584,
-      "score": 0.842
+      "end": 269.724,
+      "score": 0.84
+    },
+    {
+      "word": "you",
+      "start": 269.744,
+      "end": 269.805,
+      "score": 0.87
+    },
+    {
+      "word": "know,",
+      "start": 269.825,
+      "end": 270.005,
+      "score": 0.712
     },
     {
       "word": "candidates",

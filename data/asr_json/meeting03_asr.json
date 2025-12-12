@@ -354,7 +354,7 @@
           "word": "Group",
           "start": 14.477,
           "end": 14.638,
-          "score": 0.374
+          "score": 0.373
         },
         {
           "word": "Leaders",
@@ -384,7 +384,7 @@
           "word": "the",
           "start": 15.719,
           "end": 15.8,
-          "score": 0.833
+          "score": 0.832
         },
         {
           "word": "largest",
@@ -577,7 +577,7 @@
           "word": "party",
           "start": 24.554,
           "end": 24.914,
-          "score": 0.837
+          "score": 0.838
         },
         {
           "word": "about",
@@ -854,7 +854,7 @@
           "word": "power",
           "start": 33.626,
           "end": 33.926,
-          "score": 0.894
+          "score": 0.893
         },
         {
           "word": "of",
@@ -1373,7 +1373,7 @@
           "word": "to",
           "start": 53.57,
           "end": 53.61,
-          "score": 0.936
+          "score": 0.937
         },
         {
           "word": "the",
@@ -1717,7 +1717,7 @@
           "word": "about",
           "start": 65.62,
           "end": 65.78,
-          "score": 0.847
+          "score": 0.848
         },
         {
           "word": "Trump",
@@ -2771,7 +2771,7 @@
           "word": "actually",
           "start": 113.002,
           "end": 113.823,
-          "score": 0.726
+          "score": 0.727
         },
         {
           "word": "could",
@@ -3015,7 +3015,7 @@
     {
       "start": 129.82,
       "end": 134.404,
-      "text": "That's a low turnout vote because there's no big racism in the mayoral.",
+      "text": "That's a low turnout vote because there's no big races in the mayoral.",
       "words": [
         {
           "word": "That's",
@@ -3072,16 +3072,16 @@
           "score": 0.984
         },
         {
-          "word": "racism",
+          "word": "races",
           "start": 133.303,
-          "end": 133.744,
-          "score": 0.769
+          "end": 133.604,
+          "score": 0.838
         },
         {
           "word": "in",
-          "start": 133.804,
+          "start": 133.784,
           "end": 133.844,
-          "score": 0.542
+          "score": 0.508
         },
         {
           "word": "the",
@@ -3495,7 +3495,7 @@
     },
     {
       "start": 153.666,
-      "end": 154.066,
+      "end": 154.147,
       "text": " It's over, Mom.",
       "words": [
         {
@@ -3506,34 +3506,28 @@
         },
         {
           "word": "over,",
-          "start": 153.866,
-          "end": 153.966,
-          "score": 0.002
+          "start": 153.906,
+          "end": 154.046,
+          "score": 0.331
         },
         {
           "word": "Mom.",
-          "start": 153.986,
-          "end": 154.066,
-          "score": 0.482
+          "start": 154.066,
+          "end": 154.147,
+          "score": 0.224
         }
       ]
     },
     {
-      "start": 154.086,
+      "start": 154.167,
       "end": 157.05,
-      "text": "I'll just point out that the Penguin was once in a movie elected mayor of New York City.",
+      "text": "Let's point out that the Penguin was once in a movie elected mayor of New York City.",
       "words": [
         {
-          "word": "I'll",
-          "start": 154.086,
-          "end": 154.167,
-          "score": 0.001
-        },
-        {
-          "word": "just",
-          "start": 154.187,
+          "word": "Let's",
+          "start": 154.167,
           "end": 154.267,
-          "score": 0.005
+          "score": 0.004
         },
         {
           "word": "point",
@@ -3722,7 +3716,7 @@
     },
     {
       "start": 158.992,
-      "end": 160.133,
+      "end": 159.913,
       "text": "Copperpot, right?",
       "words": [
         {
@@ -3734,16 +3728,22 @@
         {
           "word": "right?",
           "start": 159.573,
-          "end": 160.133,
-          "score": 0.659
+          "end": 159.913,
+          "score": 0.531
         }
       ]
     },
     {
-      "start": 160.353,
+      "start": 159.933,
       "end": 161.755,
-      "text": "Oswald Copperpot, I think.",
+      "text": "That Oswald Copperpot, I think.",
       "words": [
+        {
+          "word": "That",
+          "start": 159.933,
+          "end": 160.113,
+          "score": 0.809
+        },
         {
           "word": "Oswald",
           "start": 160.353,
@@ -3861,13 +3861,13 @@
     {
       "start": 165.399,
       "end": 166.08,
-      "text": "Please bone up.",
+      "text": "Please, bone up.",
       "words": [
         {
-          "word": "Please",
+          "word": "Please,",
           "start": 165.399,
-          "end": 165.519,
-          "score": 0.092
+          "end": 165.839,
+          "score": 0.198
         },
         {
           "word": "bone",
@@ -4370,7 +4370,7 @@
           "word": "to",
           "start": 186.832,
           "end": 186.892,
-          "score": 0.849
+          "score": 0.848
         },
         {
           "word": "other",
@@ -4455,7 +4455,7 @@
           "word": "Chicago",
           "start": 190.277,
           "end": 190.657,
-          "score": 0.867
+          "score": 0.868
         },
         {
           "word": "and",
@@ -5184,7 +5184,7 @@
           "word": "about",
           "start": 220.003,
           "end": 220.183,
-          "score": 0.955
+          "score": 0.954
         },
         {
           "word": "all",
@@ -5571,7 +5571,7 @@
           "word": "right",
           "start": 236.181,
           "end": 236.322,
-          "score": 0.79
+          "score": 0.789
         },
         {
           "word": "now.",
@@ -5711,7 +5711,7 @@
           "word": "I",
           "start": 241.595,
           "end": 241.615,
-          "score": 0.932
+          "score": 0.933
         },
         {
           "word": "don't",
@@ -5826,7 +5826,7 @@
           "word": "Do",
           "start": 244.358,
           "end": 244.458,
-          "score": 0.659
+          "score": 0.658
         },
         {
           "word": "I",
@@ -6203,7 +6203,7 @@
           "word": "care",
           "start": 257.694,
           "end": 257.894,
-          "score": 0.779
+          "score": 0.78
         },
         {
           "word": "and",
@@ -6579,7 +6579,7 @@
       "word": "Group",
       "start": 14.477,
       "end": 14.638,
-      "score": 0.374
+      "score": 0.373
     },
     {
       "word": "Leaders",
@@ -6609,7 +6609,7 @@
       "word": "the",
       "start": 15.719,
       "end": 15.8,
-      "score": 0.833
+      "score": 0.832
     },
     {
       "word": "largest",
@@ -6795,7 +6795,7 @@
       "word": "party",
       "start": 24.554,
       "end": 24.914,
-      "score": 0.837
+      "score": 0.838
     },
     {
       "word": "about",
@@ -7065,7 +7065,7 @@
       "word": "power",
       "start": 33.626,
       "end": 33.926,
-      "score": 0.894
+      "score": 0.893
     },
     {
       "word": "of",
@@ -7563,7 +7563,7 @@
       "word": "to",
       "start": 53.57,
       "end": 53.61,
-      "score": 0.936
+      "score": 0.937
     },
     {
       "word": "the",
@@ -7893,7 +7893,7 @@
       "word": "about",
       "start": 65.62,
       "end": 65.78,
-      "score": 0.847
+      "score": 0.848
     },
     {
       "word": "Trump",
@@ -8877,7 +8877,7 @@
       "word": "actually",
       "start": 113.002,
       "end": 113.823,
-      "score": 0.726
+      "score": 0.727
     },
     {
       "word": "could",
@@ -9150,16 +9150,16 @@
       "score": 0.984
     },
     {
-      "word": "racism",
+      "word": "races",
       "start": 133.303,
-      "end": 133.744,
-      "score": 0.769
+      "end": 133.604,
+      "score": 0.838
     },
     {
       "word": "in",
-      "start": 133.804,
+      "start": 133.784,
       "end": 133.844,
-      "score": 0.542
+      "score": 0.508
     },
     {
       "word": "the",
@@ -9535,27 +9535,21 @@
     },
     {
       "word": "over,",
-      "start": 153.866,
-      "end": 153.966,
-      "score": 0.002
+      "start": 153.906,
+      "end": 154.046,
+      "score": 0.331
     },
     {
       "word": "Mom.",
-      "start": 153.986,
-      "end": 154.066,
-      "score": 0.482
+      "start": 154.066,
+      "end": 154.147,
+      "score": 0.224
     },
     {
-      "word": "I'll",
-      "start": 154.086,
-      "end": 154.167,
-      "score": 0.001
-    },
-    {
-      "word": "just",
-      "start": 154.187,
+      "word": "Let's",
+      "start": 154.167,
       "end": 154.267,
-      "score": 0.005
+      "score": 0.004
     },
     {
       "word": "point",
@@ -9728,8 +9722,14 @@
     {
       "word": "right?",
       "start": 159.573,
-      "end": 160.133,
-      "score": 0.659
+      "end": 159.913,
+      "score": 0.531
+    },
+    {
+      "word": "That",
+      "start": 159.933,
+      "end": 160.113,
+      "score": 0.809
     },
     {
       "word": "Oswald",
@@ -9816,10 +9816,10 @@
       "score": 0.488
     },
     {
-      "word": "Please",
+      "word": "Please,",
       "start": 165.399,
-      "end": 165.519,
-      "score": 0.092
+      "end": 165.839,
+      "score": 0.198
     },
     {
       "word": "bone",
@@ -10245,7 +10245,7 @@
       "word": "to",
       "start": 186.832,
       "end": 186.892,
-      "score": 0.849
+      "score": 0.848
     },
     {
       "word": "other",
@@ -10323,7 +10323,7 @@
       "word": "Chicago",
       "start": 190.277,
       "end": 190.657,
-      "score": 0.867
+      "score": 0.868
     },
     {
       "word": "and",
@@ -10989,7 +10989,7 @@
       "word": "about",
       "start": 220.003,
       "end": 220.183,
-      "score": 0.955
+      "score": 0.954
     },
     {
       "word": "all",
@@ -11355,7 +11355,7 @@
       "word": "right",
       "start": 236.181,
       "end": 236.322,
-      "score": 0.79
+      "score": 0.789
     },
     {
       "word": "now.",
@@ -11481,7 +11481,7 @@
       "word": "I",
       "start": 241.595,
       "end": 241.615,
-      "score": 0.932
+      "score": 0.933
     },
     {
       "word": "don't",
@@ -11589,7 +11589,7 @@
       "word": "Do",
       "start": 244.358,
       "end": 244.458,
-      "score": 0.659
+      "score": 0.658
     },
     {
       "word": "I",
@@ -11931,7 +11931,7 @@
       "word": "care",
       "start": 257.694,
       "end": 257.894,
-      "score": 0.779
+      "score": 0.78
     },
     {
       "word": "and",

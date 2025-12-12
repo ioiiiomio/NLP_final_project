@@ -25,8 +25,8 @@ final_project/
 │   ├── raw_audio/                 # Original audio files
 │   ├── transcripts_asr/           # Whisper transcription outputs (timestamps)
 │   ├── transcripts_diarized/      # WhisperX diarized transcripts (speaker labels)
-│   ├── semantic_merge/            # Need Info
-│   ├── pure_merge/                # Need Info      
+│   ├── semantic_merge/            # Merge with meaning: Finalized Diarization(ASR included)
+│   ├── pure_merge/                # Merged ASR & Diarization      
 │   └── final_json/                # Unified JSON format used for summarization
 │
 ├── src/
