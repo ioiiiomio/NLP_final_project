@@ -1,50 +1,51 @@
 import nltk
 import numpy as np
-import networkx as nx
-
 from sklearn.metrics.pairwise import cosine_similarity
 from sklearn.feature_extraction.text import TfidfVectorizer
+import re
 
 nltk.download("punkt", quiet=True)
 
+def clean_sentence_for_analysis(sentence):
+    filler_words = [
+        r'\blike\b', r'\byou know\b', r'\bum\b', r'\buh\b',
+        r'\bjust\b', r'\bactually\b', r'\bi mean\b', r'\bi guess\b',
+        r'\bkind of\b', r'\bsort of\b'
+    ]
+    
+    cleaned = sentence.lower()
+    for filler in filler_words:
+        cleaned = re.sub(filler, '', cleaned)
+    cleaned = re.sub(r'\s+', ' ', cleaned).strip()
+    
+    return cleaned
 
 def extract_full_text(asr_json):
     segments = asr_json.get("segments", [])
     texts = [seg["text"].strip() for seg in segments if seg.get("text")]
     return " ".join(texts)
 
-
-def split_sentences(text):
-    sentences = nltk.sent_tokenize(text)
-    sentences = [s.strip() for s in sentences if len(s.strip()) > 2]
-    return sentences
-
-
-def build_similarity_matrix(sentences):
-    if len(sentences) == 0:
-        return np.zeros((0, 0))
-
-    vectorizer = TfidfVectorizer()
-    tfidf = vectorizer.fit_transform(sentences)
-    sim_matrix = cosine_similarity(tfidf)
-    np.fill_diagonal(sim_matrix, 0)
-
-    return sim_matrix
-
-
 def textrank_summarize(asr_json, num_sentences=4):
     full_text = extract_full_text(asr_json)
-    sentences = nltk.sent_tokenize(full_text)
 
-    if len(sentences) <= num_sentences:
+    original_sentences = nltk.sent_tokenize(full_text)
+    
+    if len(original_sentences) <= num_sentences:
         return full_text
+    
+    cleaned_sentences = [clean_sentence_for_analysis(s) for s in original_sentences]
 
-    vectorizer = TfidfVectorizer()
-    tfidf = vectorizer.fit_transform(sentences)
-
-    sim_matrix = (tfidf * tfidf.T).toarray()
+    vectorizer = TfidfVectorizer(stop_words='english')
+    tfidf = vectorizer.fit_transform(cleaned_sentences)
+    
+    sim_matrix = cosine_similarity(tfidf)
+    np.fill_diagonal(sim_matrix, 0)
+    
     scores = sim_matrix.sum(axis=1)
-    ranked_idx = scores.argsort()[-num_sentences:][::-1]
-    ranked_sentences = [sentences[i] for i in ranked_idx]
 
+    ranked_idx = scores.argsort()[-num_sentences:][::-1]
+
+    selected_indices = sorted(ranked_idx)
+    ranked_sentences = [original_sentences[i] for i in selected_indices]
+    
     return " ".join(ranked_sentences)

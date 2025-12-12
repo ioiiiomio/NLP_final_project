@@ -1,33 +1,29 @@
 {
     "mode": "meeting",
+    "conversation_type": "interview",
+    "model_used": "philschmid/bart-large-cnn-samsum",
     "textrank_summary": "Yes, so I always knew that I wanted to go to America because I really loved the opportunity to explore various academic fields before committing to one and I applied to Yale because it's one of the best universities in the world and it's very well known for its liberal arts degree where you can  do whatever classes you want and choose your major only at the end of your second year, which I found it very appealing because I was still, while I was applying, I was still kind of choosing what I wanted to do. What was the first person that you tell that you got into Yale? What were your feelings and like when you got like early notification that you got in and like you don't have to apply RG school During all the stress and then from December you're free from school It was such a good feeling. So could you please explain what major are you doing and what A levels you took at Hailey Berry and talk more about yourself?",
-    "abstractive_full_summary": "Speaker 2: Hailey Berry alumni, Yale students, Gauhar and Danat. Welcome to our podcast. So let's start with Gauhar. So could you please explain what major are you doing and what A levels you took at Hailey Berry and talk more about yourself?",
+    "abstractive_full_summary": "Speaker 0 is a Hailey Berry Almaty class of 2020 alumna and she's currently in her fourth year at Yale University studying chemical engineering. Speaker 3 graduated Halle Berry three years ago, class of 2022. He took math, further math, economics, physics and Russian for his A-levels and now he studies economics at Yale. Speaker 0 applied to Yale early and she got in.",
     "minute_chunks": [
         {
             "start": "00:00",
             "end": "00:59",
-            "summary": "Speaker 2: Hailey Berry alumni, Yale students, Gauhar and Danat. Welcome to our podcast. So let's start with Gauhar. So could you please explain what major are you doing and what A levels you took at Hailey Berry and talk more about yourself? Gauhar and Danat, please explain what major are you doing and what A levels you took at Hailey Berry."
+            "summary": "Gauhar is a Hailey Berry Almaty class of 2020 alumna studying chemical engineering at Yale University. Danat graduated Halle Berry class of 2022. He took math, further math, economics and physics for his A-levels and is interested in finance after graduation."
         },
         {
             "start": "01:00",
             "end": "01:59",
-            "summary": "Speaker 2: Why did you choose this school and why did you apply to Yale?  in the first place. Why did you apply early, early action, early decision, regular decision?Speaker 1: And of course everyone wants to know if you applied early, early action, early decision, regular decision for some of you?"
+            "summary": "Speaker 0 applied early to Yale because she wanted to explore various academic fields before committing to one and she liked the liberal arts degree where you can do whatever classes you want and choose your major only at the end of your second year."
         },
         {
             "start": "02:00",
             "end": "02:59",
-            "summary": "Speaker 2: What were your feelings and like when you got like early notification that you got in and like you don't have to apply to Yale anymore and you're free from school During all the stress and then from December you're free from school It was such a good feeling. What was your reaction to that?Speaker 0: I think it was That level of happiness that I felt I have about getting into Yale. Yeah, I was just really really happy and my family was very happy for me and  I did prepare all my essays for regular, but I didn't end up sending them out."
+            "summary": "Speaker 0 got early notification that she got into Yale. She prepared all her essays for regular, but she didn't end up sending them out. Speaker 1 was the first person to tell her that she had got in. ."
         },
         {
             "start": "03:00",
             "end": "03:59",
-            "summary": "Speaker 0: It was 5 a.m. in Almaty because it comes out during the day in America. So I was there with my mom and I was checking the portal and I immediately saw that the portal has changed. So I didn't even click the video because there's a huge video with Bulldogs that comes out.  And I just knew before I played the video, so I was like, Mom, I think that's it. And then I screamed, and my sister was also in the house, and she heard my scream, and she knew that I got in. And about you, Danan?"
+            "summary": "Speaker 0 accidentally accessed the portal at 5 a.m. in Almaty because it comes out during the day in America. Speaker 3 was interested in math, physics and economics. Speaker 0 and Danan were interested in the liberal arts education."
         }
-    ],
-    "speaker_summaries": {
-        "Speaker 2": " Hailey Berry alumni, Yale students, Gauhar and Danat. Welcome to our podcast. So let's start with Gauhar. So could you please explain what major are you doing and what A levels you took at Hailey Berry and talk more about yourself? Why did you choose this school and why did you apply to Yale? Gauhar, what were your feelings and why did you apply to Yale?",
-        "Speaker 0": " I'm a Hailey Berry Almaty class of 2020 alumna, and I'm currently in my fourth year at Yale University studying chemical engineering.  Originally, I came in as a chemical engineer, and I'll be graduating also as a chemical engineer, and I'll be going into the chemical engineering industry, which I find very exciting because I always loved chemistry and maths in school, and this is what I took for A-levels, and I also took biology and French and Russian for A-levels. Yes, so I always knew that I wanted to go to America because I really loved the opportunity to explore various academic fields before committing to one and I applied to Yale because it's one of the best universities in the world and it's very well known for its liberal arts degree where you can  do whatever classes you want and choose your major only at the end of your second year, which I found it very appealing. Your second question was? Yeah, I applied early to",
-        "Speaker 3": " I graduated Halle Berry three years ago, class of 2022.  I took math, further math, economics and physics. Now I study economics at Yale. I'm interested in finance, so after graduation I'll be probably going to finance. And right now I'm a junior, so I have one more year left. Yeah, I was very intrigued by the liberal arts education as well. Trying to explore different fields was very appealing to me. I didn't know exactly what I wanted to do. I was interested in math.  physics and economics. I didn't know exactly if economics was right for me or math was right for me.",
-        "Speaker 1": " And of course everyone wants to know if you applied early, early action, early decision, regular decision for some of you? What was the first person that you tell that you got into Yale?"
-    }
+    ]
 }

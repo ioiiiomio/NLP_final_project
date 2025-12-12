@@ -1,0 +1,29 @@
+{
+    "mode": "meeting",
+    "conversation_type": "interview",
+    "model_used": "philschmid/bart-large-cnn-samsum",
+    "textrank_summary": "I don't think very, I think he has done plenty of work himself to dig the hole deep enough that it's pretty obvious he's not going to win. And what I think, while there's a lot of debates going on right now in our party about do we go left, do we go to the right, do we go to the center,  There is a lot to be learned from this race, not necessarily about policy, no other city is like New York City, but a lot about the power of listening. Copperpot, right? And the party, I don't think this is about going to the left or the right, to be honest with you.",
+    "abstractive_full_summary": "Zoran Zuron won the New York City mayoral election with the support of My Group Leaders We Deserve, which was the largest contributor to the independent expenditure in support of Zoran's campaign. Speaker 1, Speaker 2, Speaker 3, Speaker 4, Speaker 5 and Speaker 6 discuss the political situation in the Democratic Party.",
+    "minute_chunks": [
+        {
+            "start": "00:00",
+            "end": "00:59",
+            "summary": "Zoran Zuron won the New York mayoral election. My Group Leaders We Deserve was the largest contributor to the independent expenditure in support of Zoran's campaign, spending $300,000 in support. Speaker 2 thinks Andrew Cuomo is not going to win the election."
+        },
+        {
+            "start": "01:00",
+            "end": "01:59",
+            "summary": "Mamdani is running for New York City mayor. He is up against a former governor who left on a horrible note because of his behavior. Only 16% of voters are Republicans in New York. 25% of people might vote for Mamdani."
+        },
+        {
+            "start": "02:00",
+            "end": "02:59",
+            "summary": "Cuomo is going to lose the race. The Penguin and the Joker are going to endorse Cuomo. Speaker 4 will brush up on his DC Comics before he comes in. \"It's over, Mom. ."
+        },
+        {
+            "start": "03:00",
+            "end": "03:59",
+            "summary": "Speaker 5 thinks that it's hard to find a good candidate with a good message. Speaker 3 thinks Boca Raton will elect a socialist to run the financial capital of the world. Speaker 2 thinks people are tired of being lectured by men with Rolex on CNN about affordability in this country. Speaker 5 wants a future where everybody has health care and people can afford a good life."
+        }
+    ]
+}

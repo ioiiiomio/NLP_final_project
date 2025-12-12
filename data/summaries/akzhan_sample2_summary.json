@@ -1,0 +1,29 @@
+{
+    "mode": "meeting",
+    "conversation_type": "interview",
+    "model_used": "philschmid/bart-large-cnn-samsum",
+    "textrank_summary": "Like, yeah. But I'm just like, oh shit. Yeah. Yeah.",
+    "abstractive_full_summary": "Damien thought Amanda was pranking him with her pregnancy. Nobody was more excited for the reveal than Speaker 0, because he needed to relieve himself of the guilt. Speaker 2 found out from Bit City by watching Bit City. .",
+    "minute_chunks": [
+        {
+            "start": "00:00",
+            "end": "00:59",
+            "summary": "Speaker 1 knew about the lie from the beginning. He was trying to have it flipped on Erin. Damien's dying and his last wish is to see Speaker 1 and Erin get married. It didn't happen. It was awful for Speaker 2."
+        },
+        {
+            "start": "01:00",
+            "end": "01:59",
+            "summary": "Damien thought Amanda was pranking him with her pregnancy. She had her sonogram appointment on February 15th, but the date on the sonogram says February 14th. She must have been focusing on the first sight of her baby."
+        },
+        {
+            "start": "02:00",
+            "end": "02:59",
+            "summary": "Speaker 0 was more excited for the reveal because he needed to relieve himself of the guilt. Courtney got too involved, so Speaker 1 and Speaker 0 had to tell Courtney and then by proxy, Shayne had overheard the conversation. ."
+        },
+        {
+            "start": "03:00",
+            "end": "03:59",
+            "summary": "Speaker 1 didn't congratulate Speaker 2 on his engagement to Olivia. Speaker 2 found out about it from Arasha on Bit City. Speaker 0 didn't say anything to Speaker 2 because he didn't want to seem like a cold-hearted bastard."
+        }
+    ]
+}

@@ -1,0 +1,34 @@
+{
+    "mode": "meeting",
+    "conversation_type": "interview",
+    "model_used": "philschmid/bart-large-cnn-samsum",
+    "textrank_summary": "That's right. To that point, Zoran Mamdani, I think, really did himself a favor by moderating some of his messaging from 2020, for instance, right? Now, is he really going to be able to do that? But Trump kind of ran that way as well.",
+    "abstractive_full_summary": "Zoran Mamdani is running for mayor of New York City. Speaker 2, Speaker 1, Speaker 0, Speaker 3, Speaker 4, Speaker 5 and Speaker 2 discuss the current political situation. They discuss the similarities between Zoron's and Donald Trump's campaigns. .",
+    "minute_chunks": [
+        {
+            "start": "00:00",
+            "end": "00:59",
+            "summary": "Speaker 2 says there are similarities between Spanberger and Mamdani. They both focused on issues that affect everyday people and they both won the votes. Speaker 2 thinks that as a mayor Zoran Maddani might not be able to deliver everything that he's been running on."
+        },
+        {
+            "start": "01:00",
+            "end": "01:59",
+            "summary": "Speaker 1 thinks Zoron will win the election. Speaker 0 thinks Donald Trump is going to be a thorn in Speaker 1's ass. Speaker 1 thinks the candidates that are rising to the top are using trending issues, making memes and making funny survivor type ads for mayor of New York City."
+        },
+        {
+            "start": "02:00",
+            "end": "02:59",
+            "summary": "Speaker 5 hates Andrew Cuomo, Speaker 3 hates Zor Mamdani, a communist with pro-jihadi leanings, and Speaker 4 hates Andrew, because he killed all the old people and grabbed ass and he ran out of old people."
+        },
+        {
+            "start": "03:00",
+            "end": "03:59",
+            "summary": "Zoran Mamdani moderated some of his messaging from 2020. Speaker 5 likes his authenticity and the fact that he cares about crime. Speaker 3 thinks it makes sense to add social workers to the NYPD instead of getting rid of cops. Speaker 2 went to McDonald's and was giving out fries and burgers."
+        },
+        {
+            "start": "04:00",
+            "end": "04:59",
+            "summary": "Unknown thinks Donnie should win because he ran the best campaign against candidates that aren't the strongest. Unknown believes that the message of affordability will work anywhere in America. Unknown is not sure if Donnie will win. ."
+        }
+    ]
+}
