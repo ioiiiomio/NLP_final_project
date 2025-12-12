@@ -1,0 +1,75 @@
+{
+  "timestamp": "2025-12-12T18:45:12.388453",
+  "model_size": "medium.en",
+  "device": "cpu",
+  "statistics": {
+    "total_files": 4,
+    "processed_files": 4,
+    "failed_files": 0,
+    "processing_time": 721.3930971622467,
+    "file_results": [
+      {
+        "audio_file": "./data/raw_audio/meeting01.wav",
+        "processed_audio": "./data/processed_audio/meeting01_16k.wav",
+        "json_output": "./data/asr_json/meeting01_asr.json",
+        "processing_time": 141.6781029701233,
+        "segments": 51,
+        "language": "unknown"
+      },
+      {
+        "audio_file": "./data/raw_audio/meeting03.wav",
+        "processed_audio": "./data/processed_audio/meeting03_16k.wav",
+        "json_output": "./data/asr_json/meeting03_asr.json",
+        "processing_time": 191.32722997665405,
+        "segments": 75,
+        "language": "unknown"
+      },
+      {
+        "audio_file": "./data/raw_audio/meeting02.wav",
+        "processed_audio": "./data/processed_audio/meeting02_16k.wav",
+        "json_output": "./data/asr_json/meeting02_asr.json",
+        "processing_time": 186.2996301651001,
+        "segments": 78,
+        "language": "unknown"
+      },
+      {
+        "audio_file": "./data/raw_audio/meeting04.wav",
+        "processed_audio": "./data/processed_audio/meeting04_16k.wav",
+        "json_output": "./data/asr_json/meeting04_asr.json",
+        "processing_time": 202.08618998527527,
+        "segments": 85,
+        "language": "unknown"
+      }
+    ]
+  },
+  "processed_files": [
+    {
+      "original": "meeting01.wav",
+      "json_output": "meeting01_asr.json",
+      "processing_time": 141.6781029701233,
+      "segments": 51,
+      "language": "unknown"
+    },
+    {
+      "original": "meeting03.wav",
+      "json_output": "meeting03_asr.json",
+      "processing_time": 191.32722997665405,
+      "segments": 75,
+      "language": "unknown"
+    },
+    {
+      "original": "meeting02.wav",
+      "json_output": "meeting02_asr.json",
+      "processing_time": 186.2996301651001,
+      "segments": 78,
+      "language": "unknown"
+    },
+    {
+      "original": "meeting04.wav",
+      "json_output": "meeting04_asr.json",
+      "processing_time": 202.08618998527527,
+      "segments": 85,
+      "language": "unknown"
+    }
+  ]
+}

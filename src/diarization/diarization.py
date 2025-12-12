@@ -35,4 +35,3 @@ def diarization_json(audio_path):
 
    print("Diarization JSON saved to:", output_path)
    return output_path
-
