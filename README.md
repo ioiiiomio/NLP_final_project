@@ -22,24 +22,24 @@ The repository is organized into modular components to allow each team member to
 final_project/
 │
 ├── data/
-│   ├── raw_audio/                 # Original audio files
-│   ├── transcripts_asr/           # Whisper transcription outputs (timestamps)
-│   ├── transcripts_diarized/      # WhisperX diarized transcripts (speaker labels)
-│   ├── semantic_merge/            # Merge with meaning: Finalized Diarization(ASR included)
-│   ├── pure_merge/                # Merged ASR & Diarization      
-│   └── final_json/                # Unified JSON format used for summarization
+│   ├── asr_json/                 
+│   ├── diarized_json/          
+│   ├── final_json/      
+│   ├── processed_audio/            
+│   ├── pure_merge/                
+│   └── raw_audio/                
+│   └── semantic_merge/           
 │
 ├── src/
 │   ├── asr/                       # ASR module (Zhaniya)
-│   │   ├── preprocess_audio.py        # Audio loading, resampling, cleaning
-│   │   ├── run_whisper.py             # Whisper transcription runner
-│   │   ├── whisper_utils.py           # Helper functions for Whisper output handling
-│   │   └── asr_pipeline.py            # Full ASR pipeline (importable by other modules)
+│   │   ├── asr_pipeline.ipynb        
+│   │   ├── run_asr.py             # ASR runner
+│   │   └── asr_pipeline.py        # Full ASR pipeline from netebook to py (importable by other modules)
 │   │
 │   ├── diarization/               # Diarization module (Akzhan)
-│   │   ├── run_whisperx.py             # WhisperX diarization scripts
-│   │   ├── merge_asr_diarization.py    # Align ASR timestamps with speaker info
-│   │   └── diarization_pipeline.py     # Unified diarization pipeline
+│   │   ├── diarization.py             
+│   │   ├── merge_asr_diarization.py    
+│   │   └── semantic_merge_pipeline.py     
 │   │
 │   ├── summarization/             # Summarization module (Inkar)
 │   │   ├── textrank.py                 # Extractive summarization baseline (TextRank)
