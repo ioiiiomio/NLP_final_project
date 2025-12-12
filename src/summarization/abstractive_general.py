@@ -1,7 +1,6 @@
 from transformers import BartTokenizer, BartForConditionalGeneration
 
 def generate_general_summary(asr_json, max_length=200):
-    """Generate summary for monologue content using BART"""
     tokenizer = BartTokenizer.from_pretrained("facebook/bart-large-cnn")
     model = BartForConditionalGeneration.from_pretrained("facebook/bart-large-cnn")
     

@@ -101,16 +101,6 @@ def generate_meeting_summary(asr_json, max_length=256, model_type="auto", force_
     tokenizer, model = load_model(config["model_name"])
     
     raw_text = preprocess_asr(asr_json)
-    
-    # Special preprocessing for different types
-    # if model_type == "interview" and force_diarization:  # <-- force_diarization always True
-    #     # Keep the text as-is (already has speaker labels from your pipeline)
-    #     text = raw_text
-    # elif model_type == "social":
-    #     text = raw_text
-    # else:
-    #     text = raw_text
-    
     text = raw_text 
     
 
