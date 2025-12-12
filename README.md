@@ -25,8 +25,9 @@ final_project/
 │   ├── raw_audio/                 # Original audio files
 │   ├── transcripts_asr/           # Whisper transcription outputs (timestamps)
 │   ├── transcripts_diarized/      # WhisperX diarized transcripts (speaker labels)
-│   ├── final_json/                # Unified JSON format used for summarization
-│   └── gold/                      # Manually created transcripts/summaries for evaluation
+│   ├── semantic_merge/            # Need Info
+│   ├── pure_merge/                # Need Info      
+│   └── final_json/                # Unified JSON format used for summarization
 │
 ├── src/
 │   ├── asr/                       # ASR module (Zhaniya)
