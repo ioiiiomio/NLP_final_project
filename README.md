@@ -42,31 +42,17 @@ final_project/
 │   │   └── semantic_merge_pipeline.py     
 │   │
 │   ├── summarization/             # Summarization module (Inkar)
-│   │   ├── textrank.py                 # Extractive summarization baseline (TextRank)
-│   │   ├── abstractive_t5.py           # T5-small summarizer
-│   │   ├── abstractive_distilbart.py   # DistilBART summarizer
-│   │   └── summarization_pipeline.py   # Main summarization orchestrator
-│   │
-│   ├── utils/                     # Shared helper utilities
-│   │   ├── file_io.py
-│   │   ├── json_formatter.py
-│   │   └── chunking.py
-│   │
-│   └── pipeline.py                # End-to-end pipeline combining all components
+│   │   ├── textrank.py                 
+│   │   ├── abstractive_t5.py           
+│   │   ├── abstractive_distilbart.py   
+│   │   └── summarization_pipeline.py   
 │
 ├── notebooks/
-│   ├── 01_ASR_demo.ipynb              # Demo notebook for ASR module
-│   ├── 02_Diarization_demo.ipynb      # Demo notebook for diarization
-│   ├── 03_Summarization_demo.ipynb    # Demo notebook for summarization
-│   ├── 04_E2E_demo.ipynb              # End-to-end demonstration
-│   └── 05_Evaluation.ipynb            # ROUGE evaluation & comparisons
-│
-├── tests/                            # Unit tests for each module(everyone does their own)
-│   ├── test_asr.py
-│   ├── test_diarization.py
-│   ├── test_summarization.py
-│   └── test_pipeline.py
-│
+│   ├── 01_ASR_demo.ipynb              
+│   ├── 02_Diarization_demo.ipynb      
+│   ├── 03_Summarization_demo.ipynb    
+│   ├── 04_E2E_demo.ipynb              
+│   └── 05_Evaluation.ipynb            
 ├── requirements.txt
 ├── .gitignore
 └── README.md
