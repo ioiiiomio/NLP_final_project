@@ -1,0 +1,4776 @@
+{
+  "segments": [
+    {
+      "start": 0.194,
+      "end": 5.782,
+      "text": " I'm not sure if I'll be able to make it to the next level.",
+      "words": [
+        {
+          "word": "I'm",
+          "start": 0.194,
+          "end": 0.935,
+          "score": 0.376
+        },
+        {
+          "word": "not",
+          "start": 0.955,
+          "end": 1.095,
+          "score": 0.389
+        },
+        {
+          "word": "sure",
+          "start": 1.216,
+          "end": 1.456,
+          "score": 0.574
+        },
+        {
+          "word": "if",
+          "start": 1.536,
+          "end": 1.596,
+          "score": 0.342
+        },
+        {
+          "word": "I'll",
+          "start": 1.656,
+          "end": 1.897,
+          "score": 0.298
+        },
+        {
+          "word": "be",
+          "start": 1.937,
+          "end": 2.017,
+          "score": 0.32
+        },
+        {
+          "word": "able",
+          "start": 2.137,
+          "end": 2.337,
+          "score": 0.273
+        },
+        {
+          "word": "to",
+          "start": 2.357,
+          "end": 3.078,
+          "score": 0.602
+        },
+        {
+          "word": "make",
+          "start": 3.158,
+          "end": 3.759,
+          "score": 0.665
+        },
+        {
+          "word": "it",
+          "start": 3.779,
+          "end": 3.94,
+          "score": 0.661
+        },
+        {
+          "word": "to",
+          "start": 3.96,
+          "end": 4.14,
+          "score": 0.675
+        },
+        {
+          "word": "the",
+          "start": 4.641,
+          "end": 4.721,
+          "score": 0.348
+        },
+        {
+          "word": "next",
+          "start": 4.761,
+          "end": 5.362,
+          "score": 0.686
+        },
+        {
+          "word": "level.",
+          "start": 5.462,
+          "end": 5.782,
+          "score": 0.496
+        }
+      ]
+    },
+    {
+      "start": 6.123,
+      "end": 16.418,
+      "text": "I'm not sure if I'll be able to make it to the next level.",
+      "words": [
+        {
+          "word": "I'm",
+          "start": 6.123,
+          "end": 6.183,
+          "score": 0.224
+        },
+        {
+          "word": "not",
+          "start": 6.423,
+          "end": 7.004,
+          "score": 0.709
+        },
+        {
+          "word": "sure",
+          "start": 8.947,
+          "end": 9.268,
+          "score": 0.449
+        },
+        {
+          "word": "if",
+          "start": 9.288,
+          "end": 9.328,
+          "score": 0.0
+        },
+        {
+          "word": "I'll",
+          "start": 9.348,
+          "end": 9.548,
+          "score": 0.316
+        },
+        {
+          "word": "be",
+          "start": 9.588,
+          "end": 9.648,
+          "score": 0.63
+        },
+        {
+          "word": "able",
+          "start": 9.748,
+          "end": 10.129,
+          "score": 0.323
+        },
+        {
+          "word": "to",
+          "start": 10.149,
+          "end": 10.229,
+          "score": 0.464
+        },
+        {
+          "word": "make",
+          "start": 11.531,
+          "end": 11.972,
+          "score": 0.851
+        },
+        {
+          "word": "it",
+          "start": 13.294,
+          "end": 13.614,
+          "score": 0.698
+        },
+        {
+          "word": "to",
+          "start": 13.934,
+          "end": 14.035,
+          "score": 0.622
+        },
+        {
+          "word": "the",
+          "start": 14.075,
+          "end": 14.395,
+          "score": 0.22
+        },
+        {
+          "word": "next",
+          "start": 14.415,
+          "end": 15.236,
+          "score": 0.672
+        },
+        {
+          "word": "level.",
+          "start": 15.497,
+          "end": 16.418,
+          "score": 0.595
+        }
+      ]
+    },
+    {
+      "start": 16.558,
+      "end": 21.746,
+      "text": "I'm not sure if I'll be able to make it to the next level.",
+      "words": [
+        {
+          "word": "I'm",
+          "start": 16.558,
+          "end": 16.739,
+          "score": 0.23
+        },
+        {
+          "word": "not",
+          "start": 16.799,
+          "end": 17.059,
+          "score": 0.552
+        },
+        {
+          "word": "sure",
+          "start": 17.099,
+          "end": 17.56,
+          "score": 0.811
+        },
+        {
+          "word": "if",
+          "start": 18.201,
+          "end": 18.241,
+          "score": 0.259
+        },
+        {
+          "word": "I'll",
+          "start": 18.301,
+          "end": 18.381,
+          "score": 0.184
+        },
+        {
+          "word": "be",
+          "start": 18.401,
+          "end": 18.521,
+          "score": 0.3
+        },
+        {
+          "word": "able",
+          "start": 18.541,
+          "end": 18.942,
+          "score": 0.498
+        },
+        {
+          "word": "to",
+          "start": 20.885,
+          "end": 20.945,
+          "score": 0.314
+        },
+        {
+          "word": "make",
+          "start": 20.965,
+          "end": 21.125,
+          "score": 0.292
+        },
+        {
+          "word": "it",
+          "start": 21.145,
+          "end": 21.185,
+          "score": 0.326
+        },
+        {
+          "word": "to",
+          "start": 21.205,
+          "end": 21.285,
+          "score": 0.484
+        },
+        {
+          "word": "the",
+          "start": 21.305,
+          "end": 21.406,
+          "score": 0.391
+        },
+        {
+          "word": "next",
+          "start": 21.466,
+          "end": 21.546,
+          "score": 0.001
+        },
+        {
+          "word": "level.",
+          "start": 21.566,
+          "end": 21.746,
+          "score": 0.24
+        }
+      ]
+    },
+    {
+      "start": 21.766,
+      "end": 24.37,
+      "text": "I'm not sure if I'll be able to make it to the next level.",
+      "words": [
+        {
+          "word": "I'm",
+          "start": 21.766,
+          "end": 21.846,
+          "score": 0.293
+        },
+        {
+          "word": "not",
+          "start": 21.866,
+          "end": 21.926,
+          "score": 0.333
+        },
+        {
+          "word": "sure",
+          "start": 22.267,
+          "end": 22.527,
+          "score": 0.541
+        },
+        {
+          "word": "if",
+          "start": 22.547,
+          "end": 22.587,
+          "score": 0.002
+        },
+        {
+          "word": "I'll",
+          "start": 22.607,
+          "end": 22.708,
+          "score": 0.106
+        },
+        {
+          "word": "be",
+          "start": 22.728,
+          "end": 22.768,
+          "score": 0.368
+        },
+        {
+          "word": "able",
+          "start": 22.808,
+          "end": 22.888,
+          "score": 0.346
+        },
+        {
+          "word": "to",
+          "start": 22.908,
+          "end": 22.968,
+          "score": 0.456
+        },
+        {
+          "word": "make",
+          "start": 22.988,
+          "end": 23.268,
+          "score": 0.53
+        },
+        {
+          "word": "it",
+          "start": 23.288,
+          "end": 23.409,
+          "score": 0.708
+        },
+        {
+          "word": "to",
+          "start": 23.869,
+          "end": 23.909,
+          "score": 0.438
+        },
+        {
+          "word": "the",
+          "start": 23.929,
+          "end": 24.05,
+          "score": 0.497
+        },
+        {
+          "word": "next",
+          "start": 24.09,
+          "end": 24.17,
+          "score": 0.241
+        },
+        {
+          "word": "level.",
+          "start": 24.25,
+          "end": 24.37,
+          "score": 0.168
+        }
+      ]
+    },
+    {
+      "start": 24.61,
+      "end": 28.795,
+      "text": " I'm going to ask you a few questions and then I'll ask you a few questions.",
+      "words": [
+        {
+          "word": "I'm",
+          "start": 24.61,
+          "end": 24.89,
+          "score": 0.598
+        },
+        {
+          "word": "going",
+          "start": 25.371,
+          "end": 25.611,
+          "score": 0.47
+        },
+        {
+          "word": "to",
+          "start": 25.751,
+          "end": 25.851,
+          "score": 0.548
+        },
+        {
+          "word": "ask",
+          "start": 26.112,
+          "end": 26.392,
+          "score": 0.189
+        },
+        {
+          "word": "you",
+          "start": 26.412,
+          "end": 26.472,
+          "score": 0.01
+        },
+        {
+          "word": "a",
+          "start": 26.492,
+          "end": 26.512,
+          "score": 0.827
+        },
+        {
+          "word": "few",
+          "start": 26.692,
+          "end": 26.792,
+          "score": 0.213
+        },
+        {
+          "word": "questions",
+          "start": 26.812,
+          "end": 27.353,
+          "score": 0.31
+        },
+        {
+          "word": "and",
+          "start": 27.493,
+          "end": 27.633,
+          "score": 0.656
+        },
+        {
+          "word": "then",
+          "start": 27.673,
+          "end": 27.774,
+          "score": 0.422
+        },
+        {
+          "word": "I'll",
+          "start": 27.874,
+          "end": 27.954,
+          "score": 0.0
+        },
+        {
+          "word": "ask",
+          "start": 27.974,
+          "end": 28.034,
+          "score": 0.0
+        },
+        {
+          "word": "you",
+          "start": 28.054,
+          "end": 28.174,
+          "score": 0.195
+        },
+        {
+          "word": "a",
+          "start": 28.234,
+          "end": 28.294,
+          "score": 0.409
+        },
+        {
+          "word": "few",
+          "start": 28.334,
+          "end": 28.394,
+          "score": 0.187
+        },
+        {
+          "word": "questions.",
+          "start": 28.414,
+          "end": 28.795,
+          "score": 0.336
+        }
+      ]
+    },
+    {
+      "start": 29.155,
+      "end": 32.799,
+      "text": "I'm going to ask you a few questions and then I'll ask you a few questions.",
+      "words": [
+        {
+          "word": "I'm",
+          "start": 29.155,
+          "end": 29.295,
+          "score": 0.289
+        },
+        {
+          "word": "going",
+          "start": 29.355,
+          "end": 29.776,
+          "score": 0.476
+        },
+        {
+          "word": "to",
+          "start": 29.796,
+          "end": 29.916,
+          "score": 0.806
+        },
+        {
+          "word": "ask",
+          "start": 30.036,
+          "end": 30.156,
+          "score": 0.549
+        },
+        {
+          "word": "you",
+          "start": 30.176,
+          "end": 30.296,
+          "score": 0.459
+        },
+        {
+          "word": "a",
+          "start": 30.396,
+          "end": 30.477,
+          "score": 0.628
+        },
+        {
+          "word": "few",
+          "start": 30.497,
+          "end": 30.557,
+          "score": 0.003
+        },
+        {
+          "word": "questions",
+          "start": 30.577,
+          "end": 31.317,
+          "score": 0.419
+        },
+        {
+          "word": "and",
+          "start": 31.418,
+          "end": 31.518,
+          "score": 0.43
+        },
+        {
+          "word": "then",
+          "start": 31.558,
+          "end": 31.758,
+          "score": 0.125
+        },
+        {
+          "word": "I'll",
+          "start": 31.778,
+          "end": 31.858,
+          "score": 0.045
+        },
+        {
+          "word": "ask",
+          "start": 31.878,
+          "end": 32.018,
+          "score": 0.287
+        },
+        {
+          "word": "you",
+          "start": 32.038,
+          "end": 32.098,
+          "score": 0.151
+        },
+        {
+          "word": "a",
+          "start": 32.118,
+          "end": 32.138,
+          "score": 0.032
+        },
+        {
+          "word": "few",
+          "start": 32.158,
+          "end": 32.238,
+          "score": 0.187
+        },
+        {
+          "word": "questions.",
+          "start": 32.259,
+          "end": 32.799,
+          "score": 0.464
+        }
+      ]
+    },
+    {
+      "start": 33.46,
+      "end": 37.504,
+      "text": "I'm going to ask you a few questions.",
+      "words": [
+        {
+          "word": "I'm",
+          "start": 33.46,
+          "end": 33.52,
+          "score": 0.113
+        },
+        {
+          "word": "going",
+          "start": 33.54,
+          "end": 33.64,
+          "score": 0.131
+        },
+        {
+          "word": "to",
+          "start": 33.66,
+          "end": 33.72,
+          "score": 0.5
+        },
+        {
+          "word": "ask",
+          "start": 33.8,
+          "end": 33.88,
+          "score": 0.331
+        },
+        {
+          "word": "you",
+          "start": 33.94,
+          "end": 34.0,
+          "score": 0.319
+        },
+        {
+          "word": "a",
+          "start": 35.963,
+          "end": 35.983,
+          "score": 0.0
+        },
+        {
+          "word": "few",
+          "start": 36.003,
+          "end": 36.063,
+          "score": 0.324
+        },
+        {
+          "word": "questions.",
+          "start": 37.144,
+          "end": 37.504,
+          "score": 0.314
+        }
+      ]
+    },
+    {
+      "start": 37.524,
+      "end": 40.127,
+      "text": "I'm going to ask you a few questions.",
+      "words": [
+        {
+          "word": "I'm",
+          "start": 37.524,
+          "end": 37.805,
+          "score": 0.585
+        },
+        {
+          "word": "going",
+          "start": 37.825,
+          "end": 38.185,
+          "score": 0.222
+        },
+        {
+          "word": "to",
+          "start": 38.205,
+          "end": 38.385,
+          "score": 0.448
+        },
+        {
+          "word": "ask",
+          "start": 38.405,
+          "end": 38.546,
+          "score": 0.185
+        },
+        {
+          "word": "you",
+          "start": 38.806,
+          "end": 39.006,
+          "score": 0.656
+        },
+        {
+          "word": "a",
+          "start": 39.146,
+          "end": 39.166,
+          "score": 0.474
+        },
+        {
+          "word": "few",
+          "start": 39.206,
+          "end": 39.567,
+          "score": 0.8
+        },
+        {
+          "word": "questions.",
+          "start": 39.607,
+          "end": 40.127,
+          "score": 0.411
+        }
+      ]
+    },
+    {
+      "start": 40.167,
+      "end": 42.069,
+      "text": "I'm going to ask you a few questions.",
+      "words": [
+        {
+          "word": "I'm",
+          "start": 40.167,
+          "end": 40.287,
+          "score": 0.338
+        },
+        {
+          "word": "going",
+          "start": 40.468,
+          "end": 40.568,
+          "score": 0.138
+        },
+        {
+          "word": "to",
+          "start": 40.588,
+          "end": 40.628,
+          "score": 0.066
+        },
+        {
+          "word": "ask",
+          "start": 40.648,
+          "end": 40.708,
+          "score": 0.056
+        },
+        {
+          "word": "you",
+          "start": 40.728,
+          "end": 40.848,
+          "score": 0.245
+        },
+        {
+          "word": "a",
+          "start": 40.868,
+          "end": 40.928,
+          "score": 0.907
+        },
+        {
+          "word": "few",
+          "start": 41.289,
+          "end": 41.409,
+          "score": 0.568
+        },
+        {
+          "word": "questions.",
+          "start": 41.449,
+          "end": 42.069,
+          "score": 0.398
+        }
+      ]
+    },
+    {
+      "start": 42.29,
+      "end": 43.891,
+      "text": "I'm going to ask you a few questions.",
+      "words": [
+        {
+          "word": "I'm",
+          "start": 42.29,
+          "end": 42.35,
+          "score": 0.286
+        },
+        {
+          "word": "going",
+          "start": 42.65,
+          "end": 42.75,
+          "score": 0.268
+        },
+        {
+          "word": "to",
+          "start": 42.77,
+          "end": 42.83,
+          "score": 0.625
+        },
+        {
+          "word": "ask",
+          "start": 42.89,
+          "end": 42.97,
+          "score": 0.393
+        },
+        {
+          "word": "you",
+          "start": 43.01,
+          "end": 43.251,
+          "score": 0.517
+        },
+        {
+          "word": "a",
+          "start": 43.331,
+          "end": 43.351,
+          "score": 0.898
+        },
+        {
+          "word": "few",
+          "start": 43.371,
+          "end": 43.511,
+          "score": 0.448
+        },
+        {
+          "word": "questions.",
+          "start": 43.531,
+          "end": 43.891,
+          "score": 0.237
+        }
+      ]
+    },
+    {
+      "start": 43.911,
+      "end": 44.853,
+      "text": "I'm going to ask you a few questions.",
+      "words": [
+        {
+          "word": "I'm",
+          "start": 43.911,
+          "end": 44.012,
+          "score": 0.474
+        },
+        {
+          "word": "going",
+          "start": 44.032,
+          "end": 44.132,
+          "score": 0.07
+        },
+        {
+          "word": "to",
+          "start": 44.152,
+          "end": 44.192,
+          "score": 0.146
+        },
+        {
+          "word": "ask",
+          "start": 44.212,
+          "end": 44.272,
+          "score": 0.036
+        },
+        {
+          "word": "you",
+          "start": 44.292,
+          "end": 44.372,
+          "score": 0.69
+        },
+        {
+          "word": "a",
+          "start": 44.412,
+          "end": 44.432,
+          "score": 0.0
+        },
+        {
+          "word": "few",
+          "start": 44.452,
+          "end": 44.512,
+          "score": 0.009
+        },
+        {
+          "word": "questions.",
+          "start": 44.532,
+          "end": 44.853,
+          "score": 0.213
+        }
+      ]
+    },
+    {
+      "start": 44.873,
+      "end": 47.876,
+      "text": "I'm going to ask you a few questions.",
+      "words": [
+        {
+          "word": "I'm",
+          "start": 44.873,
+          "end": 44.933,
+          "score": 0.225
+        },
+        {
+          "word": "going",
+          "start": 44.953,
+          "end": 45.193,
+          "score": 0.323
+        },
+        {
+          "word": "to",
+          "start": 45.293,
+          "end": 45.333,
+          "score": 0.263
+        },
+        {
+          "word": "ask",
+          "start": 45.433,
+          "end": 45.513,
+          "score": 0.094
+        },
+        {
+          "word": "you",
+          "start": 45.573,
+          "end": 45.633,
+          "score": 0.325
+        },
+        {
+          "word": "a",
+          "start": 47.395,
+          "end": 47.415,
+          "score": 0.0
+        },
+        {
+          "word": "few",
+          "start": 47.435,
+          "end": 47.536,
+          "score": 0.61
+        },
+        {
+          "word": "questions.",
+          "start": 47.576,
+          "end": 47.876,
+          "score": 0.332
+        }
+      ]
+    },
+    {
+      "start": 47.916,
+      "end": 49.958,
+      "text": "I'm going to ask you a few questions.",
+      "words": [
+        {
+          "word": "I'm",
+          "start": 47.916,
+          "end": 47.996,
+          "score": 0.15
+        },
+        {
+          "word": "going",
+          "start": 48.016,
+          "end": 48.236,
+          "score": 0.498
+        },
+        {
+          "word": "to",
+          "start": 48.256,
+          "end": 48.396,
+          "score": 0.722
+        },
+        {
+          "word": "ask",
+          "start": 48.537,
+          "end": 48.897,
+          "score": 0.278
+        },
+        {
+          "word": "you",
+          "start": 48.917,
+          "end": 49.017,
+          "score": 0.342
+        },
+        {
+          "word": "a",
+          "start": 49.037,
+          "end": 49.137,
+          "score": 0.538
+        },
+        {
+          "word": "few",
+          "start": 49.197,
+          "end": 49.398,
+          "score": 0.401
+        },
+        {
+          "word": "questions.",
+          "start": 49.418,
+          "end": 49.958,
+          "score": 0.462
+        }
+      ]
+    },
+    {
+      "start": 49.978,
+      "end": 51.88,
+      "text": "I'm going to ask you a few questions.",
+      "words": [
+        {
+          "word": "I'm",
+          "start": 49.978,
+          "end": 50.038,
+          "score": 0.002
+        },
+        {
+          "word": "going",
+          "start": 50.058,
+          "end": 50.519,
+          "score": 0.455
+        },
+        {
+          "word": "to",
+          "start": 50.539,
+          "end": 50.579,
+          "score": 0.294
+        },
+        {
+          "word": "ask",
+          "start": 50.719,
+          "end": 50.799,
+          "score": 0.258
+        },
+        {
+          "word": "you",
+          "start": 50.839,
+          "end": 50.899,
+          "score": 0.097
+        },
+        {
+          "word": "a",
+          "start": 50.919,
+          "end": 50.939,
+          "score": 0.008
+        },
+        {
+          "word": "few",
+          "start": 50.959,
+          "end": 51.019,
+          "score": 0.118
+        },
+        {
+          "word": "questions.",
+          "start": 51.039,
+          "end": 51.88,
+          "score": 0.304
+        }
+      ]
+    },
+    {
+      "start": 51.9,
+      "end": 53.362,
+      "text": "I'm going to ask you a few questions.",
+      "words": [
+        {
+          "word": "I'm",
+          "start": 51.9,
+          "end": 52.021,
+          "score": 0.478
+        },
+        {
+          "word": "going",
+          "start": 52.061,
+          "end": 52.161,
+          "score": 0.018
+        },
+        {
+          "word": "to",
+          "start": 52.181,
+          "end": 52.261,
+          "score": 0.508
+        },
+        {
+          "word": "ask",
+          "start": 52.301,
+          "end": 52.421,
+          "score": 0.374
+        },
+        {
+          "word": "you",
+          "start": 52.441,
+          "end": 52.501,
+          "score": 0.034
+        },
+        {
+          "word": "a",
+          "start": 52.561,
+          "end": 52.641,
+          "score": 0.697
+        },
+        {
+          "word": "few",
+          "start": 52.701,
+          "end": 52.922,
+          "score": 0.184
+        },
+        {
+          "word": "questions.",
+          "start": 52.942,
+          "end": 53.362,
+          "score": 0.317
+        }
+      ]
+    },
+    {
+      "start": 53.506,
+      "end": 82.866,
+      "text": " I think it's important to remember that when I was younger, when I was in high school, when I was in high school, when I was in high school, when I was in high school, when I was in high school, when I was in high school, when I was in high school, when I was in high school, when I was in high school, when I was in high school, when I was in high school, when I was in high school,",
+      "words": [
+        {
+          "word": "I",
+          "start": 53.506,
+          "end": 53.666,
+          "score": 0.637
+        },
+        {
+          "word": "think",
+          "start": 53.686,
+          "end": 53.887,
+          "score": 0.395
+        },
+        {
+          "word": "it's",
+          "start": 53.927,
+          "end": 54.187,
+          "score": 0.087
+        },
+        {
+          "word": "important",
+          "start": 54.207,
+          "end": 54.547,
+          "score": 0.542
+        },
+        {
+          "word": "to",
+          "start": 55.288,
+          "end": 55.409,
+          "score": 0.33
+        },
+        {
+          "word": "remember",
+          "start": 55.489,
+          "end": 56.79,
+          "score": 0.332
+        },
+        {
+          "word": "that",
+          "start": 56.811,
+          "end": 56.991,
+          "score": 0.246
+        },
+        {
+          "word": "when",
+          "start": 57.011,
+          "end": 57.131,
+          "score": 0.218
+        },
+        {
+          "word": "I",
+          "start": 57.151,
+          "end": 57.171,
+          "score": 0.01
+        },
+        {
+          "word": "was",
+          "start": 57.191,
+          "end": 57.271,
+          "score": 0.396
+        },
+        {
+          "word": "younger,",
+          "start": 57.311,
+          "end": 57.652,
+          "score": 0.685
+        },
+        {
+          "word": "when",
+          "start": 58.293,
+          "end": 58.453,
+          "score": 0.398
+        },
+        {
+          "word": "I",
+          "start": 58.473,
+          "end": 58.533,
+          "score": 0.527
+        },
+        {
+          "word": "was",
+          "start": 58.693,
+          "end": 58.753,
+          "score": 0.164
+        },
+        {
+          "word": "in",
+          "start": 58.833,
+          "end": 58.933,
+          "score": 0.735
+        },
+        {
+          "word": "high",
+          "start": 59.014,
+          "end": 59.234,
+          "score": 0.296
+        },
+        {
+          "word": "school,",
+          "start": 59.414,
+          "end": 59.634,
+          "score": 0.315
+        },
+        {
+          "word": "when",
+          "start": 59.654,
+          "end": 59.775,
+          "score": 0.401
+        },
+        {
+          "word": "I",
+          "start": 59.835,
+          "end": 59.995,
+          "score": 0.4
+        },
+        {
+          "word": "was",
+          "start": 60.015,
+          "end": 60.135,
+          "score": 0.278
+        },
+        {
+          "word": "in",
+          "start": 60.155,
+          "end": 60.195,
+          "score": 0.317
+        },
+        {
+          "word": "high",
+          "start": 60.235,
+          "end": 60.355,
+          "score": 0.157
+        },
+        {
+          "word": "school,",
+          "start": 60.375,
+          "end": 60.516,
+          "score": 0.089
+        },
+        {
+          "word": "when",
+          "start": 60.536,
+          "end": 60.676,
+          "score": 0.322
+        },
+        {
+          "word": "I",
+          "start": 61.016,
+          "end": 61.036,
+          "score": 0.002
+        },
+        {
+          "word": "was",
+          "start": 61.056,
+          "end": 61.116,
+          "score": 0.046
+        },
+        {
+          "word": "in",
+          "start": 61.136,
+          "end": 61.237,
+          "score": 0.726
+        },
+        {
+          "word": "high",
+          "start": 61.257,
+          "end": 61.517,
+          "score": 0.319
+        },
+        {
+          "word": "school,",
+          "start": 61.537,
+          "end": 61.737,
+          "score": 0.277
+        },
+        {
+          "word": "when",
+          "start": 61.777,
+          "end": 61.877,
+          "score": 0.352
+        },
+        {
+          "word": "I",
+          "start": 61.897,
+          "end": 61.958,
+          "score": 0.816
+        },
+        {
+          "word": "was",
+          "start": 61.978,
+          "end": 62.598,
+          "score": 0.508
+        },
+        {
+          "word": "in",
+          "start": 62.618,
+          "end": 62.679,
+          "score": 0.732
+        },
+        {
+          "word": "high",
+          "start": 62.699,
+          "end": 62.939,
+          "score": 0.144
+        },
+        {
+          "word": "school,",
+          "start": 62.959,
+          "end": 63.339,
+          "score": 0.54
+        },
+        {
+          "word": "when",
+          "start": 64.601,
+          "end": 64.781,
+          "score": 0.875
+        },
+        {
+          "word": "I",
+          "start": 64.982,
+          "end": 65.162,
+          "score": 0.734
+        },
+        {
+          "word": "was",
+          "start": 65.562,
+          "end": 65.863,
+          "score": 0.566
+        },
+        {
+          "word": "in",
+          "start": 65.883,
+          "end": 66.043,
+          "score": 0.244
+        },
+        {
+          "word": "high",
+          "start": 66.063,
+          "end": 66.143,
+          "score": 0.035
+        },
+        {
+          "word": "school,",
+          "start": 66.163,
+          "end": 66.344,
+          "score": 0.307
+        },
+        {
+          "word": "when",
+          "start": 66.364,
+          "end": 66.464,
+          "score": 0.426
+        },
+        {
+          "word": "I",
+          "start": 66.484,
+          "end": 66.504,
+          "score": 0.958
+        },
+        {
+          "word": "was",
+          "start": 66.564,
+          "end": 66.644,
+          "score": 0.753
+        },
+        {
+          "word": "in",
+          "start": 66.704,
+          "end": 67.105,
+          "score": 0.36
+        },
+        {
+          "word": "high",
+          "start": 67.125,
+          "end": 67.205,
+          "score": 0.15
+        },
+        {
+          "word": "school,",
+          "start": 67.265,
+          "end": 67.525,
+          "score": 0.416
+        },
+        {
+          "word": "when",
+          "start": 67.565,
+          "end": 67.765,
+          "score": 0.481
+        },
+        {
+          "word": "I",
+          "start": 68.346,
+          "end": 68.366,
+          "score": 0.788
+        },
+        {
+          "word": "was",
+          "start": 68.486,
+          "end": 68.727,
+          "score": 0.318
+        },
+        {
+          "word": "in",
+          "start": 68.767,
+          "end": 68.847,
+          "score": 0.544
+        },
+        {
+          "word": "high",
+          "start": 69.007,
+          "end": 69.308,
+          "score": 0.567
+        },
+        {
+          "word": "school,",
+          "start": 70.289,
+          "end": 70.93,
+          "score": 0.573
+        },
+        {
+          "word": "when",
+          "start": 71.47,
+          "end": 71.851,
+          "score": 0.24
+        },
+        {
+          "word": "I",
+          "start": 71.871,
+          "end": 71.891,
+          "score": 0.416
+        },
+        {
+          "word": "was",
+          "start": 71.991,
+          "end": 72.151,
+          "score": 0.473
+        },
+        {
+          "word": "in",
+          "start": 72.171,
+          "end": 72.252,
+          "score": 0.788
+        },
+        {
+          "word": "high",
+          "start": 72.272,
+          "end": 72.412,
+          "score": 0.286
+        },
+        {
+          "word": "school,",
+          "start": 72.452,
+          "end": 72.892,
+          "score": 0.263
+        },
+        {
+          "word": "when",
+          "start": 72.912,
+          "end": 73.053,
+          "score": 0.368
+        },
+        {
+          "word": "I",
+          "start": 73.253,
+          "end": 73.273,
+          "score": 0.001
+        },
+        {
+          "word": "was",
+          "start": 73.293,
+          "end": 73.373,
+          "score": 0.345
+        },
+        {
+          "word": "in",
+          "start": 73.393,
+          "end": 73.433,
+          "score": 0.005
+        },
+        {
+          "word": "high",
+          "start": 73.453,
+          "end": 73.553,
+          "score": 0.161
+        },
+        {
+          "word": "school,",
+          "start": 73.573,
+          "end": 73.814,
+          "score": 0.287
+        },
+        {
+          "word": "when",
+          "start": 73.834,
+          "end": 73.914,
+          "score": 0.092
+        },
+        {
+          "word": "I",
+          "start": 73.934,
+          "end": 73.954,
+          "score": 0.033
+        },
+        {
+          "word": "was",
+          "start": 73.974,
+          "end": 74.154,
+          "score": 0.42
+        },
+        {
+          "word": "in",
+          "start": 74.174,
+          "end": 74.214,
+          "score": 0.006
+        },
+        {
+          "word": "high",
+          "start": 74.234,
+          "end": 74.374,
+          "score": 0.476
+        },
+        {
+          "word": "school,",
+          "start": 74.455,
+          "end": 75.816,
+          "score": 0.562
+        },
+        {
+          "word": "when",
+          "start": 76.097,
+          "end": 76.377,
+          "score": 0.43
+        },
+        {
+          "word": "I",
+          "start": 78.24,
+          "end": 78.26,
+          "score": 0.773
+        },
+        {
+          "word": "was",
+          "start": 78.54,
+          "end": 78.8,
+          "score": 0.587
+        },
+        {
+          "word": "in",
+          "start": 78.841,
+          "end": 78.921,
+          "score": 0.603
+        },
+        {
+          "word": "high",
+          "start": 78.981,
+          "end": 79.662,
+          "score": 0.546
+        },
+        {
+          "word": "school,",
+          "start": 79.682,
+          "end": 80.182,
+          "score": 0.687
+        },
+        {
+          "word": "when",
+          "start": 81.444,
+          "end": 81.684,
+          "score": 0.486
+        },
+        {
+          "word": "I",
+          "start": 82.125,
+          "end": 82.145,
+          "score": 0.0
+        },
+        {
+          "word": "was",
+          "start": 82.165,
+          "end": 82.245,
+          "score": 0.329
+        },
+        {
+          "word": "in",
+          "start": 82.285,
+          "end": 82.345,
+          "score": 0.525
+        },
+        {
+          "word": "high",
+          "start": 82.445,
+          "end": 82.706,
+          "score": 0.207
+        },
+        {
+          "word": "school,",
+          "start": 82.726,
+          "end": 82.866,
+          "score": 0.143
+        }
+      ]
+    },
+    {
+      "start": 82.978,
+      "end": 87.828,
+      "text": " I think it's a creative thing and I think it's a very important thing for me.",
+      "words": [
+        {
+          "word": "I",
+          "start": 82.978,
+          "end": 83.198,
+          "score": 0.538
+        },
+        {
+          "word": "think",
+          "start": 83.218,
+          "end": 83.539,
+          "score": 0.394
+        },
+        {
+          "word": "it's",
+          "start": 84.02,
+          "end": 84.1,
+          "score": 0.0
+        },
+        {
+          "word": "a",
+          "start": 84.12,
+          "end": 84.2,
+          "score": 0.645
+        },
+        {
+          "word": "creative",
+          "start": 84.22,
+          "end": 84.441,
+          "score": 0.146
+        },
+        {
+          "word": "thing",
+          "start": 84.461,
+          "end": 84.802,
+          "score": 0.243
+        },
+        {
+          "word": "and",
+          "start": 84.822,
+          "end": 84.922,
+          "score": 0.121
+        },
+        {
+          "word": "I",
+          "start": 84.942,
+          "end": 85.002,
+          "score": 0.525
+        },
+        {
+          "word": "think",
+          "start": 85.022,
+          "end": 85.283,
+          "score": 0.437
+        },
+        {
+          "word": "it's",
+          "start": 85.343,
+          "end": 85.483,
+          "score": 0.261
+        },
+        {
+          "word": "a",
+          "start": 85.503,
+          "end": 85.543,
+          "score": 0.35
+        },
+        {
+          "word": "very",
+          "start": 85.563,
+          "end": 85.703,
+          "score": 0.424
+        },
+        {
+          "word": "important",
+          "start": 85.744,
+          "end": 86.826,
+          "score": 0.338
+        },
+        {
+          "word": "thing",
+          "start": 86.846,
+          "end": 87.287,
+          "score": 0.356
+        },
+        {
+          "word": "for",
+          "start": 87.347,
+          "end": 87.447,
+          "score": 0.218
+        },
+        {
+          "word": "me.",
+          "start": 87.687,
+          "end": 87.828,
+          "score": 0.369
+        }
+      ]
+    },
+    {
+      "start": 87.848,
+      "end": 91.235,
+      "text": "I think it's a very important thing for me.",
+      "words": [
+        {
+          "word": "I",
+          "start": 87.848,
+          "end": 87.888,
+          "score": 0.335
+        },
+        {
+          "word": "think",
+          "start": 87.908,
+          "end": 88.329,
+          "score": 0.578
+        },
+        {
+          "word": "it's",
+          "start": 88.389,
+          "end": 88.529,
+          "score": 0.097
+        },
+        {
+          "word": "a",
+          "start": 88.549,
+          "end": 88.629,
+          "score": 0.63
+        },
+        {
+          "word": "very",
+          "start": 88.79,
+          "end": 89.05,
+          "score": 0.412
+        },
+        {
+          "word": "important",
+          "start": 89.07,
+          "end": 89.551,
+          "score": 0.304
+        },
+        {
+          "word": "thing",
+          "start": 90.433,
+          "end": 90.814,
+          "score": 0.448
+        },
+        {
+          "word": "for",
+          "start": 90.834,
+          "end": 90.994,
+          "score": 0.36
+        },
+        {
+          "word": "me.",
+          "start": 91.014,
+          "end": 91.235,
+          "score": 0.477
+        }
+      ]
+    },
+    {
+      "start": 91.255,
+      "end": 94.521,
+      "text": "I think it's a very important thing for me.",
+      "words": [
+        {
+          "word": "I",
+          "start": 91.255,
+          "end": 91.275,
+          "score": 0.001
+        },
+        {
+          "word": "think",
+          "start": 91.295,
+          "end": 91.515,
+          "score": 0.511
+        },
+        {
+          "word": "it's",
+          "start": 91.716,
+          "end": 91.896,
+          "score": 0.392
+        },
+        {
+          "word": "a",
+          "start": 92.377,
+          "end": 92.778,
+          "score": 0.825
+        },
+        {
+          "word": "very",
+          "start": 93.239,
+          "end": 93.419,
+          "score": 0.47
+        },
+        {
+          "word": "important",
+          "start": 93.519,
+          "end": 94.06,
+          "score": 0.422
+        },
+        {
+          "word": "thing",
+          "start": 94.08,
+          "end": 94.181,
+          "score": 0.002
+        },
+        {
+          "word": "for",
+          "start": 94.201,
+          "end": 94.301,
+          "score": 0.231
+        },
+        {
+          "word": "me.",
+          "start": 94.361,
+          "end": 94.521,
+          "score": 0.862
+        }
+      ]
+    },
+    {
+      "start": 94.541,
+      "end": 95.824,
+      "text": "I think it's very important for me.",
+      "words": [
+        {
+          "word": "I",
+          "start": 94.541,
+          "end": 94.601,
+          "score": 0.353
+        },
+        {
+          "word": "think",
+          "start": 94.621,
+          "end": 94.742,
+          "score": 0.468
+        },
+        {
+          "word": "it's",
+          "start": 94.822,
+          "end": 94.962,
+          "score": 0.237
+        },
+        {
+          "word": "very",
+          "start": 94.982,
+          "end": 95.203,
+          "score": 0.271
+        },
+        {
+          "word": "important",
+          "start": 95.223,
+          "end": 95.443,
+          "score": 0.266
+        },
+        {
+          "word": "for",
+          "start": 95.463,
+          "end": 95.543,
+          "score": 0.191
+        },
+        {
+          "word": "me.",
+          "start": 95.563,
+          "end": 95.824,
+          "score": 0.714
+        }
+      ]
+    },
+    {
+      "start": 95.924,
+      "end": 97.908,
+      "text": "I think it's a very important thing for me.",
+      "words": [
+        {
+          "word": "I",
+          "start": 95.924,
+          "end": 95.944,
+          "score": 0.008
+        },
+        {
+          "word": "think",
+          "start": 95.964,
+          "end": 96.084,
+          "score": 0.558
+        },
+        {
+          "word": "it's",
+          "start": 96.104,
+          "end": 96.325,
+          "score": 0.068
+        },
+        {
+          "word": "a",
+          "start": 96.345,
+          "end": 96.425,
+          "score": 0.635
+        },
+        {
+          "word": "very",
+          "start": 96.806,
+          "end": 97.086,
+          "score": 0.271
+        },
+        {
+          "word": "important",
+          "start": 97.106,
+          "end": 97.547,
+          "score": 0.278
+        },
+        {
+          "word": "thing",
+          "start": 97.567,
+          "end": 97.668,
+          "score": 0.174
+        },
+        {
+          "word": "for",
+          "start": 97.688,
+          "end": 97.748,
+          "score": 0.179
+        },
+        {
+          "word": "me.",
+          "start": 97.768,
+          "end": 97.908,
+          "score": 0.578
+        }
+      ]
+    },
+    {
+      "start": 97.928,
+      "end": 100.714,
+      "text": "I think it's a very important thing for me.",
+      "words": [
+        {
+          "word": "I",
+          "start": 97.928,
+          "end": 97.988,
+          "score": 0.529
+        },
+        {
+          "word": "think",
+          "start": 98.008,
+          "end": 98.269,
+          "score": 0.135
+        },
+        {
+          "word": "it's",
+          "start": 98.289,
+          "end": 98.369,
+          "score": 0.183
+        },
+        {
+          "word": "a",
+          "start": 98.449,
+          "end": 98.589,
+          "score": 0.642
+        },
+        {
+          "word": "very",
+          "start": 98.93,
+          "end": 99.07,
+          "score": 0.358
+        },
+        {
+          "word": "important",
+          "start": 99.591,
+          "end": 100.012,
+          "score": 0.298
+        },
+        {
+          "word": "thing",
+          "start": 100.032,
+          "end": 100.233,
+          "score": 0.27
+        },
+        {
+          "word": "for",
+          "start": 100.293,
+          "end": 100.413,
+          "score": 0.185
+        },
+        {
+          "word": "me.",
+          "start": 100.433,
+          "end": 100.714,
+          "score": 0.695
+        }
+      ]
+    },
+    {
+      "start": 100.994,
+      "end": 102.818,
+      "text": "I think it's a very important thing for me.",
+      "words": [
+        {
+          "word": "I",
+          "start": 100.994,
+          "end": 101.094,
+          "score": 0.636
+        },
+        {
+          "word": "think",
+          "start": 101.114,
+          "end": 101.215,
+          "score": 0.014
+        },
+        {
+          "word": "it's",
+          "start": 101.255,
+          "end": 101.355,
+          "score": 0.112
+        },
+        {
+          "word": "a",
+          "start": 101.375,
+          "end": 101.395,
+          "score": 0.003
+        },
+        {
+          "word": "very",
+          "start": 101.415,
+          "end": 101.736,
+          "score": 0.52
+        },
+        {
+          "word": "important",
+          "start": 101.756,
+          "end": 102.257,
+          "score": 0.339
+        },
+        {
+          "word": "thing",
+          "start": 102.337,
+          "end": 102.437,
+          "score": 0.004
+        },
+        {
+          "word": "for",
+          "start": 102.457,
+          "end": 102.537,
+          "score": 0.324
+        },
+        {
+          "word": "me.",
+          "start": 102.557,
+          "end": 102.818,
+          "score": 0.788
+        }
+      ]
+    },
+    {
+      "start": 102.838,
+      "end": 104.882,
+      "text": "I think it's a very important thing for me.",
+      "words": [
+        {
+          "word": "I",
+          "start": 102.838,
+          "end": 102.858,
+          "score": 0.003
+        },
+        {
+          "word": "think",
+          "start": 102.878,
+          "end": 103.078,
+          "score": 0.311
+        },
+        {
+          "word": "it's",
+          "start": 103.098,
+          "end": 103.319,
+          "score": 0.455
+        },
+        {
+          "word": "a",
+          "start": 103.339,
+          "end": 103.499,
+          "score": 0.886
+        },
+        {
+          "word": "very",
+          "start": 103.96,
+          "end": 104.161,
+          "score": 0.591
+        },
+        {
+          "word": "important",
+          "start": 104.241,
+          "end": 104.601,
+          "score": 0.246
+        },
+        {
+          "word": "thing",
+          "start": 104.622,
+          "end": 104.722,
+          "score": 0.12
+        },
+        {
+          "word": "for",
+          "start": 104.742,
+          "end": 104.802,
+          "score": 0.0
+        },
+        {
+          "word": "me.",
+          "start": 104.822,
+          "end": 104.882,
+          "score": 0.333
+        }
+      ]
+    },
+    {
+      "start": 105.058,
+      "end": 109.124,
+      "text": " I'm going to share with you a couple of things.",
+      "words": [
+        {
+          "word": "I'm",
+          "start": 105.058,
+          "end": 105.399,
+          "score": 0.295
+        },
+        {
+          "word": "going",
+          "start": 105.419,
+          "end": 106.34,
+          "score": 0.62
+        },
+        {
+          "word": "to",
+          "start": 106.46,
+          "end": 106.68,
+          "score": 0.476
+        },
+        {
+          "word": "share",
+          "start": 106.781,
+          "end": 106.981,
+          "score": 0.64
+        },
+        {
+          "word": "with",
+          "start": 107.001,
+          "end": 107.201,
+          "score": 0.456
+        },
+        {
+          "word": "you",
+          "start": 107.382,
+          "end": 107.702,
+          "score": 0.597
+        },
+        {
+          "word": "a",
+          "start": 107.722,
+          "end": 107.802,
+          "score": 0.426
+        },
+        {
+          "word": "couple",
+          "start": 107.822,
+          "end": 108.163,
+          "score": 0.285
+        },
+        {
+          "word": "of",
+          "start": 108.243,
+          "end": 108.483,
+          "score": 0.389
+        },
+        {
+          "word": "things.",
+          "start": 108.503,
+          "end": 109.124,
+          "score": 0.284
+        }
+      ]
+    },
+    {
+      "start": 109.144,
+      "end": 111.708,
+      "text": "I'm going to share with you a couple of things.",
+      "words": [
+        {
+          "word": "I'm",
+          "start": 109.144,
+          "end": 109.264,
+          "score": 0.29
+        },
+        {
+          "word": "going",
+          "start": 109.304,
+          "end": 109.605,
+          "score": 0.609
+        },
+        {
+          "word": "to",
+          "start": 109.625,
+          "end": 109.725,
+          "score": 0.564
+        },
+        {
+          "word": "share",
+          "start": 109.745,
+          "end": 110.026,
+          "score": 0.466
+        },
+        {
+          "word": "with",
+          "start": 110.086,
+          "end": 110.206,
+          "score": 0.144
+        },
+        {
+          "word": "you",
+          "start": 110.226,
+          "end": 110.446,
+          "score": 0.51
+        },
+        {
+          "word": "a",
+          "start": 110.486,
+          "end": 110.546,
+          "score": 0.611
+        },
+        {
+          "word": "couple",
+          "start": 110.847,
+          "end": 110.967,
+          "score": 0.008
+        },
+        {
+          "word": "of",
+          "start": 110.987,
+          "end": 111.027,
+          "score": 0.412
+        },
+        {
+          "word": "things.",
+          "start": 111.227,
+          "end": 111.708,
+          "score": 0.332
+        }
+      ]
+    },
+    {
+      "start": 111.768,
+      "end": 118.338,
+      "text": "I'm going to share with you a couple of things.",
+      "words": [
+        {
+          "word": "I'm",
+          "start": 111.768,
+          "end": 112.209,
+          "score": 0.509
+        },
+        {
+          "word": "going",
+          "start": 112.289,
+          "end": 112.89,
+          "score": 0.647
+        },
+        {
+          "word": "to",
+          "start": 113.11,
+          "end": 113.25,
+          "score": 0.805
+        },
+        {
+          "word": "share",
+          "start": 113.331,
+          "end": 113.992,
+          "score": 0.581
+        },
+        {
+          "word": "with",
+          "start": 114.012,
+          "end": 114.152,
+          "score": 0.628
+        },
+        {
+          "word": "you",
+          "start": 114.753,
+          "end": 115.574,
+          "score": 0.542
+        },
+        {
+          "word": "a",
+          "start": 115.674,
+          "end": 115.734,
+          "score": 0.509
+        },
+        {
+          "word": "couple",
+          "start": 116.175,
+          "end": 117.377,
+          "score": 0.622
+        },
+        {
+          "word": "of",
+          "start": 117.457,
+          "end": 117.877,
+          "score": 0.39
+        },
+        {
+          "word": "things.",
+          "start": 117.898,
+          "end": 118.338,
+          "score": 0.282
+        }
+      ]
+    },
+    {
+      "start": 118.418,
+      "end": 121.543,
+      "text": "I'm going to share with you a couple of things.",
+      "words": [
+        {
+          "word": "I'm",
+          "start": 118.418,
+          "end": 118.699,
+          "score": 0.363
+        },
+        {
+          "word": "going",
+          "start": 118.859,
+          "end": 118.999,
+          "score": 0.385
+        },
+        {
+          "word": "to",
+          "start": 119.019,
+          "end": 119.079,
+          "score": 0.866
+        },
+        {
+          "word": "share",
+          "start": 119.179,
+          "end": 119.72,
+          "score": 0.492
+        },
+        {
+          "word": "with",
+          "start": 119.74,
+          "end": 120.041,
+          "score": 0.282
+        },
+        {
+          "word": "you",
+          "start": 120.281,
+          "end": 120.341,
+          "score": 0.246
+        },
+        {
+          "word": "a",
+          "start": 120.401,
+          "end": 120.602,
+          "score": 0.377
+        },
+        {
+          "word": "couple",
+          "start": 120.622,
+          "end": 120.822,
+          "score": 0.264
+        },
+        {
+          "word": "of",
+          "start": 120.862,
+          "end": 121.022,
+          "score": 0.596
+        },
+        {
+          "word": "things.",
+          "start": 121.142,
+          "end": 121.543,
+          "score": 0.36
+        }
+      ]
+    },
+    {
+      "start": 121.563,
+      "end": 123.947,
+      "text": "I'm going to share with you a couple of things.",
+      "words": [
+        {
+          "word": "I'm",
+          "start": 121.563,
+          "end": 121.643,
+          "score": 0.192
+        },
+        {
+          "word": "going",
+          "start": 121.703,
+          "end": 121.864,
+          "score": 0.112
+        },
+        {
+          "word": "to",
+          "start": 121.884,
+          "end": 121.924,
+          "score": 0.361
+        },
+        {
+          "word": "share",
+          "start": 122.224,
+          "end": 122.424,
+          "score": 0.471
+        },
+        {
+          "word": "with",
+          "start": 122.464,
+          "end": 122.665,
+          "score": 0.442
+        },
+        {
+          "word": "you",
+          "start": 122.705,
+          "end": 123.085,
+          "score": 0.492
+        },
+        {
+          "word": "a",
+          "start": 123.186,
+          "end": 123.246,
+          "score": 0.71
+        },
+        {
+          "word": "couple",
+          "start": 123.266,
+          "end": 123.606,
+          "score": 0.365
+        },
+        {
+          "word": "of",
+          "start": 123.646,
+          "end": 123.686,
+          "score": 0.106
+        },
+        {
+          "word": "things.",
+          "start": 123.706,
+          "end": 123.947,
+          "score": 0.466
+        }
+      ]
+    },
+    {
+      "start": 124.247,
+      "end": 128.754,
+      "text": "I'm going to share with you a couple of things.",
+      "words": [
+        {
+          "word": "I'm",
+          "start": 124.247,
+          "end": 124.367,
+          "score": 0.397
+        },
+        {
+          "word": "going",
+          "start": 124.608,
+          "end": 124.788,
+          "score": 0.496
+        },
+        {
+          "word": "to",
+          "start": 125.369,
+          "end": 125.569,
+          "score": 0.486
+        },
+        {
+          "word": "share",
+          "start": 125.709,
+          "end": 126.33,
+          "score": 0.393
+        },
+        {
+          "word": "with",
+          "start": 126.43,
+          "end": 126.591,
+          "score": 0.312
+        },
+        {
+          "word": "you",
+          "start": 126.811,
+          "end": 127.352,
+          "score": 0.418
+        },
+        {
+          "word": "a",
+          "start": 127.492,
+          "end": 127.592,
+          "score": 0.883
+        },
+        {
+          "word": "couple",
+          "start": 127.853,
+          "end": 128.333,
+          "score": 0.373
+        },
+        {
+          "word": "of",
+          "start": 128.414,
+          "end": 128.514,
+          "score": 0.473
+        },
+        {
+          "word": "things.",
+          "start": 128.614,
+          "end": 128.754,
+          "score": 0.042
+        }
+      ]
+    }
+  ],
+  "word_segments": [
+    {
+      "word": "I'm",
+      "start": 0.194,
+      "end": 0.935,
+      "score": 0.376
+    },
+    {
+      "word": "not",
+      "start": 0.955,
+      "end": 1.095,
+      "score": 0.389
+    },
+    {
+      "word": "sure",
+      "start": 1.216,
+      "end": 1.456,
+      "score": 0.574
+    },
+    {
+      "word": "if",
+      "start": 1.536,
+      "end": 1.596,
+      "score": 0.342
+    },
+    {
+      "word": "I'll",
+      "start": 1.656,
+      "end": 1.897,
+      "score": 0.298
+    },
+    {
+      "word": "be",
+      "start": 1.937,
+      "end": 2.017,
+      "score": 0.32
+    },
+    {
+      "word": "able",
+      "start": 2.137,
+      "end": 2.337,
+      "score": 0.273
+    },
+    {
+      "word": "to",
+      "start": 2.357,
+      "end": 3.078,
+      "score": 0.602
+    },
+    {
+      "word": "make",
+      "start": 3.158,
+      "end": 3.759,
+      "score": 0.665
+    },
+    {
+      "word": "it",
+      "start": 3.779,
+      "end": 3.94,
+      "score": 0.661
+    },
+    {
+      "word": "to",
+      "start": 3.96,
+      "end": 4.14,
+      "score": 0.675
+    },
+    {
+      "word": "the",
+      "start": 4.641,
+      "end": 4.721,
+      "score": 0.348
+    },
+    {
+      "word": "next",
+      "start": 4.761,
+      "end": 5.362,
+      "score": 0.686
+    },
+    {
+      "word": "level.",
+      "start": 5.462,
+      "end": 5.782,
+      "score": 0.496
+    },
+    {
+      "word": "I'm",
+      "start": 6.123,
+      "end": 6.183,
+      "score": 0.224
+    },
+    {
+      "word": "not",
+      "start": 6.423,
+      "end": 7.004,
+      "score": 0.709
+    },
+    {
+      "word": "sure",
+      "start": 8.947,
+      "end": 9.268,
+      "score": 0.449
+    },
+    {
+      "word": "if",
+      "start": 9.288,
+      "end": 9.328,
+      "score": 0.0
+    },
+    {
+      "word": "I'll",
+      "start": 9.348,
+      "end": 9.548,
+      "score": 0.316
+    },
+    {
+      "word": "be",
+      "start": 9.588,
+      "end": 9.648,
+      "score": 0.63
+    },
+    {
+      "word": "able",
+      "start": 9.748,
+      "end": 10.129,
+      "score": 0.323
+    },
+    {
+      "word": "to",
+      "start": 10.149,
+      "end": 10.229,
+      "score": 0.464
+    },
+    {
+      "word": "make",
+      "start": 11.531,
+      "end": 11.972,
+      "score": 0.851
+    },
+    {
+      "word": "it",
+      "start": 13.294,
+      "end": 13.614,
+      "score": 0.698
+    },
+    {
+      "word": "to",
+      "start": 13.934,
+      "end": 14.035,
+      "score": 0.622
+    },
+    {
+      "word": "the",
+      "start": 14.075,
+      "end": 14.395,
+      "score": 0.22
+    },
+    {
+      "word": "next",
+      "start": 14.415,
+      "end": 15.236,
+      "score": 0.672
+    },
+    {
+      "word": "level.",
+      "start": 15.497,
+      "end": 16.418,
+      "score": 0.595
+    },
+    {
+      "word": "I'm",
+      "start": 16.558,
+      "end": 16.739,
+      "score": 0.23
+    },
+    {
+      "word": "not",
+      "start": 16.799,
+      "end": 17.059,
+      "score": 0.552
+    },
+    {
+      "word": "sure",
+      "start": 17.099,
+      "end": 17.56,
+      "score": 0.811
+    },
+    {
+      "word": "if",
+      "start": 18.201,
+      "end": 18.241,
+      "score": 0.259
+    },
+    {
+      "word": "I'll",
+      "start": 18.301,
+      "end": 18.381,
+      "score": 0.184
+    },
+    {
+      "word": "be",
+      "start": 18.401,
+      "end": 18.521,
+      "score": 0.3
+    },
+    {
+      "word": "able",
+      "start": 18.541,
+      "end": 18.942,
+      "score": 0.498
+    },
+    {
+      "word": "to",
+      "start": 20.885,
+      "end": 20.945,
+      "score": 0.314
+    },
+    {
+      "word": "make",
+      "start": 20.965,
+      "end": 21.125,
+      "score": 0.292
+    },
+    {
+      "word": "it",
+      "start": 21.145,
+      "end": 21.185,
+      "score": 0.326
+    },
+    {
+      "word": "to",
+      "start": 21.205,
+      "end": 21.285,
+      "score": 0.484
+    },
+    {
+      "word": "the",
+      "start": 21.305,
+      "end": 21.406,
+      "score": 0.391
+    },
+    {
+      "word": "next",
+      "start": 21.466,
+      "end": 21.546,
+      "score": 0.001
+    },
+    {
+      "word": "level.",
+      "start": 21.566,
+      "end": 21.746,
+      "score": 0.24
+    },
+    {
+      "word": "I'm",
+      "start": 21.766,
+      "end": 21.846,
+      "score": 0.293
+    },
+    {
+      "word": "not",
+      "start": 21.866,
+      "end": 21.926,
+      "score": 0.333
+    },
+    {
+      "word": "sure",
+      "start": 22.267,
+      "end": 22.527,
+      "score": 0.541
+    },
+    {
+      "word": "if",
+      "start": 22.547,
+      "end": 22.587,
+      "score": 0.002
+    },
+    {
+      "word": "I'll",
+      "start": 22.607,
+      "end": 22.708,
+      "score": 0.106
+    },
+    {
+      "word": "be",
+      "start": 22.728,
+      "end": 22.768,
+      "score": 0.368
+    },
+    {
+      "word": "able",
+      "start": 22.808,
+      "end": 22.888,
+      "score": 0.346
+    },
+    {
+      "word": "to",
+      "start": 22.908,
+      "end": 22.968,
+      "score": 0.456
+    },
+    {
+      "word": "make",
+      "start": 22.988,
+      "end": 23.268,
+      "score": 0.53
+    },
+    {
+      "word": "it",
+      "start": 23.288,
+      "end": 23.409,
+      "score": 0.708
+    },
+    {
+      "word": "to",
+      "start": 23.869,
+      "end": 23.909,
+      "score": 0.438
+    },
+    {
+      "word": "the",
+      "start": 23.929,
+      "end": 24.05,
+      "score": 0.497
+    },
+    {
+      "word": "next",
+      "start": 24.09,
+      "end": 24.17,
+      "score": 0.241
+    },
+    {
+      "word": "level.",
+      "start": 24.25,
+      "end": 24.37,
+      "score": 0.168
+    },
+    {
+      "word": "I'm",
+      "start": 24.61,
+      "end": 24.89,
+      "score": 0.598
+    },
+    {
+      "word": "going",
+      "start": 25.371,
+      "end": 25.611,
+      "score": 0.47
+    },
+    {
+      "word": "to",
+      "start": 25.751,
+      "end": 25.851,
+      "score": 0.548
+    },
+    {
+      "word": "ask",
+      "start": 26.112,
+      "end": 26.392,
+      "score": 0.189
+    },
+    {
+      "word": "you",
+      "start": 26.412,
+      "end": 26.472,
+      "score": 0.01
+    },
+    {
+      "word": "a",
+      "start": 26.492,
+      "end": 26.512,
+      "score": 0.827
+    },
+    {
+      "word": "few",
+      "start": 26.692,
+      "end": 26.792,
+      "score": 0.213
+    },
+    {
+      "word": "questions",
+      "start": 26.812,
+      "end": 27.353,
+      "score": 0.31
+    },
+    {
+      "word": "and",
+      "start": 27.493,
+      "end": 27.633,
+      "score": 0.656
+    },
+    {
+      "word": "then",
+      "start": 27.673,
+      "end": 27.774,
+      "score": 0.422
+    },
+    {
+      "word": "I'll",
+      "start": 27.874,
+      "end": 27.954,
+      "score": 0.0
+    },
+    {
+      "word": "ask",
+      "start": 27.974,
+      "end": 28.034,
+      "score": 0.0
+    },
+    {
+      "word": "you",
+      "start": 28.054,
+      "end": 28.174,
+      "score": 0.195
+    },
+    {
+      "word": "a",
+      "start": 28.234,
+      "end": 28.294,
+      "score": 0.409
+    },
+    {
+      "word": "few",
+      "start": 28.334,
+      "end": 28.394,
+      "score": 0.187
+    },
+    {
+      "word": "questions.",
+      "start": 28.414,
+      "end": 28.795,
+      "score": 0.336
+    },
+    {
+      "word": "I'm",
+      "start": 29.155,
+      "end": 29.295,
+      "score": 0.289
+    },
+    {
+      "word": "going",
+      "start": 29.355,
+      "end": 29.776,
+      "score": 0.476
+    },
+    {
+      "word": "to",
+      "start": 29.796,
+      "end": 29.916,
+      "score": 0.806
+    },
+    {
+      "word": "ask",
+      "start": 30.036,
+      "end": 30.156,
+      "score": 0.549
+    },
+    {
+      "word": "you",
+      "start": 30.176,
+      "end": 30.296,
+      "score": 0.459
+    },
+    {
+      "word": "a",
+      "start": 30.396,
+      "end": 30.477,
+      "score": 0.628
+    },
+    {
+      "word": "few",
+      "start": 30.497,
+      "end": 30.557,
+      "score": 0.003
+    },
+    {
+      "word": "questions",
+      "start": 30.577,
+      "end": 31.317,
+      "score": 0.419
+    },
+    {
+      "word": "and",
+      "start": 31.418,
+      "end": 31.518,
+      "score": 0.43
+    },
+    {
+      "word": "then",
+      "start": 31.558,
+      "end": 31.758,
+      "score": 0.125
+    },
+    {
+      "word": "I'll",
+      "start": 31.778,
+      "end": 31.858,
+      "score": 0.045
+    },
+    {
+      "word": "ask",
+      "start": 31.878,
+      "end": 32.018,
+      "score": 0.287
+    },
+    {
+      "word": "you",
+      "start": 32.038,
+      "end": 32.098,
+      "score": 0.151
+    },
+    {
+      "word": "a",
+      "start": 32.118,
+      "end": 32.138,
+      "score": 0.032
+    },
+    {
+      "word": "few",
+      "start": 32.158,
+      "end": 32.238,
+      "score": 0.187
+    },
+    {
+      "word": "questions.",
+      "start": 32.259,
+      "end": 32.799,
+      "score": 0.464
+    },
+    {
+      "word": "I'm",
+      "start": 33.46,
+      "end": 33.52,
+      "score": 0.113
+    },
+    {
+      "word": "going",
+      "start": 33.54,
+      "end": 33.64,
+      "score": 0.131
+    },
+    {
+      "word": "to",
+      "start": 33.66,
+      "end": 33.72,
+      "score": 0.5
+    },
+    {
+      "word": "ask",
+      "start": 33.8,
+      "end": 33.88,
+      "score": 0.331
+    },
+    {
+      "word": "you",
+      "start": 33.94,
+      "end": 34.0,
+      "score": 0.319
+    },
+    {
+      "word": "a",
+      "start": 35.963,
+      "end": 35.983,
+      "score": 0.0
+    },
+    {
+      "word": "few",
+      "start": 36.003,
+      "end": 36.063,
+      "score": 0.324
+    },
+    {
+      "word": "questions.",
+      "start": 37.144,
+      "end": 37.504,
+      "score": 0.314
+    },
+    {
+      "word": "I'm",
+      "start": 37.524,
+      "end": 37.805,
+      "score": 0.585
+    },
+    {
+      "word": "going",
+      "start": 37.825,
+      "end": 38.185,
+      "score": 0.222
+    },
+    {
+      "word": "to",
+      "start": 38.205,
+      "end": 38.385,
+      "score": 0.448
+    },
+    {
+      "word": "ask",
+      "start": 38.405,
+      "end": 38.546,
+      "score": 0.185
+    },
+    {
+      "word": "you",
+      "start": 38.806,
+      "end": 39.006,
+      "score": 0.656
+    },
+    {
+      "word": "a",
+      "start": 39.146,
+      "end": 39.166,
+      "score": 0.474
+    },
+    {
+      "word": "few",
+      "start": 39.206,
+      "end": 39.567,
+      "score": 0.8
+    },
+    {
+      "word": "questions.",
+      "start": 39.607,
+      "end": 40.127,
+      "score": 0.411
+    },
+    {
+      "word": "I'm",
+      "start": 40.167,
+      "end": 40.287,
+      "score": 0.338
+    },
+    {
+      "word": "going",
+      "start": 40.468,
+      "end": 40.568,
+      "score": 0.138
+    },
+    {
+      "word": "to",
+      "start": 40.588,
+      "end": 40.628,
+      "score": 0.066
+    },
+    {
+      "word": "ask",
+      "start": 40.648,
+      "end": 40.708,
+      "score": 0.056
+    },
+    {
+      "word": "you",
+      "start": 40.728,
+      "end": 40.848,
+      "score": 0.245
+    },
+    {
+      "word": "a",
+      "start": 40.868,
+      "end": 40.928,
+      "score": 0.907
+    },
+    {
+      "word": "few",
+      "start": 41.289,
+      "end": 41.409,
+      "score": 0.568
+    },
+    {
+      "word": "questions.",
+      "start": 41.449,
+      "end": 42.069,
+      "score": 0.398
+    },
+    {
+      "word": "I'm",
+      "start": 42.29,
+      "end": 42.35,
+      "score": 0.286
+    },
+    {
+      "word": "going",
+      "start": 42.65,
+      "end": 42.75,
+      "score": 0.268
+    },
+    {
+      "word": "to",
+      "start": 42.77,
+      "end": 42.83,
+      "score": 0.625
+    },
+    {
+      "word": "ask",
+      "start": 42.89,
+      "end": 42.97,
+      "score": 0.393
+    },
+    {
+      "word": "you",
+      "start": 43.01,
+      "end": 43.251,
+      "score": 0.517
+    },
+    {
+      "word": "a",
+      "start": 43.331,
+      "end": 43.351,
+      "score": 0.898
+    },
+    {
+      "word": "few",
+      "start": 43.371,
+      "end": 43.511,
+      "score": 0.448
+    },
+    {
+      "word": "questions.",
+      "start": 43.531,
+      "end": 43.891,
+      "score": 0.237
+    },
+    {
+      "word": "I'm",
+      "start": 43.911,
+      "end": 44.012,
+      "score": 0.474
+    },
+    {
+      "word": "going",
+      "start": 44.032,
+      "end": 44.132,
+      "score": 0.07
+    },
+    {
+      "word": "to",
+      "start": 44.152,
+      "end": 44.192,
+      "score": 0.146
+    },
+    {
+      "word": "ask",
+      "start": 44.212,
+      "end": 44.272,
+      "score": 0.036
+    },
+    {
+      "word": "you",
+      "start": 44.292,
+      "end": 44.372,
+      "score": 0.69
+    },
+    {
+      "word": "a",
+      "start": 44.412,
+      "end": 44.432,
+      "score": 0.0
+    },
+    {
+      "word": "few",
+      "start": 44.452,
+      "end": 44.512,
+      "score": 0.009
+    },
+    {
+      "word": "questions.",
+      "start": 44.532,
+      "end": 44.853,
+      "score": 0.213
+    },
+    {
+      "word": "I'm",
+      "start": 44.873,
+      "end": 44.933,
+      "score": 0.225
+    },
+    {
+      "word": "going",
+      "start": 44.953,
+      "end": 45.193,
+      "score": 0.323
+    },
+    {
+      "word": "to",
+      "start": 45.293,
+      "end": 45.333,
+      "score": 0.263
+    },
+    {
+      "word": "ask",
+      "start": 45.433,
+      "end": 45.513,
+      "score": 0.094
+    },
+    {
+      "word": "you",
+      "start": 45.573,
+      "end": 45.633,
+      "score": 0.325
+    },
+    {
+      "word": "a",
+      "start": 47.395,
+      "end": 47.415,
+      "score": 0.0
+    },
+    {
+      "word": "few",
+      "start": 47.435,
+      "end": 47.536,
+      "score": 0.61
+    },
+    {
+      "word": "questions.",
+      "start": 47.576,
+      "end": 47.876,
+      "score": 0.332
+    },
+    {
+      "word": "I'm",
+      "start": 47.916,
+      "end": 47.996,
+      "score": 0.15
+    },
+    {
+      "word": "going",
+      "start": 48.016,
+      "end": 48.236,
+      "score": 0.498
+    },
+    {
+      "word": "to",
+      "start": 48.256,
+      "end": 48.396,
+      "score": 0.722
+    },
+    {
+      "word": "ask",
+      "start": 48.537,
+      "end": 48.897,
+      "score": 0.278
+    },
+    {
+      "word": "you",
+      "start": 48.917,
+      "end": 49.017,
+      "score": 0.342
+    },
+    {
+      "word": "a",
+      "start": 49.037,
+      "end": 49.137,
+      "score": 0.538
+    },
+    {
+      "word": "few",
+      "start": 49.197,
+      "end": 49.398,
+      "score": 0.401
+    },
+    {
+      "word": "questions.",
+      "start": 49.418,
+      "end": 49.958,
+      "score": 0.462
+    },
+    {
+      "word": "I'm",
+      "start": 49.978,
+      "end": 50.038,
+      "score": 0.002
+    },
+    {
+      "word": "going",
+      "start": 50.058,
+      "end": 50.519,
+      "score": 0.455
+    },
+    {
+      "word": "to",
+      "start": 50.539,
+      "end": 50.579,
+      "score": 0.294
+    },
+    {
+      "word": "ask",
+      "start": 50.719,
+      "end": 50.799,
+      "score": 0.258
+    },
+    {
+      "word": "you",
+      "start": 50.839,
+      "end": 50.899,
+      "score": 0.097
+    },
+    {
+      "word": "a",
+      "start": 50.919,
+      "end": 50.939,
+      "score": 0.008
+    },
+    {
+      "word": "few",
+      "start": 50.959,
+      "end": 51.019,
+      "score": 0.118
+    },
+    {
+      "word": "questions.",
+      "start": 51.039,
+      "end": 51.88,
+      "score": 0.304
+    },
+    {
+      "word": "I'm",
+      "start": 51.9,
+      "end": 52.021,
+      "score": 0.478
+    },
+    {
+      "word": "going",
+      "start": 52.061,
+      "end": 52.161,
+      "score": 0.018
+    },
+    {
+      "word": "to",
+      "start": 52.181,
+      "end": 52.261,
+      "score": 0.508
+    },
+    {
+      "word": "ask",
+      "start": 52.301,
+      "end": 52.421,
+      "score": 0.374
+    },
+    {
+      "word": "you",
+      "start": 52.441,
+      "end": 52.501,
+      "score": 0.034
+    },
+    {
+      "word": "a",
+      "start": 52.561,
+      "end": 52.641,
+      "score": 0.697
+    },
+    {
+      "word": "few",
+      "start": 52.701,
+      "end": 52.922,
+      "score": 0.184
+    },
+    {
+      "word": "questions.",
+      "start": 52.942,
+      "end": 53.362,
+      "score": 0.317
+    },
+    {
+      "word": "I",
+      "start": 53.506,
+      "end": 53.666,
+      "score": 0.637
+    },
+    {
+      "word": "think",
+      "start": 53.686,
+      "end": 53.887,
+      "score": 0.395
+    },
+    {
+      "word": "it's",
+      "start": 53.927,
+      "end": 54.187,
+      "score": 0.087
+    },
+    {
+      "word": "important",
+      "start": 54.207,
+      "end": 54.547,
+      "score": 0.542
+    },
+    {
+      "word": "to",
+      "start": 55.288,
+      "end": 55.409,
+      "score": 0.33
+    },
+    {
+      "word": "remember",
+      "start": 55.489,
+      "end": 56.79,
+      "score": 0.332
+    },
+    {
+      "word": "that",
+      "start": 56.811,
+      "end": 56.991,
+      "score": 0.246
+    },
+    {
+      "word": "when",
+      "start": 57.011,
+      "end": 57.131,
+      "score": 0.218
+    },
+    {
+      "word": "I",
+      "start": 57.151,
+      "end": 57.171,
+      "score": 0.01
+    },
+    {
+      "word": "was",
+      "start": 57.191,
+      "end": 57.271,
+      "score": 0.396
+    },
+    {
+      "word": "younger,",
+      "start": 57.311,
+      "end": 57.652,
+      "score": 0.685
+    },
+    {
+      "word": "when",
+      "start": 58.293,
+      "end": 58.453,
+      "score": 0.398
+    },
+    {
+      "word": "I",
+      "start": 58.473,
+      "end": 58.533,
+      "score": 0.527
+    },
+    {
+      "word": "was",
+      "start": 58.693,
+      "end": 58.753,
+      "score": 0.164
+    },
+    {
+      "word": "in",
+      "start": 58.833,
+      "end": 58.933,
+      "score": 0.735
+    },
+    {
+      "word": "high",
+      "start": 59.014,
+      "end": 59.234,
+      "score": 0.296
+    },
+    {
+      "word": "school,",
+      "start": 59.414,
+      "end": 59.634,
+      "score": 0.315
+    },
+    {
+      "word": "when",
+      "start": 59.654,
+      "end": 59.775,
+      "score": 0.401
+    },
+    {
+      "word": "I",
+      "start": 59.835,
+      "end": 59.995,
+      "score": 0.4
+    },
+    {
+      "word": "was",
+      "start": 60.015,
+      "end": 60.135,
+      "score": 0.278
+    },
+    {
+      "word": "in",
+      "start": 60.155,
+      "end": 60.195,
+      "score": 0.317
+    },
+    {
+      "word": "high",
+      "start": 60.235,
+      "end": 60.355,
+      "score": 0.157
+    },
+    {
+      "word": "school,",
+      "start": 60.375,
+      "end": 60.516,
+      "score": 0.089
+    },
+    {
+      "word": "when",
+      "start": 60.536,
+      "end": 60.676,
+      "score": 0.322
+    },
+    {
+      "word": "I",
+      "start": 61.016,
+      "end": 61.036,
+      "score": 0.002
+    },
+    {
+      "word": "was",
+      "start": 61.056,
+      "end": 61.116,
+      "score": 0.046
+    },
+    {
+      "word": "in",
+      "start": 61.136,
+      "end": 61.237,
+      "score": 0.726
+    },
+    {
+      "word": "high",
+      "start": 61.257,
+      "end": 61.517,
+      "score": 0.319
+    },
+    {
+      "word": "school,",
+      "start": 61.537,
+      "end": 61.737,
+      "score": 0.277
+    },
+    {
+      "word": "when",
+      "start": 61.777,
+      "end": 61.877,
+      "score": 0.352
+    },
+    {
+      "word": "I",
+      "start": 61.897,
+      "end": 61.958,
+      "score": 0.816
+    },
+    {
+      "word": "was",
+      "start": 61.978,
+      "end": 62.598,
+      "score": 0.508
+    },
+    {
+      "word": "in",
+      "start": 62.618,
+      "end": 62.679,
+      "score": 0.732
+    },
+    {
+      "word": "high",
+      "start": 62.699,
+      "end": 62.939,
+      "score": 0.144
+    },
+    {
+      "word": "school,",
+      "start": 62.959,
+      "end": 63.339,
+      "score": 0.54
+    },
+    {
+      "word": "when",
+      "start": 64.601,
+      "end": 64.781,
+      "score": 0.875
+    },
+    {
+      "word": "I",
+      "start": 64.982,
+      "end": 65.162,
+      "score": 0.734
+    },
+    {
+      "word": "was",
+      "start": 65.562,
+      "end": 65.863,
+      "score": 0.566
+    },
+    {
+      "word": "in",
+      "start": 65.883,
+      "end": 66.043,
+      "score": 0.244
+    },
+    {
+      "word": "high",
+      "start": 66.063,
+      "end": 66.143,
+      "score": 0.035
+    },
+    {
+      "word": "school,",
+      "start": 66.163,
+      "end": 66.344,
+      "score": 0.307
+    },
+    {
+      "word": "when",
+      "start": 66.364,
+      "end": 66.464,
+      "score": 0.426
+    },
+    {
+      "word": "I",
+      "start": 66.484,
+      "end": 66.504,
+      "score": 0.958
+    },
+    {
+      "word": "was",
+      "start": 66.564,
+      "end": 66.644,
+      "score": 0.753
+    },
+    {
+      "word": "in",
+      "start": 66.704,
+      "end": 67.105,
+      "score": 0.36
+    },
+    {
+      "word": "high",
+      "start": 67.125,
+      "end": 67.205,
+      "score": 0.15
+    },
+    {
+      "word": "school,",
+      "start": 67.265,
+      "end": 67.525,
+      "score": 0.416
+    },
+    {
+      "word": "when",
+      "start": 67.565,
+      "end": 67.765,
+      "score": 0.481
+    },
+    {
+      "word": "I",
+      "start": 68.346,
+      "end": 68.366,
+      "score": 0.788
+    },
+    {
+      "word": "was",
+      "start": 68.486,
+      "end": 68.727,
+      "score": 0.318
+    },
+    {
+      "word": "in",
+      "start": 68.767,
+      "end": 68.847,
+      "score": 0.544
+    },
+    {
+      "word": "high",
+      "start": 69.007,
+      "end": 69.308,
+      "score": 0.567
+    },
+    {
+      "word": "school,",
+      "start": 70.289,
+      "end": 70.93,
+      "score": 0.573
+    },
+    {
+      "word": "when",
+      "start": 71.47,
+      "end": 71.851,
+      "score": 0.24
+    },
+    {
+      "word": "I",
+      "start": 71.871,
+      "end": 71.891,
+      "score": 0.416
+    },
+    {
+      "word": "was",
+      "start": 71.991,
+      "end": 72.151,
+      "score": 0.473
+    },
+    {
+      "word": "in",
+      "start": 72.171,
+      "end": 72.252,
+      "score": 0.788
+    },
+    {
+      "word": "high",
+      "start": 72.272,
+      "end": 72.412,
+      "score": 0.286
+    },
+    {
+      "word": "school,",
+      "start": 72.452,
+      "end": 72.892,
+      "score": 0.263
+    },
+    {
+      "word": "when",
+      "start": 72.912,
+      "end": 73.053,
+      "score": 0.368
+    },
+    {
+      "word": "I",
+      "start": 73.253,
+      "end": 73.273,
+      "score": 0.001
+    },
+    {
+      "word": "was",
+      "start": 73.293,
+      "end": 73.373,
+      "score": 0.345
+    },
+    {
+      "word": "in",
+      "start": 73.393,
+      "end": 73.433,
+      "score": 0.005
+    },
+    {
+      "word": "high",
+      "start": 73.453,
+      "end": 73.553,
+      "score": 0.161
+    },
+    {
+      "word": "school,",
+      "start": 73.573,
+      "end": 73.814,
+      "score": 0.287
+    },
+    {
+      "word": "when",
+      "start": 73.834,
+      "end": 73.914,
+      "score": 0.092
+    },
+    {
+      "word": "I",
+      "start": 73.934,
+      "end": 73.954,
+      "score": 0.033
+    },
+    {
+      "word": "was",
+      "start": 73.974,
+      "end": 74.154,
+      "score": 0.42
+    },
+    {
+      "word": "in",
+      "start": 74.174,
+      "end": 74.214,
+      "score": 0.006
+    },
+    {
+      "word": "high",
+      "start": 74.234,
+      "end": 74.374,
+      "score": 0.476
+    },
+    {
+      "word": "school,",
+      "start": 74.455,
+      "end": 75.816,
+      "score": 0.562
+    },
+    {
+      "word": "when",
+      "start": 76.097,
+      "end": 76.377,
+      "score": 0.43
+    },
+    {
+      "word": "I",
+      "start": 78.24,
+      "end": 78.26,
+      "score": 0.773
+    },
+    {
+      "word": "was",
+      "start": 78.54,
+      "end": 78.8,
+      "score": 0.587
+    },
+    {
+      "word": "in",
+      "start": 78.841,
+      "end": 78.921,
+      "score": 0.603
+    },
+    {
+      "word": "high",
+      "start": 78.981,
+      "end": 79.662,
+      "score": 0.546
+    },
+    {
+      "word": "school,",
+      "start": 79.682,
+      "end": 80.182,
+      "score": 0.687
+    },
+    {
+      "word": "when",
+      "start": 81.444,
+      "end": 81.684,
+      "score": 0.486
+    },
+    {
+      "word": "I",
+      "start": 82.125,
+      "end": 82.145,
+      "score": 0.0
+    },
+    {
+      "word": "was",
+      "start": 82.165,
+      "end": 82.245,
+      "score": 0.329
+    },
+    {
+      "word": "in",
+      "start": 82.285,
+      "end": 82.345,
+      "score": 0.525
+    },
+    {
+      "word": "high",
+      "start": 82.445,
+      "end": 82.706,
+      "score": 0.207
+    },
+    {
+      "word": "school,",
+      "start": 82.726,
+      "end": 82.866,
+      "score": 0.143
+    },
+    {
+      "word": "I",
+      "start": 82.978,
+      "end": 83.198,
+      "score": 0.538
+    },
+    {
+      "word": "think",
+      "start": 83.218,
+      "end": 83.539,
+      "score": 0.394
+    },
+    {
+      "word": "it's",
+      "start": 84.02,
+      "end": 84.1,
+      "score": 0.0
+    },
+    {
+      "word": "a",
+      "start": 84.12,
+      "end": 84.2,
+      "score": 0.645
+    },
+    {
+      "word": "creative",
+      "start": 84.22,
+      "end": 84.441,
+      "score": 0.146
+    },
+    {
+      "word": "thing",
+      "start": 84.461,
+      "end": 84.802,
+      "score": 0.243
+    },
+    {
+      "word": "and",
+      "start": 84.822,
+      "end": 84.922,
+      "score": 0.121
+    },
+    {
+      "word": "I",
+      "start": 84.942,
+      "end": 85.002,
+      "score": 0.525
+    },
+    {
+      "word": "think",
+      "start": 85.022,
+      "end": 85.283,
+      "score": 0.437
+    },
+    {
+      "word": "it's",
+      "start": 85.343,
+      "end": 85.483,
+      "score": 0.261
+    },
+    {
+      "word": "a",
+      "start": 85.503,
+      "end": 85.543,
+      "score": 0.35
+    },
+    {
+      "word": "very",
+      "start": 85.563,
+      "end": 85.703,
+      "score": 0.424
+    },
+    {
+      "word": "important",
+      "start": 85.744,
+      "end": 86.826,
+      "score": 0.338
+    },
+    {
+      "word": "thing",
+      "start": 86.846,
+      "end": 87.287,
+      "score": 0.356
+    },
+    {
+      "word": "for",
+      "start": 87.347,
+      "end": 87.447,
+      "score": 0.218
+    },
+    {
+      "word": "me.",
+      "start": 87.687,
+      "end": 87.828,
+      "score": 0.369
+    },
+    {
+      "word": "I",
+      "start": 87.848,
+      "end": 87.888,
+      "score": 0.335
+    },
+    {
+      "word": "think",
+      "start": 87.908,
+      "end": 88.329,
+      "score": 0.578
+    },
+    {
+      "word": "it's",
+      "start": 88.389,
+      "end": 88.529,
+      "score": 0.097
+    },
+    {
+      "word": "a",
+      "start": 88.549,
+      "end": 88.629,
+      "score": 0.63
+    },
+    {
+      "word": "very",
+      "start": 88.79,
+      "end": 89.05,
+      "score": 0.412
+    },
+    {
+      "word": "important",
+      "start": 89.07,
+      "end": 89.551,
+      "score": 0.304
+    },
+    {
+      "word": "thing",
+      "start": 90.433,
+      "end": 90.814,
+      "score": 0.448
+    },
+    {
+      "word": "for",
+      "start": 90.834,
+      "end": 90.994,
+      "score": 0.36
+    },
+    {
+      "word": "me.",
+      "start": 91.014,
+      "end": 91.235,
+      "score": 0.477
+    },
+    {
+      "word": "I",
+      "start": 91.255,
+      "end": 91.275,
+      "score": 0.001
+    },
+    {
+      "word": "think",
+      "start": 91.295,
+      "end": 91.515,
+      "score": 0.511
+    },
+    {
+      "word": "it's",
+      "start": 91.716,
+      "end": 91.896,
+      "score": 0.392
+    },
+    {
+      "word": "a",
+      "start": 92.377,
+      "end": 92.778,
+      "score": 0.825
+    },
+    {
+      "word": "very",
+      "start": 93.239,
+      "end": 93.419,
+      "score": 0.47
+    },
+    {
+      "word": "important",
+      "start": 93.519,
+      "end": 94.06,
+      "score": 0.422
+    },
+    {
+      "word": "thing",
+      "start": 94.08,
+      "end": 94.181,
+      "score": 0.002
+    },
+    {
+      "word": "for",
+      "start": 94.201,
+      "end": 94.301,
+      "score": 0.231
+    },
+    {
+      "word": "me.",
+      "start": 94.361,
+      "end": 94.521,
+      "score": 0.862
+    },
+    {
+      "word": "I",
+      "start": 94.541,
+      "end": 94.601,
+      "score": 0.353
+    },
+    {
+      "word": "think",
+      "start": 94.621,
+      "end": 94.742,
+      "score": 0.468
+    },
+    {
+      "word": "it's",
+      "start": 94.822,
+      "end": 94.962,
+      "score": 0.237
+    },
+    {
+      "word": "very",
+      "start": 94.982,
+      "end": 95.203,
+      "score": 0.271
+    },
+    {
+      "word": "important",
+      "start": 95.223,
+      "end": 95.443,
+      "score": 0.266
+    },
+    {
+      "word": "for",
+      "start": 95.463,
+      "end": 95.543,
+      "score": 0.191
+    },
+    {
+      "word": "me.",
+      "start": 95.563,
+      "end": 95.824,
+      "score": 0.714
+    },
+    {
+      "word": "I",
+      "start": 95.924,
+      "end": 95.944,
+      "score": 0.008
+    },
+    {
+      "word": "think",
+      "start": 95.964,
+      "end": 96.084,
+      "score": 0.558
+    },
+    {
+      "word": "it's",
+      "start": 96.104,
+      "end": 96.325,
+      "score": 0.068
+    },
+    {
+      "word": "a",
+      "start": 96.345,
+      "end": 96.425,
+      "score": 0.635
+    },
+    {
+      "word": "very",
+      "start": 96.806,
+      "end": 97.086,
+      "score": 0.271
+    },
+    {
+      "word": "important",
+      "start": 97.106,
+      "end": 97.547,
+      "score": 0.278
+    },
+    {
+      "word": "thing",
+      "start": 97.567,
+      "end": 97.668,
+      "score": 0.174
+    },
+    {
+      "word": "for",
+      "start": 97.688,
+      "end": 97.748,
+      "score": 0.179
+    },
+    {
+      "word": "me.",
+      "start": 97.768,
+      "end": 97.908,
+      "score": 0.578
+    },
+    {
+      "word": "I",
+      "start": 97.928,
+      "end": 97.988,
+      "score": 0.529
+    },
+    {
+      "word": "think",
+      "start": 98.008,
+      "end": 98.269,
+      "score": 0.135
+    },
+    {
+      "word": "it's",
+      "start": 98.289,
+      "end": 98.369,
+      "score": 0.183
+    },
+    {
+      "word": "a",
+      "start": 98.449,
+      "end": 98.589,
+      "score": 0.642
+    },
+    {
+      "word": "very",
+      "start": 98.93,
+      "end": 99.07,
+      "score": 0.358
+    },
+    {
+      "word": "important",
+      "start": 99.591,
+      "end": 100.012,
+      "score": 0.298
+    },
+    {
+      "word": "thing",
+      "start": 100.032,
+      "end": 100.233,
+      "score": 0.27
+    },
+    {
+      "word": "for",
+      "start": 100.293,
+      "end": 100.413,
+      "score": 0.185
+    },
+    {
+      "word": "me.",
+      "start": 100.433,
+      "end": 100.714,
+      "score": 0.695
+    },
+    {
+      "word": "I",
+      "start": 100.994,
+      "end": 101.094,
+      "score": 0.636
+    },
+    {
+      "word": "think",
+      "start": 101.114,
+      "end": 101.215,
+      "score": 0.014
+    },
+    {
+      "word": "it's",
+      "start": 101.255,
+      "end": 101.355,
+      "score": 0.112
+    },
+    {
+      "word": "a",
+      "start": 101.375,
+      "end": 101.395,
+      "score": 0.003
+    },
+    {
+      "word": "very",
+      "start": 101.415,
+      "end": 101.736,
+      "score": 0.52
+    },
+    {
+      "word": "important",
+      "start": 101.756,
+      "end": 102.257,
+      "score": 0.339
+    },
+    {
+      "word": "thing",
+      "start": 102.337,
+      "end": 102.437,
+      "score": 0.004
+    },
+    {
+      "word": "for",
+      "start": 102.457,
+      "end": 102.537,
+      "score": 0.324
+    },
+    {
+      "word": "me.",
+      "start": 102.557,
+      "end": 102.818,
+      "score": 0.788
+    },
+    {
+      "word": "I",
+      "start": 102.838,
+      "end": 102.858,
+      "score": 0.003
+    },
+    {
+      "word": "think",
+      "start": 102.878,
+      "end": 103.078,
+      "score": 0.311
+    },
+    {
+      "word": "it's",
+      "start": 103.098,
+      "end": 103.319,
+      "score": 0.455
+    },
+    {
+      "word": "a",
+      "start": 103.339,
+      "end": 103.499,
+      "score": 0.886
+    },
+    {
+      "word": "very",
+      "start": 103.96,
+      "end": 104.161,
+      "score": 0.591
+    },
+    {
+      "word": "important",
+      "start": 104.241,
+      "end": 104.601,
+      "score": 0.246
+    },
+    {
+      "word": "thing",
+      "start": 104.622,
+      "end": 104.722,
+      "score": 0.12
+    },
+    {
+      "word": "for",
+      "start": 104.742,
+      "end": 104.802,
+      "score": 0.0
+    },
+    {
+      "word": "me.",
+      "start": 104.822,
+      "end": 104.882,
+      "score": 0.333
+    },
+    {
+      "word": "I'm",
+      "start": 105.058,
+      "end": 105.399,
+      "score": 0.295
+    },
+    {
+      "word": "going",
+      "start": 105.419,
+      "end": 106.34,
+      "score": 0.62
+    },
+    {
+      "word": "to",
+      "start": 106.46,
+      "end": 106.68,
+      "score": 0.476
+    },
+    {
+      "word": "share",
+      "start": 106.781,
+      "end": 106.981,
+      "score": 0.64
+    },
+    {
+      "word": "with",
+      "start": 107.001,
+      "end": 107.201,
+      "score": 0.456
+    },
+    {
+      "word": "you",
+      "start": 107.382,
+      "end": 107.702,
+      "score": 0.597
+    },
+    {
+      "word": "a",
+      "start": 107.722,
+      "end": 107.802,
+      "score": 0.426
+    },
+    {
+      "word": "couple",
+      "start": 107.822,
+      "end": 108.163,
+      "score": 0.285
+    },
+    {
+      "word": "of",
+      "start": 108.243,
+      "end": 108.483,
+      "score": 0.389
+    },
+    {
+      "word": "things.",
+      "start": 108.503,
+      "end": 109.124,
+      "score": 0.284
+    },
+    {
+      "word": "I'm",
+      "start": 109.144,
+      "end": 109.264,
+      "score": 0.29
+    },
+    {
+      "word": "going",
+      "start": 109.304,
+      "end": 109.605,
+      "score": 0.609
+    },
+    {
+      "word": "to",
+      "start": 109.625,
+      "end": 109.725,
+      "score": 0.564
+    },
+    {
+      "word": "share",
+      "start": 109.745,
+      "end": 110.026,
+      "score": 0.466
+    },
+    {
+      "word": "with",
+      "start": 110.086,
+      "end": 110.206,
+      "score": 0.144
+    },
+    {
+      "word": "you",
+      "start": 110.226,
+      "end": 110.446,
+      "score": 0.51
+    },
+    {
+      "word": "a",
+      "start": 110.486,
+      "end": 110.546,
+      "score": 0.611
+    },
+    {
+      "word": "couple",
+      "start": 110.847,
+      "end": 110.967,
+      "score": 0.008
+    },
+    {
+      "word": "of",
+      "start": 110.987,
+      "end": 111.027,
+      "score": 0.412
+    },
+    {
+      "word": "things.",
+      "start": 111.227,
+      "end": 111.708,
+      "score": 0.332
+    },
+    {
+      "word": "I'm",
+      "start": 111.768,
+      "end": 112.209,
+      "score": 0.509
+    },
+    {
+      "word": "going",
+      "start": 112.289,
+      "end": 112.89,
+      "score": 0.647
+    },
+    {
+      "word": "to",
+      "start": 113.11,
+      "end": 113.25,
+      "score": 0.805
+    },
+    {
+      "word": "share",
+      "start": 113.331,
+      "end": 113.992,
+      "score": 0.581
+    },
+    {
+      "word": "with",
+      "start": 114.012,
+      "end": 114.152,
+      "score": 0.628
+    },
+    {
+      "word": "you",
+      "start": 114.753,
+      "end": 115.574,
+      "score": 0.542
+    },
+    {
+      "word": "a",
+      "start": 115.674,
+      "end": 115.734,
+      "score": 0.509
+    },
+    {
+      "word": "couple",
+      "start": 116.175,
+      "end": 117.377,
+      "score": 0.622
+    },
+    {
+      "word": "of",
+      "start": 117.457,
+      "end": 117.877,
+      "score": 0.39
+    },
+    {
+      "word": "things.",
+      "start": 117.898,
+      "end": 118.338,
+      "score": 0.282
+    },
+    {
+      "word": "I'm",
+      "start": 118.418,
+      "end": 118.699,
+      "score": 0.363
+    },
+    {
+      "word": "going",
+      "start": 118.859,
+      "end": 118.999,
+      "score": 0.385
+    },
+    {
+      "word": "to",
+      "start": 119.019,
+      "end": 119.079,
+      "score": 0.866
+    },
+    {
+      "word": "share",
+      "start": 119.179,
+      "end": 119.72,
+      "score": 0.492
+    },
+    {
+      "word": "with",
+      "start": 119.74,
+      "end": 120.041,
+      "score": 0.282
+    },
+    {
+      "word": "you",
+      "start": 120.281,
+      "end": 120.341,
+      "score": 0.246
+    },
+    {
+      "word": "a",
+      "start": 120.401,
+      "end": 120.602,
+      "score": 0.377
+    },
+    {
+      "word": "couple",
+      "start": 120.622,
+      "end": 120.822,
+      "score": 0.264
+    },
+    {
+      "word": "of",
+      "start": 120.862,
+      "end": 121.022,
+      "score": 0.596
+    },
+    {
+      "word": "things.",
+      "start": 121.142,
+      "end": 121.543,
+      "score": 0.36
+    },
+    {
+      "word": "I'm",
+      "start": 121.563,
+      "end": 121.643,
+      "score": 0.192
+    },
+    {
+      "word": "going",
+      "start": 121.703,
+      "end": 121.864,
+      "score": 0.112
+    },
+    {
+      "word": "to",
+      "start": 121.884,
+      "end": 121.924,
+      "score": 0.361
+    },
+    {
+      "word": "share",
+      "start": 122.224,
+      "end": 122.424,
+      "score": 0.471
+    },
+    {
+      "word": "with",
+      "start": 122.464,
+      "end": 122.665,
+      "score": 0.442
+    },
+    {
+      "word": "you",
+      "start": 122.705,
+      "end": 123.085,
+      "score": 0.492
+    },
+    {
+      "word": "a",
+      "start": 123.186,
+      "end": 123.246,
+      "score": 0.71
+    },
+    {
+      "word": "couple",
+      "start": 123.266,
+      "end": 123.606,
+      "score": 0.365
+    },
+    {
+      "word": "of",
+      "start": 123.646,
+      "end": 123.686,
+      "score": 0.106
+    },
+    {
+      "word": "things.",
+      "start": 123.706,
+      "end": 123.947,
+      "score": 0.466
+    },
+    {
+      "word": "I'm",
+      "start": 124.247,
+      "end": 124.367,
+      "score": 0.397
+    },
+    {
+      "word": "going",
+      "start": 124.608,
+      "end": 124.788,
+      "score": 0.496
+    },
+    {
+      "word": "to",
+      "start": 125.369,
+      "end": 125.569,
+      "score": 0.486
+    },
+    {
+      "word": "share",
+      "start": 125.709,
+      "end": 126.33,
+      "score": 0.393
+    },
+    {
+      "word": "with",
+      "start": 126.43,
+      "end": 126.591,
+      "score": 0.312
+    },
+    {
+      "word": "you",
+      "start": 126.811,
+      "end": 127.352,
+      "score": 0.418
+    },
+    {
+      "word": "a",
+      "start": 127.492,
+      "end": 127.592,
+      "score": 0.883
+    },
+    {
+      "word": "couple",
+      "start": 127.853,
+      "end": 128.333,
+      "score": 0.373
+    },
+    {
+      "word": "of",
+      "start": 128.414,
+      "end": 128.514,
+      "score": 0.473
+    },
+    {
+      "word": "things.",
+      "start": 128.614,
+      "end": 128.754,
+      "score": 0.042
+    }
+  ]
+}
